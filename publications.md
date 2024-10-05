@@ -8,7 +8,7 @@ Here is a list of my publications, starting with the most recent:
 
 ## S1. Lateral line hair cells integrate mechanical and chemical cues to orient navigation
 - Laura Desban, Julian Roussel, Olivier Mirat, François-Xavier Lejeune, **Ludovic Keiser**, Nicolas Antoine Michalski, Claire Wyart
-- bioRxiv
+- *bioRxiv*
 
   [Link to article](https://doi.org/10.1101/2022.08.31.505989) | [PDF](publications/Desban2022_bioArXiv.pdf)
 
@@ -16,7 +16,7 @@ Here is a list of my publications, starting with the most recent:
 
 ## 15. Embolism propagation in Adiantum leaves and in a biomimetic system with constrictions
 - **Ludovic Keiser**, Benjamin Dollet, Philippe Marmottant
-- Journal of the Royal Society Interface, 21 (217): 20240103
+- *Journal of the Royal Society Interface*, 21 (217): 20240103
 - 2024
 
    [Link to article](https://doi.org/10.1098/rsif.2024.0103) | [PDF](publications/Keiser2024_JRSI.pdf)
@@ -111,7 +111,7 @@ Olivier Thouvenin, **Ludovic Keiser**, Yasmine Cantaut-Belarif, Martin Carbo-Tan
 
 ## 2. Drop friction on liquid-infused materials
 - Armelle Keiser, **Ludovic Keiser**, Christophe Clanet, David Quéré
-- Soft Matter, 13, (39): 6981-6987
+- *Soft Matter*, 13, (39): 6981-6987
 - 2017
 
   [Link to article](https://doi.org/10.1039/C7SM01226H) | [PDF](publications/Keiser2017_Soft_Matter.pdf)
@@ -126,4 +126,9 @@ Olivier Thouvenin, **Ludovic Keiser**, Yasmine Cantaut-Belarif, Martin Carbo-Tan
 
 # Patent
 
+## Blood condition analyzing device, blood condition analyzing system, and blood condition analyzing program
+- Marc-Aurèle Brun, Yoshihito Hayashi, **Ludovic Keiser**
+- *US Patent*, 10527605
+- 2020
 
+  [Link to article](https://patents.google.com/patent/US10527605B2/en) | [PDF](publications/Keiser2020_USPatent)
