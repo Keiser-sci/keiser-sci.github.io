@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/images/Marangoni_bursting.png" alt="Marangoni Bursting Image" style="height: 150px; width: auto;">
+    <img src="/images/Marangoni bursting.png" alt="Marangoni Bursting Image" style="height: 150px; width: auto;">
     <img src="/images/Helical_drainage1.jpg" alt="Helical Drainage Image" style="height: 150px; width: auto;">
     <img src="/images/Leaves_embolized.png" alt="Embolized Leaves Image" style="height: 150px; width: auto;">
 </div>
