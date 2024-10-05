@@ -6,7 +6,7 @@ Here is a list of my publications, starting with the most recent:
 
 Submitted
 
-## A. Lateral line hair cells integrate mechanical and chemical cues to orient navigation
+## S1. Lateral line hair cells integrate mechanical and chemical cues to orient navigation
 - Laura Desban, Julian Roussel, Olivier Mirat, François-Xavier Lejeune, **Ludovic Keiser**, Nicolas Antoine Michalski, Claire Wyart
 - bioRxiv
 
