@@ -1,1 +1,12 @@
 theme: jekyll-theme-modernist
+# Set the site title and description to empty to avoid displaying them
+title: ""
+description: ""
+
+# Remove author information (often displayed in the footer)
+author: ""
+
+# Custom settings specific to some themes
+show_header: false
+show_nav: false
+show_footer: false
