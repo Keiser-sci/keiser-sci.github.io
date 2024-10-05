@@ -1,9 +1,9 @@
-/* Hide the header, title, and navigation */
-.site-header, .site-title, .site-nav {
-    display: none;
+/* Forcefully hide the site header, navigation, and footer */
+.site-header, .site-title, .site-nav, .site-footer {
+    display: none !important;
 }
 
-/* Hide the footer */
-.site-footer {
-    display: none;
+/* Optional: Adjust the padding for the main content */
+.main-content {
+    padding: 20px !important;
 }
