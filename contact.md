@@ -1,3 +1,5 @@
+[Home](index.md) | [Publications](publications.md) | [Contact](contact.md)
+
 I conduct research at Institut de Physique de Nice, located in Nice, France.
 
 Address: 
