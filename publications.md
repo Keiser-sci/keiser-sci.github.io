@@ -23,11 +23,12 @@ Here is a list of my publications, starting with the most recent:
 - 2023
 - [Link to Article](https://doi.org/10.1103/PhysRevFluids.8.054201) | [PDF](publications/Zhou2023_PRF.pdf)
 
-## 12. Title of the 12th Article
-- **Authors**: Ludovic Keiser, Co-author Name
-- **Journal**: Journal Name, Volume, Pages
-- **Year**: 2022
-- [Link to Article](link_to_article_12) | [PDF](path/to/pdf12.pdf)
+## 12. CSF-contacting neurons respond to Streptococcus pneumoniae and promote host survival during central nervous system infection
+
+ - Andrew E Prendergast, Kin Ki Jim, Hugo Marnas, Laura Desban, Feng B Quan, Lydia Djenoune, Valerio Laghi, Agnès Hocquemiller, Elias T. Lunsford, Julian Roussel, **Ludovic Keiser**, Francois-Xavier Lejeune, Mahalakshmi Dhanasekar, Pierre-Luc Bardet, Jean-Pierre Levraud, Diederik van de Beek, Christina M.J.E. Vandenbroucke-Grauls, Claire Wyart
+- *Current biology*, 33 (5):940-956.e10
+- 2023
+- [Link to Article](https://doi.org/10.1016/j.cub.2023.01.039) | [PDF](publications/Prendergast2023.pdf)
 
 ## 11. Title of the 11th Article
 - **Authors**: Ludovic Keiser, Co-author Name
