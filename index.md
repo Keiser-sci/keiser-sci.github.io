@@ -13,8 +13,8 @@ Welcome to my personal research page. Here, you'll find information about my wor
 - Plant hydrodynamics
 
 ## Recent Publications
-1. [Title of Article 1](link_to_article_1)
-2. [Title of Article 2](link_to_article_2)
+1. [Embolism propagation in Adiantum leaves and in a biomimetic system with constrictions](/publications/Keiser2024_JRSI.pdf)
+2. [Releasing trapped Taylor bubbles via centrifugation and inclination](/publications/Marcotte2024_JFM.pdf)
 
 ## Contact
 You can reach me at: ludovic.keiser[at]univ-cotedazur.fr
