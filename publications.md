@@ -18,6 +18,12 @@ title: "Publications"
     <div id="abstractS1" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> The lateral line is a superficial sensory system responding to environmental hydrodynamic changes to orient locomotion of aquatic vertebrate species. Whether this system also detects chemical cues is unknown. We find that zebrafish lateral line hair cells express numerous chemoreceptors, including ionotropic receptors for serotonin. We show that the serotonin enriched in skin neuroepithelial cells is released upon injury and that environmental serotonin activates lateral line hair cells. We show that larval zebrafish exposed to serotonin in their environment rely on the lateral line to swim fast and away. These results uncover the sensory versatility of lateral line hair cells and how these properties modulate navigation in response to environmental stimuli.
     </div>
+
+      <!-- Publication Image Section -->
+    <div style="flex: 1; text-align: right;">
+        <img src="/images/Desban2022.jpg" alt="Embossed Leaf Image" style="height: 80px; width: auto; object-fit: contain;">
+    </div>
+    
 </li>
 
 <strong>Published</strong>
