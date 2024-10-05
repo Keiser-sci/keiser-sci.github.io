@@ -39,7 +39,7 @@ Here is a list of my publications, starting with the most recent:
 ## 12. CSF-contacting neurons respond to Streptococcus pneumoniae and promote host survival during central nervous system infection
 
 - Andrew E Prendergast, Kin Ki Jim, Hugo Marnas, Laura Desban, Feng B Quan, Lydia Djenoune, Valerio Laghi, Agnès Hocquemiller, Elias T. Lunsford, Julian Roussel, **Ludovic Keiser**, Francois-Xavier Lejeune, Mahalakshmi Dhanasekar, Pierre-Luc Bardet, Jean-Pierre Levraud, Diederik van de Beek, Christina M.J.E. Vandenbroucke-Grauls, Claire Wyart
-  *Current biology*, 33 (5):940-956.e10
+- *Current biology*, 33 (5):940-956.e10
 - 2023
 
   [Link to article](https://doi.org/10.1016/j.cub.2023.01.039) | [PDF](publications/Prendergast2023.pdf)
@@ -116,7 +116,7 @@ Olivier Thouvenin, **Ludovic Keiser**, Yasmine Cantaut-Belarif, Martin Carbo-Tan
 
   [Link to article](https://doi.org/10.1039/C7SM01226H) | [PDF](publications/Keiser2017_Soft_Matter.pdf)
 
-## Washing wedges: capillary instability in a gradient of confinement
+## 1. Washing wedges: capillary instability in a gradient of confinement
 - **Ludovic Keiser**, Rémy Herbaut, José Bico, Etienne Reyssat
 - *Journal of Fluid Mechanics*, 790, 619-633
 - 2016
