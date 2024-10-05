@@ -180,7 +180,8 @@ title: "Publications"
     <strong>[2] Drop friction on liquid-infused materials.</strong><br>
     <span style="font-size: 0.9em;">Armelle Keiser, Ludovic Keiser, Christophe Clanet, David Quéré</span><br>
     <em>Soft Matter</em> 13 (39): 6981-6987 (2017) 
-    [<a href="https://doi.org/10.1039/C7SM01226H">PDF</a>] 
+    [<a href="https://doi.org/10.1039/C7SM01226H">Publisher</a>] 
+    [<a href="publications/Keiser2017_Soft_Matter.pdf">PDF</a>] 
     [<button onclick="toggleAbstract('abstract2')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract2" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> We discuss in this paper the nature of the friction generated as a drop glides on a textured material infused by another liquid. Different regimes are found, depending on the viscosities of both liquids. While a viscous drop simply obeys a Stokes-type friction, the force opposing a drop moving on a viscous substrate becomes non-linear in velocity. A liquid on an infused material is surrounded by a meniscus, and this specific feature is proposed to be responsible for the special frictions observed on both adhesive and non-adhesive substrates.
@@ -191,7 +192,8 @@ title: "Publications"
     <strong>[1] Washing wedges: capillary instability in a gradient of confinement.</strong><br>
     <span style="font-size: 0.9em;">Ludovic Keiser, Rémy Herbaut, José Bico, Étienne Reyssat</span><br>
     <em>Journal of Fluid Mechanics</em> 790: 619-633 (2016) 
-    [<a href="https://doi.org/10.1017/jfm.2016.1">PDF</a>] 
+    [<a href="https://doi.org/10.1017/jfm.2016.1">Publisher</a>] 
+    [<a href="publications/Keiser2016_JFM.pdf">PDF</a>] 
     [<button onclick="toggleAbstract('abstract1')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract1" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> We present experimental results on the extraction of oil trapped in the confined region of a wedge. Upon addition of a more wetting liquid, we observe that oil fingers develop into this extracting liquid. The fingers eventually pinch off and form droplets that are driven away from the apex of the wedge by surface tension along the gradient of confinement. During an experiment, we observe that the size of the expelled oil droplets decreases as the unstable front recedes towards the wedge. We show how this size can be predicted from a linear stability analysis reminiscent of the classical Saffman–Taylor instability. However, the standard balance of capillary and bulk viscous dissipation does not account for the dynamics found in our experiments, leaving as an open question the detailed theoretical description of the instability.
@@ -206,7 +208,7 @@ title: "Publications"
     <strong>Blood condition analyzing device, blood condition analyzing system, and blood condition analyzing program.</strong><br>
     <span style="font-size: 0.9em;">Marc-Aurèle Brun, Yoshihito Hayashi, Ludovic Keiser</span><br>
     <em>US Patent</em> 10527605 (2020) 
-    [<a href="https://patents.google.com/patent/US10527605B2/en">Link to patent</a>] 
+    [<a href="https://patents.google.com/patent/US10527605B2/en">Publisher</a>] 
     [<a href="publications/Keiser2020_USPatent.pdf">PDF</a>] 
     [<button onclick="toggleAbstract('abstractPatent')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstractPatent" style="display:none; margin-top: 10px; font-size: 0.9em;">
