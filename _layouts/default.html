@@ -25,4 +25,97 @@
 
         /* Header Styles */
         .header {
-            back
+            background-color: #007acc;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        /* Navigation Styles */
+        .nav {
+            background-color: #333;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .nav a {
+            color: #fff;
+            margin: 0 15px;
+            font-size: 1.1em;
+        }
+
+        .nav a:hover {
+            text-decoration: underline;
+        }
+
+        /* Main Content Styles */
+        .container {
+            width: 60%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #007acc;
+        }
+
+        /* Footer Styles */
+        .footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #007acc;
+            color: #fff;
+            margin-top: 20px;
+            font-size: 0.9em;
+        }
+
+        /* Additional Modernist Style Elements */
+        .container p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+
+        /* Links within the content */
+        a {
+            color: #007acc;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header Section -->
+    <div class="header">
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
+    </div>
+
+    <!-- Navigation Bar -->
+    <div class="nav">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/publications/' | relative_url }}">Publications</a>
+        <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    </div>
+
+    <!-- Main Content Area -->
+    <div class="container">
+        {{ content }}
+    </div>
+
+    <!-- Footer Section -->
+    <div class="footer">
+        <p>&copy; {{ site.author }} - {{ 'now' | date: "%Y" }}</p>
+        <p>All rights reserved.</p>
+    </div>
+</body>
+</html>
