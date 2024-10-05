@@ -11,12 +11,17 @@ Here is a list of my publications, starting with the most recent:
 <div style="margin-top: 20px; font-size: 1em; line-height: 1.4;">
 
 ### **Submitted**
-<ul style="list-style-type: none; padding: 0;">
-    <li style="margin-bottom: 15px;">
-        <strong>[S1] Lateral line hair cells integrate mechanical and chemical cues to orient navigation.</strong><br>
-        <span style="font-size: 0.9em;">Laura Desban, Julian Roussel, Olivier Mirat, François-Xavier Lejeune, <strong>Ludovic Keiser</strong>, Nicolas Antoine Michalski, Claire Wyart</span><br>
-        <em>bioRxiv</em> [<a href="https://doi.org/10.1101/2022.08.31.505989">Publisher</a>] [<a href="publications/Desban2022_bioArXiv.pdf">PDF</a>]
-    </li>
+<li style="margin-bottom: 15px;">
+    <strong>[S1] Lateral line hair cells integrate mechanical and chemical cues to orient navigation.</strong><br>
+    <span style="font-size: 0.9em;">Laura Desban, Julian Roussel, Olivier Mirat, François-Xavier Lejeune, <strong>Ludovic Keiser</strong>, Nicolas Antoine Michalski, Claire Wyart</span><br>
+    <em>bioRxiv</em> (Submitted) 
+    [<a href="https://doi.org/10.1101/2022.08.31.505989">PDF</a>] 
+    [<button onclick="toggleAbstract('abstractS1')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
+    <div id="abstractS1" style="display:none; margin-top: 10px; font-size: 0.9em;">
+        <strong>Abstract:</strong> This study investigates how lateral line hair cells integrate various mechanical and chemical cues to guide navigation, shedding light on sensory processing in aquatic vertebrates...
+    </div>
+</li>
+
 </ul>
 
 ### **Published**
@@ -26,7 +31,7 @@ Here is a list of my publications, starting with the most recent:
         <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Benjamin Dollet, Philippe Marmottant</span><br>
         <em>Journal of the Royal Society Interface</em> [<a href="https://doi.org/10.1098/rsif.2024.0103">Publisher</a>] [<a href="publications/Keiser2024_JRSI.pdf">PDF</a>] [<button onclick="toggleAbstract('abstract2')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
         <div id="abstract2" style="display:none; margin-top: 10px; font-size: 0.9em;">
-            <strong>Abstract:</strong> This study focuses on embolism propagation in Adiantum leaves, providing insights into fluid dynamics within plant systems...
+            <strong>Abstract:</strong> Drought poses a significant threat to forest survival worldwide by potentially generating air bubbles that obstruct sap transport within plants’ hydraulic systems. However, the detailed mechanism of air entry and propagation at the scale of the veins remains elusive. Building upon a biomimetic model of leaf which we developed, we propose a direct comparison of the air embolism propagation in Adiantum (maidenhair fern) leaves, presented in Brodribb et al. (Brodribb TJ, Bienaimé D, Marmottant P. 2016 Revealing catastrophic failure of leaf networks under stress. Proc. Natl Acad. Sci. USA 113, 4865–4869 (doi:10.1073/pnas.1522569113)) and in our biomimetic leaves. In particular, we evidence that the jerky dynamics of the embolism propagation observed in Adiantum leaves can be recovered through the introduction of micrometric constrictions in the section of our biomimetic veins, mimicking the nanopores present in the bordered pit membranes in real leaves. We show that the intermittency in the propagation can be retrieved by a simple model coupling the variations of pressure induced by the constrictions and the variations of the volume of the compliant microchannels. Our study marks a step with the design of a biomimetic leaf that reproduces particular aspects of embolism propagation in real leaves, using a minimal set of controllable and readily tunable components. This biomimetic leaf constitutes a promising physical analogue and sets the stage for future enhancements to fully embody the unique physical features of embolizing real leaves.
         </div>
         </li>
 <li style="margin-bottom: 15px;">
@@ -36,7 +41,7 @@ Here is a list of my publications, starting with the most recent:
     [<a href="https://doi.org/10.48550/arXiv.2404.17934">PDF</a>] 
     [<button onclick="toggleAbstract('abstract14')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract14" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> This paper explores the dynamics of long bubbles in thin capillaries under various conditions...
+        <strong>Abstract:</strong> In confined systems, the entrapment of a gas volume with an equivalent spherical diameter greater than the dimension of the channel can form extended bubbles that obstruct fluid circuits and compromise performance. Notably, in sealed vertical tubes, buoyant long bubbles -- called Taylor bubbles -- cannot rise if the inner tube radius is below a critical value near the capillary length. This critical threshold for steady ascent is determined by geometric constraints related to matching the upper cap shape with the lubricating film in the elongated part of the bubble. Developing strategies to overcome this threshold and release stuck bubbles is essential for applications involving narrow liquid channels. Effective strategies involve modifying matching conditions with an external force field to facilitate bubble ascent. However, it's unclear how changes in acceleration conditions affect the motion onset of buoyancy-driven long bubbles. This study investigates the mobility of elongated bubbles in sealed tubes with an inner radius near the critical value inhibiting bubble motion in a vertical setting. Two strategies are explored to tune bubble motion, leveraging variations in axial and transversal accelerations: tube rotation around its axis and tube inclination relative to gravity. By revising the geometrical constraints of the simple vertical setting, the study predicts new thresholds based on rotational speed and tilt angle, respectively, providing forecasts for the bubble rising velocity under modified apparent gravity. Experimental measurements of motion threshold and rising velocity compare well with theoretical developments, thus suggesting practical approaches to control and tune bubble motion in confined environments.
     </div>
     </li>
     
@@ -168,7 +173,7 @@ Here is a list of my publications, starting with the most recent:
     [<a href="https://doi.org/10.1039/C7SM01226H">PDF</a>] 
     [<button onclick="toggleAbstract('abstract2')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract2" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> This study investigates the friction behavior of drops on liquid-infused materials, revealing unique properties...
+        <strong>Abstract:</strong> We discuss in this paper the nature of the friction generated as a drop glides on a textured material infused by another liquid. Different regimes are found, depending on the viscosities of both liquids. While a viscous drop simply obeys a Stokes-type friction, the force opposing a drop moving on a viscous substrate becomes non-linear in velocity. A liquid on an infused material is surrounded by a meniscus, and this specific feature is proposed to be responsible for the special frictions observed on both adhesive and non-adhesive substrates.
     </div>
 </li>
 
