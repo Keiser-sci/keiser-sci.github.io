@@ -24,7 +24,10 @@ Here is a list of my publications, starting with the most recent:
     <li style="margin-bottom: 15px;">
         <strong>[15] Embolism propagation in Adiantum leaves and in a biomimetic system with constrictions (2024).</strong><br>
         <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Benjamin Dollet, Philippe Marmottant</span><br>
-        <em>Journal of the Royal Society Interface</em> [<a href="https://doi.org/10.1098/rsif.2024.0103">Publisher</a>] [<a href="publications/Keiser2024_JRSI.pdf">PDF</a>]
+        <em>Journal of the Royal Society Interface</em> [<a href="https://doi.org/10.1098/rsif.2024.0103">Publisher</a>] [<a href="publications/Keiser2024_JRSI.pdf">PDF</a>] [<button onclick="toggleAbstract('abstract2')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
+        <div id="abstract2" style="display:none; margin-top: 10px; font-size: 0.9em;">
+            <strong>Abstract:</strong> This study focuses on embolism propagation in Adiantum leaves, providing insights into fluid dynamics within plant systems...
+        </div>
     </li>
     <li style="margin-bottom: 15px;">
         <strong>[14] Releasing long bubbles trapped in thin capillaries via tube centrifugation and inclination (2024).</strong><br>
@@ -113,3 +116,15 @@ Here is a list of my publications, starting with the most recent:
 </ul>
 
 </div>
+
+<!-- JavaScript to toggle abstracts -->
+<script>
+    function toggleAbstract(id) {
+        var element = document.getElementById(id);
+        if (element.style.display === "none") {
+            element.style.display = "block";
+        } else {
+            element.style.display = "none";
+        }
+    }
+</script>
