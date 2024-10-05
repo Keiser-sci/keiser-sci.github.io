@@ -3,9 +3,12 @@ layout: default
 title: "Publications"
 ---
 
-I conduct research at [Institut de Physique de Nice](https://inphyni.univ-cotedazur.eu), located in Nice, France. In my institute, I belong to the [MIMIC](https://inphyni.univ-cotedazur.eu/sites/mimic) and Complex Fluids teams. 
+I conduct research at the [Institut de Physique de Nice](https://inphyni.univ-cotedazur.eu) in Nice, France, where I am a member of the [MIMIC](https://inphyni.univ-cotedazur.eu/sites/mimic) and Complex Fluids teams.
 
-Address: Institut de Physique de Nice, 17 rue Julien Lauprêtre, 06200 Nice, France
+**Address:**  
+Institut de Physique de Nice  
+17 rue Julien Lauprêtre  
+06200 Nice, France
 
 [Find me on Maps](https://maps.app.goo.gl/n6TT2zaq1ujx7GY29)
 
