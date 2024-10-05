@@ -52,7 +52,7 @@ Here is a list of my publications, starting with the most recent:
     [<a href="https://doi.org/10.1103/PhysRevFluids.8.054201">PDF</a>] 
     [<button onclick="toggleAbstract('abstract13')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract13" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> This study investigates the breakup dynamics of droplets in T-junctions due to surface tension effects...
+        <strong>Abstract:</strong> Droplet breakup is an important phenomenon in the field of microfluidics to generate daughter droplets. In this work, a novel breakup regime in the widely studied T-junction geometry is reported, where the pinch-off occurs laterally in the two outlet channels, leading to the formation of three daughter droplets, rather than at the center of the junction for conventional T-junctions which leads to two daughter droplets. It is demonstrated that this new mechanism is driven by surface tension, and a design rule for the T-junction geometry is proposed. A model for low values of the capillary number Ca is developed to predict the formation and growth of an underlying carrier fluid pocket that accounts for this lateral breakup mechanism. At higher values of Ca, the conventional regime of central breakup becomes dominant again. The competition between the new and the conventional regime is explored. Altogether, this novel droplet formation method at T-junction provides the functionality of alternating droplet size and composition, which can be important for the design of new microfluidic tools.
     </div>
 </li>
 
