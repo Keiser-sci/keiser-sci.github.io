@@ -7,7 +7,7 @@ title: "Publications"
 
 <div style="margin-top: 20px; font-size: 1em; line-height: 1.4;">
 
-**Submitted**
+<strong>Submitted</strong>
 
 <li style="margin-bottom: 15px;">
     <strong>[S1] Lateral line hair cells integrate mechanical and chemical cues to orient navigation.</strong><br>
@@ -33,7 +33,7 @@ title: "Publications"
         </li>
 <li style="margin-bottom: 15px;">
     <strong>[14] Releasing long bubbles trapped in thin capillaries via tube centrifugation and inclination.</strong><br>
-    <span style="font-size: 0.9em;">Alice Marcotte, Pier Giuseppe Ledda, Valentin Buriasco, Paul Dené, François Gallaire, Ludovic Keiser</span><br>
+    <span style="font-size: 0.9em;">Alice Marcotte, Pier Giuseppe Ledda, Valentin Buriasco, Paul Dené, François Gallaire, <strong>Ludovic Keiser</strong></span><br>
     <em>Journal of Fluid Mechanics</em>, in press (2024) 
     [<a href="https://doi.org/10.48550/arXiv.2404.17934">Publisher</a>] 
     [<a href="publications/Marcotte2024_JFMbis.pdf">PDF</a>] 
@@ -45,7 +45,7 @@ title: "Publications"
     
    <li style="margin-bottom: 15px;">
     <strong>[13] Breaking one into three: surface-tension-driven droplet breakup in T-junctions.</strong><br>
-    <span style="font-size: 0.9em;">Jiande Zhou, Yves-Marie Ducimetière, Daniel Migliozzi, Ludovic Keiser, Arnaud Bertsch, François Gallaire, Philippe Renaud</span><br>
+    <span style="font-size: 0.9em;">Jiande Zhou, Yves-Marie Ducimetière, Daniel Migliozzi,<strong>Ludovic Keiser</strong>, Arnaud Bertsch, François Gallaire, Philippe Renaud</span><br>
     <em>Physical Review Fluids</em> 8 (5): 054201 (2023) 
      [<a href="https://doi.org/10.1103/PhysRevFluids.8.054201">Publisher</a>] 
     [<a href="publications/Zhou2023_PRF.pdf">PDF</a>] 
@@ -57,7 +57,7 @@ title: "Publications"
 
    <li style="margin-bottom: 15px;">
     <strong>[12] CSF-contacting neurons respond to Streptococcus pneumoniae and promote host survival during central nervous system infection.</strong><br>
-    <span style="font-size: 0.9em;">Andrew E Prendergast, Kin Ki Jim, Hugo Marnas, Laura Desban, Feng B Quan, Lydia Djenoune, Valerio Laghi, Agnès Hocquemiller, Elias T. Lunsford, Julian Roussel, Ludovic Keiser, et al.</span><br>
+    <span style="font-size: 0.9em;">Andrew E Prendergast, Kin Ki Jim, Hugo Marnas, Laura Desban, Feng B Quan, Lydia Djenoune, Valerio Laghi, Agnès Hocquemiller, Elias T. Lunsford, Julian Roussel, <strong>Ludovic Keiser</strong>, et al.</span><br>
     <em>Current Biology</em> 33 (5): 940-956.e10 (2023) 
     [<a href="https://doi.org/10.1016/j.cub.2023.01.039">Publisher</a>] 
     [<a href="publications/Prendergast2023.pdf">PDF</a>] 
