@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="/images/Marangoni bursting.png" alt="Header Image" style="height: 200px; width: auto;">
     <img src="/images/Helical_drainage1.jpg" alt="Header Image" style="height: 200px; width: auto;">
