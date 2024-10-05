@@ -1,3 +1,6 @@
+<img src="/images/Marangoni bursting.png" alt="Header Image" style="display: block; margin: 0 auto; width: 50%; height: auto;">
+
+
 [Home](index.md) | [Publications](publications.md) | [Contact](contact.md)
 
 # Ludovic's Research
