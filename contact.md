@@ -1,6 +1,6 @@
 [Home](index.md) | [Publications](publications.md) | [Contact](contact.md)
 
-I conduct research at Institut de Physique de Nice, located in Nice, France.
+I conduct research at [Institut de Physique de Nice](https://inphyni.univ-cotedazur.eu), located in Nice, France. In my institute, I belong to the [MIMIC](https://inphyni.univ-cotedazur.eu/sites/mimic) and Complex Fluids teams. 
 
 Address: Institut de Physique de Nice, 17 rue Julien Lauprêtre, 06200 Nice, France
 
