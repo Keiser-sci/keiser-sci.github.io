@@ -50,23 +50,23 @@ Here is a list of my publications, starting with the most recent:
 - 2021
 - [Link to article](https://doi.org/10.21769/BioProtoc.3932) | [PDF](publications/Thouvenin2021_Bioprotocol.pdf)
 
-## 8. Title of the 8th Article
-- **Authors**: Ludovic Keiser, Co-author Name
-- **Journal**: Journal Name, Volume, Pages
-- **Year**: 2020
-- [Link to article](link_to_article_8) | [PDF](path/to/pdf8.pdf)
+## 8. Environmental Control of Amyloid Polymorphism by Modulation of Hydrodynamic Stress
+- Jiangtao Zhou, Leonardo Venturelli, **Ludovic Keiser**, Sergey K Sekatskii, François Gallaire, Sandor Kasas, Giovanni Longo, Tuomas PJ Knowles, Francesco S Ruggeri, Giovanni Dietler
+- *ACS nano*, 15 (1): 944-953
+- 2021
+- [Link to article](https://doi.org/10.1021/acsnano.0c07570) | [PDF](publications/Zhou2021_ACSNano.pdf)
 
-## 7. Title of the 7th Article
-- **Authors**: Ludovic Keiser, Co-author Name
-- **Journal**: Journal Name, Volume, Pages
-- **Year**: 2020
-- [Link to article](link_to_article_7) | [PDF](path/to/pdf7.pdf)
+## 7. Origin and role of the cerebrospinal fluid bidirectional flow in the central canal
+Auteurs
+Olivier Thouvenin, **Ludovic Keiser**, Yasmine Cantaut-Belarif, Martin Carbo-Tano, Frederik Verweij, Nathalie Jurisch-Yaksi, Pierre-Luc Bardet, Guillaume van Niel, François Gallaire, Claire Wyart
+- *eLife*, 9, e47699
+- [Link to article](https://doi.org/10.7554/eLife.47699) | [PDF](publications/Thouvenin_Elife2020.pdf)
 
-## 6. Title of the 6th Article
-- **Authors**: Ludovic Keiser, Co-author Name
-- **Journal**: Journal Name, Volume, Pages
-- **Year**: 2019
-- [Link to Article](link_to_article_6) | [PDF](path/to/pdf6.pdf)
+## 6. Motion of viscous droplets in rough confinement: paradoxical lubrication
+- **Ludovic Keiser**, Armelle Keiser, Manon L’estimé, José Bico, Étienne Reyssat
+- *Physical Review Letters*, 122, (7): 074501
+- 2019
+- [Link to Article](https://doi.org/10.1103/PhysRevLett.122.074501) | [PDF](publications/Keiser2019_PRL.pdf)
 
 ## 5. Title of the 5th Article
 - **Authors**: Ludovic Keiser, Co-author Name
