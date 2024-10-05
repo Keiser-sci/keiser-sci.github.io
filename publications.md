@@ -21,12 +21,12 @@ title: "Publications"
     </div>
 </li>
 
-### **Published**
+**Published**
 <ul style="list-style-type: none; padding: 0;">
     <li style="margin-bottom: 15px;">
         <strong>[15] Embolism propagation in Adiantum leaves and in a biomimetic system with constrictions (2024).</strong><br>
         <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Benjamin Dollet, Philippe Marmottant</span><br>
-        <em>Journal of the Royal Society Interface, 21, (217): 20240103</em> [<a [<a href="https://doi.org/10.1098/rsif.2024.0103">Publisher</a>] 
+        <em>Journal of the Royal Society Interface, 21, (217): 20240103</em> [<a href="https://doi.org/10.1098/rsif.2024.0103">Publisher</a>] 
     [<a href="publications/Keiser2024_JRSI.pdf">PDF</a>]  [<button onclick="toggleAbstract('abstract2')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
         <div id="abstract2" style="display:none; margin-top: 10px; font-size: 0.9em;">
             <strong>Abstract:</strong> Drought poses a significant threat to forest survival worldwide by potentially generating air bubbles that obstruct sap transport within plants’ hydraulic systems. However, the detailed mechanism of air entry and propagation at the scale of the veins remains elusive. Building upon a biomimetic model of leaf which we developed, we propose a direct comparison of the air embolism propagation in Adiantum (maidenhair fern) leaves, presented in Brodribb et al. (Brodribb TJ, Bienaimé D, Marmottant P. 2016 Revealing catastrophic failure of leaf networks under stress. Proc. Natl Acad. Sci. USA 113, 4865–4869 (doi:10.1073/pnas.1522569113)) and in our biomimetic leaves. In particular, we evidence that the jerky dynamics of the embolism propagation observed in Adiantum leaves can be recovered through the introduction of micrometric constrictions in the section of our biomimetic veins, mimicking the nanopores present in the bordered pit membranes in real leaves. We show that the intermittency in the propagation can be retrieved by a simple model coupling the variations of pressure induced by the constrictions and the variations of the volume of the compliant microchannels. Our study marks a step with the design of a biomimetic leaf that reproduces particular aspects of embolism propagation in real leaves, using a minimal set of controllable and readily tunable components. This biomimetic leaf constitutes a promising physical analogue and sets the stage for future enhancements to fully embody the unique physical features of embolizing real leaves.
