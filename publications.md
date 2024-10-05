@@ -10,7 +10,7 @@ Submitted
 - Laura Desban, Julian Roussel, Olivier Mirat, François-Xavier Lejeune, **Ludovic Keiser**, Nicolas Antoine Michalski, Claire Wyart
 - bioRxiv
 
-[Link to article](https://doi.org/10.1101/2022.08.31.505989) | [PDF](publications/Desban2022_bioArXiv.pdf)
+  [Link to article](https://doi.org/10.1101/2022.08.31.505989) | [PDF](publications/Desban2022_bioArXiv.pdf)
 
 ## 15. Embolism propagation in Adiantum leaves and in a biomimetic system with constrictions
 - **Ludovic Keiser**, Benjamin Dollet, Philippe Marmottant
