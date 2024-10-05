@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-    <img src="/images/Marangoni bursting.png" alt="Header Image" style="width: auto; height: 1%;">
-        <img src="/images/Helical_drainage1.jpg" alt="Header Image" style="width: auto; height: 1%;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="/images/Marangoni bursting.png" alt="Header Image" style="height: 200px; width: auto;">
+    <img src="/images/Helical_drainage1.jpg" alt="Header Image" style="height: 200px; width: auto;">
 </div>
 <meta name="description" content="Site web personnel de Ludovic Keiser, chargé de recherche au CNRS, spécialiste en physique de la matière molle, biomimétisme, et microfluidique.">
 <meta name="keywords" content="Ludovic Keiser, physics, soft matter, biomimetics, microfluidics, cavitation, plant hydraulics, CNRS, Université Côte d'Azur, UniCA, physique, matière molle, biomimétisme, microfluidique, recherche">
