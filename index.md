@@ -6,10 +6,6 @@
 <meta name="author" content="Ludovic Keiser">
 [Home](index.md) | [Publications](publications.md) | [Contact](contact.md)
 
-title: "Ludovic Keiser - Physicien"
-description: "Site web personnel de Ludovic Keiser, spécialiste en physique de la matière molle, biomimétisme, et microfluidique."
-author: "Ludovic Keiser"
-
 # Ludovic Keiser - CNRS Researcher - Université Côte d'Azur, Nice, France
 
 Welcome to my personal research page. Here, you'll find information about my work in soft matter physics, microfluidics, and biomimetics.
