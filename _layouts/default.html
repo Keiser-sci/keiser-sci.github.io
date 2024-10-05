@@ -25,15 +25,24 @@
 
         /* Header Styles */
         .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
             background-color: #007acc;
             color: #fff;
             padding: 20px;
-            text-align: center;
         }
 
         .header h1 {
             margin: 0;
             font-size: 2.5em;
+            flex-grow: 1;
+            text-align: center;
+        }
+
+        .header img {
+            height: 80px; /* Adjust the height as needed */
+            width: auto;
         }
 
         /* Navigation Styles */
@@ -94,17 +103,26 @@
     </style>
 </head>
 <body>
-    <!-- Header Section -->
+    <!-- Header Section with Logos -->
     <div class="header">
+        <!-- Left Logo -->
+            <img src="/images/unica.jpg" alt="UniCA Logo">
+                    <img src="/images/cnrs.jpg" alt="CNRS Logo">
+        <!-- Centered Title -->
         <h1>{{ site.title }}</h1>
-        <p>{{ site.description }}</p>
+        
+        <!-- Right Logos -->
+        <div style="display: flex; gap: 10px;">
+                    <img src="/images/inphyni.jpg" alt="Inphyni Logo">
+
+
+        </div>
     </div>
 
     <!-- Navigation Bar -->
     <div class="nav">
         <a href="{{ '/' | relative_url }}">Home</a>
         <a href="{{ '/research' | relative_url }}">Research</a>
-
         <a href="{{ '/publications' | relative_url }}">Publications</a>
         <a href="{{ '/contact' | relative_url }}">Contact</a>
     </div>
