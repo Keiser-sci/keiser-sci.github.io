@@ -8,7 +8,7 @@
 <meta name="author" content="Ludovic Keiser">
 
 
-Welcome to my personal research page. Here, you will find information about my work in soft matter physics, microfluidics, and biomimetics.
+Welcome to my personal research page. I am Ludovic Keiser, a CNRS researcher working at Institut de Physique de Nice, Université Côte d'Azur (UniCA), Nice, France.
 
 ## Latest News
 
