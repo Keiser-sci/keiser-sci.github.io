@@ -92,7 +92,7 @@ title: "Publications"
     [<a href="https://doi.org/10.21769/BioProtoc.3932">PDF</a>] 
     [<button onclick="toggleAbstract('abstract9')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract9" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> This protocol provides an automated analysis of cerebrospinal fluid flow and motile cilia properties...
+        <strong>Abstract:</strong> Circulation of cerebrospinal fluid (CSF) plays an important role during development. In zebrafish embryo, the flow of CSF has been found to be bidirectional in the central canal of the spinal cord. In order to compare conditions and genetic mutants across each other, we recently automated the quantification of the velocity profile of exogenous fluorescent particles in the CSF. We demonstrated that the beating of motile and tilted cilia localized on the ventral side of the central canal was sufficient to generate locally such bidirectionality. Our approach can easily be extended to characterize CSF flow in various genetic mutants. We provide here a detailed protocol and a user interface program to quantify CSF dynamics. In order to interpret potential changes in CSF flow profiles, we provide additional tools to measure the central canal diameter, characterize cilia dynamics and compare experimental data with our theoretical model in order to estimate the impact of cilia in generating a volume force in the central canal. Our approach can also be of use for measuring particle velocity in vivo and modeling flow in diverse biological solutions.
     </div>
 </li>
 
@@ -103,7 +103,7 @@ title: "Publications"
     [<a href="https://doi.org/10.1021/acsnano.0c07570">PDF</a>] 
     [<button onclick="toggleAbstract('abstract8')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract8" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> The study investigates the environmental control of amyloid polymorphism under varying hydrodynamic stresses...
+        <strong>Abstract:</strong> The phenomenon of amyloid polymorphism is a key feature of protein aggregation. Unravelling this phenomenon is of great significance for understanding the underlying molecular mechanisms associated with neurodegenerative diseases and for the development of amyloid-based functional biomaterials. However, the understanding of the molecular origins and the physicochemical factors modulating amyloid polymorphs remains challenging. Herein, we demonstrate an association between amyloid polymorphism and environmental stress in solution, induced by an air/water interface in motion. Our results reveal that low-stress environments produce heterogeneous amyloid polymorphs, including twisted, helical, and rod-like fibrils, whereas high-stress conditions generate only homogeneous rod-like fibrils. Moreover, high environmental stress converts twisted fibrils into rod-like fibrils both in-pathway and after the completion of mature amyloid formation. These results enrich our understanding of the environmental origin of polymorphism of pathological amyloids and shed light on the potential of environmentally controlled fabrication of homogeneous amyloid biomaterials for biotechnological applications.
     </div>
 </li>
 
@@ -114,7 +114,7 @@ title: "Publications"
     [<a href="https://doi.org/10.7554/eLife.47699">PDF</a>] 
     [<button onclick="toggleAbstract('abstract7')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract7" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> This paper discusses the bidirectional flow of cerebrospinal fluid in the central canal of zebrafish embryos...
+        <strong>Abstract:</strong> Circulation of the cerebrospinal fluid (CSF) contributes to body axis formation and brain development. Here, we investigated the unexplained origins of the CSF flow bidirectionality in the central canal of the spinal cord of 30 hpf zebrafish embryos and its impact on development. Experiments combined with modeling and simulations demonstrate that the CSF flow is generated locally by caudally-polarized motile cilia along the ventral wall of the central canal. The closed geometry of the canal imposes the average flow rate to be null, explaining the reported bidirectionality. We also demonstrate that at this early stage, motile cilia ensure the proper formation of the central canal. Furthermore, we demonstrate that the bidirectional flow accelerates the transport of particles in the CSF via a coupled convective-diffusive transport process. Our study demonstrates that cilia activity combined with muscle contractions sustain the long-range transport of extracellular lipidic particles, enabling embryonic growth.
     </div>
 </li>
 
@@ -125,7 +125,7 @@ title: "Publications"
     [<a href="https://doi.org/10.1103/PhysRevLett.122.074501">PDF</a>] 
     [<button onclick="toggleAbstract('abstract6')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract6" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> The research focuses on the paradoxical behavior of viscous droplets in rough confinement, highlighting unique lubrication properties...
+        <strong>Abstract:</strong> We study the sedimentation of highly viscous droplets confined inside Hele-Shaw cells with textured walls of controlled topography. In contrast with common observations on superhydrophobic surfaces, roughness tends here to significantly increase viscous friction, thus substantially decreasing the droplets mobility. However, reducing confinement induces a jump in the velocity as droplets can slide on a lubricating layer of the surrounding fluid thicker than the roughness features. We demonstrate that increasing the viscosity of the surrounding liquid may counterintuitively enhance the mobility of a droplet sliding along a rough wall. Similarly, a sharp change of the droplet mobility is observed as the amplitude of the roughness is modified. These results illustrate the nontrivial friction processes at the scale of the roughness, and the coupling between viscous dissipation in the drop, in the front meniscus, and in the lubricating film. They could enable one to specifically control the speed of droplets or capsules in microchannels, based on their rheological properties.
     </div>
 </li>
 
@@ -136,7 +136,7 @@ title: "Publications"
     [<a href="https://doi.org/10.1103/APS.DFD.2017.GFM.V0020">PDF</a>] 
     [<button onclick="toggleAbstract('abstract5')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract5" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> This study examines the evaporation-induced emulsification in a two-component droplet through Marangoni bursting...
+        <strong>Abstract:</strong> This paper is associated with a video winner of a 2017 APS/DFD Milton van Dyke Award for work presented at the DFD Gallery of Fluid Motion. The original video is available from the Gallery of Fluid Motion, https://doi.org/10.1103/APS.DFD.2017.GFM.V0020
     </div>
 </li>
 
@@ -147,7 +147,7 @@ title: "Publications"
     [<a href="https://doi.org/10.1017/jfm.2018.240">PDF</a>] 
     [<button onclick="toggleAbstract('abstract4')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract4" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> The research delves into the behavior and dynamics of non-wetting drops when confined in a Hele-Shaw cell...
+        <strong>Abstract:</strong> We experimentally investigate the sedimentation of a non-wetting drop confined between two parallel walls. The whole system is immersed in a bath of liquid of low viscosity and a lubricating film may be dynamically formed between the drop and the walls of the cell. Depending on the thickness of the film and on the viscosity ratio between the droplet and the surrounding liquid, viscous dissipation localizes either in the lubrication layer or in the bulk of the drop. The velocity of the droplet is non-trivial as the thickness of the lubricating layer may depend on the interplay between interfacial tension and viscous dissipation. Interestingly, thin films whose nanometric thickness is set by long range intermolecular interactions may lubricate efficiently the motion of highly viscous droplets. We derive asymptotic models that successfully capture the settling velocity of the drop in the different regimes observed experimentally. The effect of partial wetting is finally illustrated by a sharp increase of the velocity of the drops that we attribute to a wetting transition.
     </div>
 </li>
 
@@ -158,7 +158,7 @@ title: "Publications"
     [<a href="https://doi.org/10.1103/PhysRevLett.118.074504">PDF</a>] 
     [<button onclick="toggleAbstract('abstract3')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract3" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> The paper presents the evaporation-induced emulsification process of binary mixtures due to Marangoni bursting on a liquid layer...
+        <strong>Abstract:</strong> Adjusting the wetting properties of water through the addition of a miscible liquid is commonly used in a wide variety of industrial processes involving interfaces. We investigate experimentally the evolution of a drop of water and volatile alcohol deposited on a bath of oil: The drop spreads and spontaneously fragments into a myriad of minute droplets whose size strongly depends on the initial concentration of alcohol. Marangoni flows induced by the evaporation of alcohol play a key role in the overall phenomenon. The intricate coupling of hydrodynamics, wetting, and evaporation is well captured by analytical scaling laws. Our scenario is confirmed by experiments involving other combinations of liquids that also lead to this fascinating phenomenon.
     </div>
 </li>
 
@@ -180,7 +180,7 @@ title: "Publications"
     [<a href="https://doi.org/10.1017/jfm.2016.1">PDF</a>] 
     [<button onclick="toggleAbstract('abstract1')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract1" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> The research explores the capillary instability phenomena occurring in washing wedges under a gradient of confinement...
+        <strong>Abstract:</strong> We present experimental results on the extraction of oil trapped in the confined region of a wedge. Upon addition of a more wetting liquid, we observe that oil fingers develop into this extracting liquid. The fingers eventually pinch off and form droplets that are driven away from the apex of the wedge by surface tension along the gradient of confinement. During an experiment, we observe that the size of the expelled oil droplets decreases as the unstable front recedes towards the wedge. We show how this size can be predicted from a linear stability analysis reminiscent of the classical Saffman–Taylor instability. However, the standard balance of capillary and bulk viscous dissipation does not account for the dynamics found in our experiments, leaving as an open question the detailed theoretical description of the instability.
     </div>
 </li>
 
@@ -195,7 +195,20 @@ title: "Publications"
     [<a href="publications/Keiser2020_USPatent.pdf">PDF</a>] 
     [<button onclick="toggleAbstract('abstractPatent')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstractPatent" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> This patent describes a device and method for analyzing blood conditions using advanced imaging and data processing techniques...
+        <strong>Abstract:</strong> There is provided a blood condition analyzing device including: an extraction unit configured to use temporal change data of an electrical characteristic of blood at an arbitrary frequency to extract a feature of the data; and a blood condition evaluation unit configured to evaluate a condition change of blood from a feature extracted in the extraction unit.
+    </div>
+</li>
+
+### **Thèse de doctorat**
+<li style="margin-bottom: 15px;">
+    <strong>Formation et déplacement de gouttes confinées: Instabilités et dynamiques.</strong><br>
+    <span style="font-size: 0.9em;">Ludovic Keiser, *Université Sorbonne Paris Cité* </span><br>
+    <em>PhD thesis *in French* (2018/1/29) 
+    [<a href="https://hal.science/tel-02280106/">Link to thesis</a>] 
+    [<a href="publications/Keiser_PhD.pdf">PDF</a>] 
+    [<button onclick="toggleAbstract('abstractThesis')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
+    <div id="abstractThesis" style="display:none; margin-top: 10px; font-size: 0.9em;">
+        <strong>Abstract:</strong> Les écoulements biphasiques en milieux poreux sont généralement accompagnés par des phénomènes d'émulsification d'une phase dans l'autre. Les causes peuvent être nombreuses, de la digitation visqueuse aux instabilités purement capillaires. Cette thèse expérimentale a pour objet l'étude d'un mécanisme particulier d'émulsification de l'huile en milieu poreux, ainsi que le transport des gouttes produites dans des milieux confinés. Dans la première partie de cette thèse, l'instabilité gravito-capillaire de Rayleigh-Taylor est revisitée dans un coin formé entre deux plaques de verre centimétriques. La présence d'un gradient de confinement introduit une force capillaire supplémentaire à cette instabilité canonique, susceptible de stabiliser une couche de liquide suspendue au-dessus du vide. Le seuil de stabilité, les longueurs d'onde caractéristiques et les taux de croissance sont bien modélisés par une analyse de stabilité linéaire de l'interface. La caractérisation de cette force capillaire induite par le gradient de confinement nous amène par la suite à l'étude d'une instabilité purement capillaire se produisant lorsqu'un fluide en mouillage très favorable migre vers les régions les plus confinées d'un coin, occupées initialement par un fluide en mouillage moins favorable. Le gradient de confinement introduit alors une force déstabilisante, aboutissant à l'inversion de la position respective des deux phases. Le liquide le moins mouillant est complètement émulsifié et transporté vers les régions les moins confinées sous la forme de gouttelettes. Une analyse de stabilité linéaire de l'interface permet, là encore, de prédire cette sélection de taille. Les taux de croissance mesurés ne sont en revanche pas en accord avec la modélisation, basée sur la loi de Darcy. Leur valeur suggère une localisation de la dissipation visqueuse dans les lignes de contact déplacées durant le développement de l'instabilité, ainsi que dans les films de lubrification également déposés. Ces dynamiques "non-darciennes" nous ont amenés dans une seconde partie de la thèse à l'étude du transport de gouttes d'huile très visqueuses confinées dans de l'eau en mouillage total. Dans cette configuration, la présence de films de lubrification d'eau entre la goutte et le substrat assure la localisation de la dissipation dans les films peu visqueux, favorisant ainsi la mobilité des gouttes. Nous montrons également que la présence de rugosités sur les parois du confinement induit un ralentissement significatif de la vitesse des gouttes, lié à l'amincissement du film de lubrification par ces rugosités. L'interdépendance subtile entre friction visqueuse à l'avant de la goutte et dans son volume est notamment mise en lumière. Dans une dernière partie, nous étudions l'instabilité capillaire se produisant lorsqu'une goutte binaire d'eau et d'alcool est déposée à la surface d'un bain d'huile. L'évaporation majoritaire de l'alcool à la surface de la goutte induit des variations locales de la tension de surface. Des écoulements interfaciaux de Marangoni se produisent, et aboutissent à la déstabilisation spectaculaire de la goutte en étalement.
     </div>
 </li>
 
