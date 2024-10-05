@@ -72,31 +72,31 @@ Olivier Thouvenin, **Ludovic Keiser**, Yasmine Cantaut-Belarif, Martin Carbo-Tan
 - Guillaume Durey, Hoon Kwon, Quentin Magdelaine, Mathias Casiulis, Julien Mazet, **Ludovic Keiser**, Hadrien Bense, Pierre Colinet, José Bico, Etienne Reyssat
 - *Physical Review Fluids*, 3, (10): 100501
 - 2018
-- [Link to article]([link_to_article_5](https://doi.org/10.1103/APS.DFD.2017.GFM.V0020)) | [PDF](Durey2019_PRF.pdf)
+- [Link to article]([link_to_article_5](https://doi.org/10.1103/APS.DFD.2017.GFM.V0020)) | [PDF](publications/Durey2019_PRF.pdf)
 
-## 4. Title of the 4th Article
-- **Authors**: Ludovic Keiser, Co-author Name
-- **Journal**: Journal Name, Volume, Pages
-- **Year**: 2018
-- [Link to article](link_to_article_4) | [PDF](path/to/pdf4.pdf)
+## 4. Dynamics of non-wetting drops confined in a Hele-Shaw cell
+- **Ludovic Keiser**, Khalil Jaafar, José Bico, Etienne Reyssat
+- *Journal of Fluid Mechanics*, 845, 245-262
+- 2018
+- [Link to article](https://doi.org/10.1017/jfm.2018.240) | [PDF](publications/Keiser2018_JFM.pdf)
 
-## 3. Title of the 3rd Article
-- **Authors**: Ludovic Keiser, Co-author Name
-- **Journal**: Journal Name, Volume, Pages
-- **Year**: 2018
-- [Link to Article](link_to_article_3) | [PDF](path/to/pdf3.pdf)
+## 3. Marangoni bursting: evaporation-induced emulsification of binary mixtures on a liquid layer
+- **Ludovic Keiser**, Hadrien Bense, Pierre Colinet, José Bico, Etienne Reyssat
+- *Physical Review Letters*, 118, (7): 074504
+- 2017
+- [Link to Article](https://doi.org/10.1103/PhysRevLett.118.074504) | [PDF](publications/Keiser2017_PRL.pdf)
 
-## 2. Title of the 2nd Article
-- **Authors**: Ludovic Keiser, Co-author Name
-- **Journal**: Journal Name, Volume, Pages
-- **Year**: 2017
-- [Link to article](link_to_article_2) | [PDF](path/to/pdf2.pdf)
+## 2. Drop friction on liquid-infused materials
+- Armelle Keiser, **Ludovic Keiser**, Christophe Clanet, David Quéré
+- Soft Matter, 13, (39): 6981-6987
+- 2017
+- [Link to article](https://doi.org/10.1039/C7SM01226H) | [PDF](publications/Keiser2017_Soft_Matter.pdf)
 
-## 1. Title of the Oldest Article
-- **Authors**: Ludovic Keiser, Co-author Name
-- **Journal**: Journal of Fluid Mechanics
-- **Year**: 2016
-- [Link to article](link_to_article_1) | [PDF](path/to/pdf1.pdf)
+## Washing wedges: capillary instability in a gradient of confinement
+- **Ludovic Keiser**, Rémy Herbaut, José Bico, Etienne Reyssat
+- *Journal of Fluid Mechanics*, 790, 619-633
+- 2016
+- [Link to article](https://doi.org/10.1017/jfm.2016.1) | [PDF](publications/Keiser2016_JFM.pdf)
 
 
 # Patent
