@@ -220,7 +220,7 @@ title: "Publications"
 <li style="margin-bottom: 15px;">
     <strong>Formation et déplacement de gouttes confinées: Instabilités et dynamiques.</strong><br>
     <span style="font-size: 0.9em;">Ludovic Keiser, *Université Sorbonne Paris Cité* </span><br>
-    <em>PhD thesis *in French* (2018/1/29) 
+    <em>PhD thesis in French</em> (2018/1/29) 
     [<a href="https://hal.science/tel-02280106/">Link to thesis</a>] 
     [<a href="publications/Keiser_PhD.pdf">PDF</a>] 
     [<button onclick="toggleAbstract('abstractThesis')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
