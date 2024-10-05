@@ -8,13 +8,14 @@ title: "Publications"
 
 <div style="margin-top: 20px; font-size: 1em; line-height: 1.4;">
 
-### **Submitted**
+**Submitted**
+
 <li style="margin-bottom: 15px;">
     <strong>[S1] Lateral line hair cells integrate mechanical and chemical cues to orient navigation.</strong><br>
     <span style="font-size: 0.9em;">Laura Desban, Julian Roussel, Olivier Mirat, François-Xavier Lejeune, <strong>Ludovic Keiser</strong>, Nicolas Antoine Michalski, Claire Wyart</span><br>
     <em>bioRxiv</em> (Submitted) 
-    [<a href="https://doi.org/10.1101/2022.08.31.505989">PDF</a>] 
-    [<button onclick="toggleAbstract('abstractS1')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
+[<a href="https://doi.org/10.1101/2022.08.31.505989">Publisher</a>] 
+    [<a href="publications/Desban2022_bioArXiv.pdf">PDF</a>]     [<button onclick="toggleAbstract('abstractS1')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstractS1" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> The lateral line is a superficial sensory system responding to environmental hydrodynamic changes to orient locomotion of aquatic vertebrate species. Whether this system also detects chemical cues is unknown. We find that zebrafish lateral line hair cells express numerous chemoreceptors, including ionotropic receptors for serotonin. We show that the serotonin enriched in skin neuroepithelial cells is released upon injury and that environmental serotonin activates lateral line hair cells. We show that larval zebrafish exposed to serotonin in their environment rely on the lateral line to swim fast and away. These results uncover the sensory versatility of lateral line hair cells and how these properties modulate navigation in response to environmental stimuli.
     </div>
@@ -25,7 +26,8 @@ title: "Publications"
     <li style="margin-bottom: 15px;">
         <strong>[15] Embolism propagation in Adiantum leaves and in a biomimetic system with constrictions (2024).</strong><br>
         <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Benjamin Dollet, Philippe Marmottant</span><br>
-        <em>Journal of the Royal Society Interface</em> [<a href="https://doi.org/10.1098/rsif.2024.0103">Publisher</a>] [<a href="publications/Keiser2024_JRSI.pdf">PDF</a>] [<button onclick="toggleAbstract('abstract2')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
+        <em>Journal of the Royal Society Interface, 21, (217): 20240103</em> [<a [<a href="https://doi.org/10.1098/rsif.2024.0103">Publisher</a>] 
+    [<a href="publications/Keiser2024_JRSI.pdf">PDF</a>]  [<button onclick="toggleAbstract('abstract2')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
         <div id="abstract2" style="display:none; margin-top: 10px; font-size: 0.9em;">
             <strong>Abstract:</strong> Drought poses a significant threat to forest survival worldwide by potentially generating air bubbles that obstruct sap transport within plants’ hydraulic systems. However, the detailed mechanism of air entry and propagation at the scale of the veins remains elusive. Building upon a biomimetic model of leaf which we developed, we propose a direct comparison of the air embolism propagation in Adiantum (maidenhair fern) leaves, presented in Brodribb et al. (Brodribb TJ, Bienaimé D, Marmottant P. 2016 Revealing catastrophic failure of leaf networks under stress. Proc. Natl Acad. Sci. USA 113, 4865–4869 (doi:10.1073/pnas.1522569113)) and in our biomimetic leaves. In particular, we evidence that the jerky dynamics of the embolism propagation observed in Adiantum leaves can be recovered through the introduction of micrometric constrictions in the section of our biomimetic veins, mimicking the nanopores present in the bordered pit membranes in real leaves. We show that the intermittency in the propagation can be retrieved by a simple model coupling the variations of pressure induced by the constrictions and the variations of the volume of the compliant microchannels. Our study marks a step with the design of a biomimetic leaf that reproduces particular aspects of embolism propagation in real leaves, using a minimal set of controllable and readily tunable components. This biomimetic leaf constitutes a promising physical analogue and sets the stage for future enhancements to fully embody the unique physical features of embolizing real leaves.
         </div>
@@ -45,7 +47,7 @@ title: "Publications"
     <strong>[13] Breaking one into three: surface-tension-driven droplet breakup in T-junctions.</strong><br>
     <span style="font-size: 0.9em;">Jiande Zhou, Yves-Marie Ducimetière, Daniel Migliozzi, Ludovic Keiser, Arnaud Bertsch, François Gallaire, Philippe Renaud</span><br>
     <em>Physical Review Fluids</em> 8 (5): 054201 (2023) 
-    [<a href="https://doi.org/10.1103/PhysRevFluids.8.054201">PDF</a>] 
+    [<a href="https://doi.org/10.1103/PhysRevFluids.8.054201">Publisher</a>] 
     [<button onclick="toggleAbstract('abstract13')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract13" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> Droplet breakup is an important phenomenon in the field of microfluidics to generate daughter droplets. In this work, a novel breakup regime in the widely studied T-junction geometry is reported, where the pinch-off occurs laterally in the two outlet channels, leading to the formation of three daughter droplets, rather than at the center of the junction for conventional T-junctions which leads to two daughter droplets. It is demonstrated that this new mechanism is driven by surface tension, and a design rule for the T-junction geometry is proposed. A model for low values of the capillary number Ca is developed to predict the formation and growth of an underlying carrier fluid pocket that accounts for this lateral breakup mechanism. At higher values of Ca, the conventional regime of central breakup becomes dominant again. The competition between the new and the conventional regime is explored. Altogether, this novel droplet formation method at T-junction provides the functionality of alternating droplet size and composition, which can be important for the design of new microfluidic tools.
@@ -186,7 +188,8 @@ title: "Publications"
 
 </ul>
 
-### **Patent**
+**Patent**
+ 
 <li style="margin-bottom: 15px;">
     <strong>Blood condition analyzing device, blood condition analyzing system, and blood condition analyzing program.</strong><br>
     <span style="font-size: 0.9em;">Marc-Aurèle Brun, Yoshihito Hayashi, Ludovic Keiser</span><br>
@@ -199,7 +202,8 @@ title: "Publications"
     </div>
 </li>
 
-### **Thèse de doctorat**
+**Thèse de doctorat**
+ 
 <li style="margin-bottom: 15px;">
     <strong>Formation et déplacement de gouttes confinées: Instabilités et dynamiques.</strong><br>
     <span style="font-size: 0.9em;">Ludovic Keiser, *Université Sorbonne Paris Cité* </span><br>
@@ -210,11 +214,7 @@ title: "Publications"
     <div id="abstractThesis" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> Les écoulements biphasiques en milieux poreux sont généralement accompagnés par des phénomènes d'émulsification d'une phase dans l'autre. Les causes peuvent être nombreuses, de la digitation visqueuse aux instabilités purement capillaires. Cette thèse expérimentale a pour objet l'étude d'un mécanisme particulier d'émulsification de l'huile en milieu poreux, ainsi que le transport des gouttes produites dans des milieux confinés. Dans la première partie de cette thèse, l'instabilité gravito-capillaire de Rayleigh-Taylor est revisitée dans un coin formé entre deux plaques de verre centimétriques. La présence d'un gradient de confinement introduit une force capillaire supplémentaire à cette instabilité canonique, susceptible de stabiliser une couche de liquide suspendue au-dessus du vide. Le seuil de stabilité, les longueurs d'onde caractéristiques et les taux de croissance sont bien modélisés par une analyse de stabilité linéaire de l'interface. La caractérisation de cette force capillaire induite par le gradient de confinement nous amène par la suite à l'étude d'une instabilité purement capillaire se produisant lorsqu'un fluide en mouillage très favorable migre vers les régions les plus confinées d'un coin, occupées initialement par un fluide en mouillage moins favorable. Le gradient de confinement introduit alors une force déstabilisante, aboutissant à l'inversion de la position respective des deux phases. Le liquide le moins mouillant est complètement émulsifié et transporté vers les régions les moins confinées sous la forme de gouttelettes. Une analyse de stabilité linéaire de l'interface permet, là encore, de prédire cette sélection de taille. Les taux de croissance mesurés ne sont en revanche pas en accord avec la modélisation, basée sur la loi de Darcy. Leur valeur suggère une localisation de la dissipation visqueuse dans les lignes de contact déplacées durant le développement de l'instabilité, ainsi que dans les films de lubrification également déposés. Ces dynamiques "non-darciennes" nous ont amenés dans une seconde partie de la thèse à l'étude du transport de gouttes d'huile très visqueuses confinées dans de l'eau en mouillage total. Dans cette configuration, la présence de films de lubrification d'eau entre la goutte et le substrat assure la localisation de la dissipation dans les films peu visqueux, favorisant ainsi la mobilité des gouttes. Nous montrons également que la présence de rugosités sur les parois du confinement induit un ralentissement significatif de la vitesse des gouttes, lié à l'amincissement du film de lubrification par ces rugosités. L'interdépendance subtile entre friction visqueuse à l'avant de la goutte et dans son volume est notamment mise en lumière. Dans une dernière partie, nous étudions l'instabilité capillaire se produisant lorsqu'une goutte binaire d'eau et d'alcool est déposée à la surface d'un bain d'huile. L'évaporation majoritaire de l'alcool à la surface de la goutte induit des variations locales de la tension de surface. Des écoulements interfaciaux de Marangoni se produisent, et aboutissent à la déstabilisation spectaculaire de la goutte en étalement.
     </div>
-</li>
 
-</ul>
-
-</div>
 
 <!-- JavaScript to toggle abstracts -->
 <script>
