@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Publications"
+---
 [Home]({{ '/' | relative_url }}) | [Publications]({{ '/publications/' | relative_url }}) | [Contact]({{ '/contact/' | relative_url }})
 
 I conduct research at [Institut de Physique de Nice](https://inphyni.univ-cotedazur.eu), located in Nice, France. In my institute, I belong to the [MIMIC](https://inphyni.univ-cotedazur.eu/sites/mimic) and Complex Fluids teams. 
