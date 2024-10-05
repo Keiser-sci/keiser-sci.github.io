@@ -1,20 +1,9 @@
-/* Custom CSS to modify site layout */
-.site-header {
-    display: none; /* Hide the large banner */
+/* Hide the header, title, and navigation */
+.site-header, .site-title, .site-nav {
+    display: none;
 }
 
-.main-content {
-    padding-top: 20px; /* Add space between content and menu */
-}
-
-h1 {
-    font-size: 1.5em; /* Adjust the size for headers */
-}
-
-h2 {
-    font-size: 1.25em; /* Adjust the size for subheaders */
-}
-
-p {
-    font-size: 1em; /* Adjust the size for paragraph text */
+/* Hide the footer */
+.site-footer {
+    display: none;
 }
