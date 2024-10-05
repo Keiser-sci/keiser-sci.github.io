@@ -7,103 +7,22 @@
     <meta name="description" content="{{ page.description | default: site.description }}">
     <meta name="keywords" content="{{ site.keywords }}">
     <meta name="author" content="{{ site.author }}">
-    
-    <!-- Link to custom CSS for styling -->
+
+    <!-- Link to custom CSS for further styling -->
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-    <!-- Basic styling for the layout -->
+    <!-- Basic styles for the modernist-inspired layout -->
     <style>
         /* General Styles */
         body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
+            font-family: 'Georgia', serif;
+            line-height: 1.75;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: #f7f7f7;
             color: #333;
-        }
-
-        a {
-            text-decoration: none;
-            color: #007acc;
-        }
-
-        a:hover {
-            text-decoration: underline;
         }
 
         /* Header Styles */
         .header {
-            background-color: #007acc;
-            color: #fff;
-            padding: 20px;
-            text-align: center;
-        }
-
-        .header h1 {
-            margin: 0;
-            font-size: 2.5em;
-        }
-
-        /* Navigation Styles */
-        .nav {
-            background-color: #333;
-            padding: 10px;
-            text-align: center;
-        }
-
-        .nav a {
-            color: #fff;
-            margin: 0 15px;
-            font-size: 1.1em;
-        }
-
-        /* Main Content Styles */
-        .container {
-            width: 80%;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-
-        h2 {
-            color: #007acc;
-        }
-
-        /* Footer Styles */
-        .footer {
-            text-align: center;
-            padding: 15px;
-            background-color: #333;
-            color: #fff;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-    <!-- Header Section -->
-    <div class="header">
-        <h1>{{ site.title }}</h1>
-        <p>{{ site.description }}</p>
-    </div>
-
-    <!-- Navigation Bar -->
-    <div class="nav">
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/publications/' | relative_url }}">Publications</a>
-        <a href="{{ '/contact/' | relative_url }}">Contact</a>
-    </div>
-
-    <!-- Main Content Area -->
-    <div class="container">
-        {{ content }}
-    </div>
-
-    <!-- Footer Section -->
-    <div class="footer">
-        <p>&copy; {{ site.author }} - {{ 'now' | date: "%Y" }}</p>
-        <p>All rights reserved.</p>
-    </div>
-</body>
-</html>
+            back
