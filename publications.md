@@ -131,4 +131,4 @@ Olivier Thouvenin, **Ludovic Keiser**, Yasmine Cantaut-Belarif, Martin Carbo-Tan
 - *US Patent*, 10527605
 - 2020
 
-  [Link to article](https://patents.google.com/patent/US10527605B2/en) | [PDF](publications/Keiser2020_USPatent)
+  [Link to patent](https://patents.google.com/patent/US10527605B2/en) | [PDF](publications/Keiser2020_USPatent)
