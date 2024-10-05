@@ -6,8 +6,6 @@ title: "Publications"
 
 # Publications
 
-Here is a list of my publications, starting with the most recent:
-
 <div style="margin-top: 20px; font-size: 1em; line-height: 1.4;">
 
 ### **Submitted**
@@ -21,8 +19,6 @@ Here is a list of my publications, starting with the most recent:
         <strong>Abstract:</strong> This study investigates how lateral line hair cells integrate various mechanical and chemical cues to guide navigation, shedding light on sensory processing in aquatic vertebrates...
     </div>
 </li>
-
-</ul>
 
 ### **Published**
 <ul style="list-style-type: none; padding: 0;">
@@ -74,7 +70,7 @@ Here is a list of my publications, starting with the most recent:
     [<a href="https://doi.org/10.1017/jfm.2022.876">PDF</a>] 
     [<button onclick="toggleAbstract('abstract11')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract11" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> The study examines the whirling instability occurring in eccentric coated fibers...
+        <strong>Abstract:</strong> We study a gravity-driven viscous flow coating a vertical cylindrical fibre. The destabilisation of a draining liquid column into a downward moving train of beads has been linked to the conjunction of the Rayleigh–Plateau and Kapitza instabilities in the limit of small Bond numbers Bo. Here, we focus on quasi-inertialess flows (large Ohnesorge number Oh) and conduct a linear stability analysis on a unidirectional flow along a rigid eccentric fibre for intermediate to large Bo. We show the existence of two unstable modes, namely pearl and whirl modes. The pearl mode depicts asymmetric beads, similar to that of the Rayleigh–Plateau instability, whereas a single helix forms along the axis in the whirl mode instability. The geometric and hydrodynamic thresholds of the whirl mode instability are investigated, and phase diagrams showing the transition thresholds between different regimes are presented. Additionally, an energy analysis is carried out to elucidate the whirl formation mechanism. This analysis reveals that despite the unfavourable capillary energy cost, the asymmetric interface shear distribution, caused by the fibre eccentricity, has the potential to sustain a whirling interface. In general, small fibre radius and large eccentricity tend to foster the whirl mode instability, while reducing Bo tends to favour the dominance of the pearl mode instability. Finally, we compare the predictions of our model with the results of some illustrative experiments, using highly viscous silicone oils flowing down fibres. Whirling structures are observed for the first time, and the measured wavenumbers match our stability analysis prediction.
     </div>
 </li>
 
@@ -85,7 +81,7 @@ Here is a list of my publications, starting with the most recent:
     [<a href="https://doi.org/10.1017/jfm.2022.733">PDF</a>] 
     [<button onclick="toggleAbstract('abstract10')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract10" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> This paper explores the behavior of air invasion in microchannels subject to pervaporation...
+        <strong>Abstract:</strong> We explore air invasion in a dead-end compliant water-filled microchannel containing a constriction. The phenomenon is driven by the pervaporation of the liquid present in the channel through the surrounding medium. The penetration is intermittent, jerky and characterised by a stop-and-go dynamics as the bubble escapes the constriction. We demonstrate that this sequence of arrest and jump of the bubble is due to an elasto-capillary coupling between the air–liquid interface and the elastic medium. When the interface enters the constriction, its curvature increases strongly, leading to a depressurisation within the liquid-filled channel that drives a compression of the channel. As the interface is forced to leave the constriction at a given threshold pressure, due to the ongoing loss of liquid content by pervaporation, the pressure is suddenly released, which gives rise to a rapid propagation of the air bubble away from the constriction, and a restoration of the rest shape of the channel. Combining macroscopic observations and confocal imaging, we present a comprehensive experimental study of this phenomenon. In particular, the effect of the channel geometry on the time of arrest in the constriction and the jump length is investigated. Our novel microfluidic design succeeds in mimicking the role of inter-vessel pits in plants, which transiently stop the propagation of air embolisms during long and severe droughts. It is expected to serve as a building block for further biomimetic studies in more complex leaf-like architectures, in order to recover this universal phenomenon of intermittent propagation reported in real leaves.
     </div>
 </li>
 
