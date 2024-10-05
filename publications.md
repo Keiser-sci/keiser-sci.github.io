@@ -8,19 +8,20 @@ Here is a list of my publications, starting with the most recent:
 - **Ludovic Keiser**, Benjamin Dollet, Philippe Marmottant
 - Journal of the Royal Society Interface, 21 (217): 20240103
 - 2024
-- [Link to article](https://doi.org/10.1098/rsif.2024.0103) | [PDF](publications/Keiser2024_JRSI)
+- [Link to article](https://doi.org/10.1098/rsif.2024.0103) | [PDF](publications/Keiser2024_JRSI.pdf)
 
 ## 14. Releasing long bubbles trapped in thin capillaries via tube centrifugation and inclination
 - Alice Marcotte, Pier Giuseppe Ledda, Valentin Buriasco, Paul Dené, François Gallaire, **Ludovic Keiser**
 - *Journal of Fluid Mechanics*, *in press*
 - 2024
-- [Link to article](https://doi.org/10.48550/arXiv.2404.17934) | [PDF](publications/Marcotte2024_JFMbis)
+- [Link to article](https://doi.org/10.48550/arXiv.2404.17934) | [PDF](publications/Marcotte2024_JFMbis.pdf)
 
-## 13. Title of the 13th Article
-- **Authors**: Ludovic Keiser, Co-author Name
-- **Journal**: Journal Name, Volume, Pages
-- **Year**: 2023
-- [Link to Article](link_to_article_13) | [PDF](path/to/pdf13.pdf)
+## 13. Breaking one into three: surface-tension-driven droplet breakup in T-junctions
+
+- Jiande Zhou, Yves-Marie Ducimetière, Daniel Migliozzi, **Ludovic Keiser**, Arnaud Bertsch, François Gallaire, Philippe Renaud
+- *Physical Review Fluids*, 8 (5): 054201 
+- 2023
+- [Link to Article](https://doi.org/10.1103/PhysRevFluids.8.054201) | [PDF](publications/Zhou2023_PRF.pdf)
 
 ## 12. Title of the 12th Article
 - **Authors**: Ludovic Keiser, Co-author Name
