@@ -7,7 +7,7 @@
 <meta name="keywords" content="Ludovic Keiser, physics, soft matter, biomimetics, microfluidics, cavitation, plant hydraulics, CNRS, Université Côte d'Azur, UniCA, soft matter, biomimetics, microfluidics, research">
 <meta name="author" content="Ludovic Keiser">
 
-[Home]({{ '/' | relative_url }}) | [Publications]({{ '/publications' | relative_url }}) | [Contact]({{ '/contact' | relative_url }})
+[Home]({{ '/' | relative_url }}) | [Research]({{ '/research' | relative_url }})| [Publications]({{ '/publications' | relative_url }}) | [Contact]({{ '/contact' | relative_url }})
 
 Welcome to my personal research page. Here, you will find information about my work in soft matter physics, microfluidics, and biomimetics.
 
