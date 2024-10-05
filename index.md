@@ -10,6 +10,10 @@
 
 Welcome to my personal research page. Here, you'll find information about my work in soft matter physics, microfluidics, and biomimetics.
 
+## Current news
+
+Together with Céline Cohen and Philippe Thomen, we organize the plenary days of the GDR Microfluidics and Nanofluidics. It will be 2-day conference, to be held in Nice (hôtel Le Saint-Paul) on November, 18-19, 2024. **Registration are free, but mandatory, on the** [conference website](https://gdr-mnf-2024.sciencesconf.org) !
+
 ## Research Interests
 - Fluid mechanics
 - Non-linear flows in microfluidics
