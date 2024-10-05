@@ -1,4 +1,4 @@
-[Home](index.md) | [Publications](publications.md) | [Contact](contact.md)
+[Home]({{ '/' | relative_url }}) | [Publications]({{ '/publications/' | relative_url }}) | [Contact]({{ '/contact/' | relative_url }})
 
 # Publications
 
