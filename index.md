@@ -1,3 +1,5 @@
+[Home](index.md) | [Publications](publications.md) | [Contact](contact.md)
+
 # Ludovic's Research
 
 Welcome to my personal research page. Here, you'll find information about my work in soft matter physics, microfluidics, and biomimetics.
