@@ -20,7 +20,7 @@ title: "Publications"
     </div>
 </li>
 
-**Published**
+<strong>Published</strong>
 <ul style="list-style-type: none; padding: 0;">
     <li style="margin-bottom: 15px;">
         <strong>[15] Embolism propagation in Adiantum leaves and in a biomimetic system with constrictions (2024).</strong><br>
@@ -201,7 +201,7 @@ title: "Publications"
 
 </ul>
 
-**Patent**
+<strong>Patent</strong>
  
 <li style="margin-bottom: 15px;">
     <strong>Blood condition analyzing device, blood condition analyzing system, and blood condition analyzing program.</strong><br>
@@ -215,7 +215,7 @@ title: "Publications"
     </div>
 </li>
 
-**Thèse de doctorat**
+<strong>Thèse de doctorat</strong>
  
 <li style="margin-bottom: 15px;">
     <strong>Formation et déplacement de gouttes confinées: Instabilités et dynamiques.</strong><br>
