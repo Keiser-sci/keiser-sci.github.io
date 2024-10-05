@@ -8,7 +8,7 @@
 <meta name="author" content="Ludovic Keiser">
 
 
-Welcome to my personal research page. I am Ludovic Keiser, a CNRS researcher working at Institut de Physique de Nice, Université Côte d'Azur (UniCA), Nice, France.
+Welcome to my personal research page. I am Ludovic Keiser, a [CNRS](https://www.cnrs.fr/en) researcher working at Institut de Physique de Nice ([INPHYNI](https://inphyni.univ-cotedazur.eu)), Université Côte d'Azur ([UniCA](https://univ-cotedazur.eu)), Nice, France.
 
 ## Latest News
 
