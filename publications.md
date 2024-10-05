@@ -5,16 +5,16 @@
 Here is a list of my publications, starting with the most recent:
 
 ## 15. Embolism propagation in Adiantum leaves and in a biomimetic system with constrictions
-- **Authors**: Ludovic Keiser, Benjamin Dollet, Philippe Marmottant
-- **Journal**: Journal of the Royal Society Interface, 21 (217): 20240103
-- **Year**: 2024
+- **Ludovic Keiser**, Benjamin Dollet, Philippe Marmottant
+- Journal of the Royal Society Interface, 21 (217): 20240103
+- 2024
 - [Link to article](https://doi.org/10.1098/rsif.2024.0103) | [PDF](publications/Keiser2024_JRSI)
 
-## 14. Title of the 14th Article
-- **Authors**: Ludovic Keiser, Co-author Name
-- **Journal**: Journal Name, Volume, Pages
-- **Year**: 2023
-- [Link to Article](link_to_article_14) | [PDF](path/to/pdf14.pdf)
+## 14. Releasing long bubbles trapped in thin capillaries via tube centrifugation and inclination
+- Alice Marcotte, Pier Giuseppe Ledda, Valentin Buriasco, Paul Dené, François Gallaire, **Ludovic Keiser**
+- *Journal of Fluid Mechanics*, *in press*
+- 2024
+- [Link to article](https://doi.org/10.48550/arXiv.2404.17934) | [PDF](publications/Marcotte2024_JFMbis)
 
 ## 13. Title of the 13th Article
 - **Authors**: Ludovic Keiser, Co-author Name
