@@ -6,7 +6,13 @@
 <meta name="description" content="Site web personnel de Ludovic Keiser, chargé de recherche au CNRS, spécialiste en physique de la matière molle, biomimétisme, et microfluidique.">
 <meta name="keywords" content="Ludovic Keiser, physics, soft matter, biomimetics, microfluidics, cavitation, plant hydraulics, CNRS, Université Côte d'Azur, UniCA, physique, matière molle, biomimétisme, microfluidique, recherche">
 <meta name="author" content="Ludovic Keiser">
-[Home](index.md) | [Publications](publications.md) | [Contact](contact.md)
+
+---
+layout: default
+title: "Publications"
+---
+
+[Home]({{ '/' | relative_url }}) | [Publications]({{ '/publications/' | relative_url }}) | [Contact]({{ '/contact/' | relative_url }})
 
 # Ludovic Keiser - CNRS Researcher - Université Côte d'Azur, Nice, France
 
