@@ -1,3 +1,9 @@
+
+---
+layout: default
+title: "Publications"
+---
+
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="/images/Marangoni bursting.png" alt="Header Image" style="height: 150px; width: auto;">
     <img src="/images/Helical_drainage1.jpg" alt="Header Image" style="height: 150px; width: auto;">
@@ -7,10 +13,6 @@
 <meta name="keywords" content="Ludovic Keiser, physics, soft matter, biomimetics, microfluidics, cavitation, plant hydraulics, CNRS, Université Côte d'Azur, UniCA, physique, matière molle, biomimétisme, microfluidique, recherche">
 <meta name="author" content="Ludovic Keiser">
 
----
-layout: default
-title: "Publications"
----
 
 [Home]({{ '/' | relative_url }}) | [Publications]({{ '/publications/' | relative_url }}) | [Contact]({{ '/contact/' | relative_url }})
 
