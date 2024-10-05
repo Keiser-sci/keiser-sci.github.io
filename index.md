@@ -1,9 +1,3 @@
-
----
-layout: default
-title: "Publications"
----
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="/images/Marangoni bursting.png" alt="Header Image" style="height: 150px; width: auto;">
     <img src="/images/Helical_drainage1.jpg" alt="Header Image" style="height: 150px; width: auto;">
