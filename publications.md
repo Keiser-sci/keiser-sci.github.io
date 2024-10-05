@@ -96,7 +96,8 @@ title: "Publications"
     <strong>[9] Automated Analysis of Cerebrospinal Fluid Flow and Motile Cilia Properties in The Central Canal of Zebrafish Embryos.</strong><br>
     <span style="font-size: 0.9em;">Olivier Thouvenin, Yasmine Cantaut-Belarif, Ludovic Keiser, François Gallaire, Claire Wyart</span><br>
     <em>Bio-protocol</em> 11 (5): e3932 (2021) 
-    [<a href="https://doi.org/10.21769/BioProtoc.3932">PDF</a>] 
+    [<a href="https://doi.org/10.21769/BioProtoc.3932">Publisher</a>] 
+    [<a href="publications/Thouvenin2021_Bioprotocol.pdf">PDF</a>]
     [<button onclick="toggleAbstract('abstract9')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract9" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> Circulation of cerebrospinal fluid (CSF) plays an important role during development. In zebrafish embryo, the flow of CSF has been found to be bidirectional in the central canal of the spinal cord. In order to compare conditions and genetic mutants across each other, we recently automated the quantification of the velocity profile of exogenous fluorescent particles in the CSF. We demonstrated that the beating of motile and tilted cilia localized on the ventral side of the central canal was sufficient to generate locally such bidirectionality. Our approach can easily be extended to characterize CSF flow in various genetic mutants. We provide here a detailed protocol and a user interface program to quantify CSF dynamics. In order to interpret potential changes in CSF flow profiles, we provide additional tools to measure the central canal diameter, characterize cilia dynamics and compare experimental data with our theoretical model in order to estimate the impact of cilia in generating a volume force in the central canal. Our approach can also be of use for measuring particle velocity in vivo and modeling flow in diverse biological solutions.
@@ -107,7 +108,8 @@ title: "Publications"
     <strong>[8] Environmental Control of Amyloid Polymorphism by Modulation of Hydrodynamic Stress.</strong><br>
     <span style="font-size: 0.9em;">Jiangtao Zhou, Leonardo Venturelli, Ludovic Keiser, Sergey K Sekatskii, François Gallaire, et al.</span><br>
     <em>ACS Nano</em> 15 (1): 944-953 (2021) 
-    [<a href="https://doi.org/10.1021/acsnano.0c07570">PDF</a>] 
+   [<a href="https://doi.org/10.1021/acsnano.0c07570">Publisher</a>] 
+    [<a href="publications/Zhou2021_ACSNano.pdf">PDF</a>] 
     [<button onclick="toggleAbstract('abstract8')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract8" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> The phenomenon of amyloid polymorphism is a key feature of protein aggregation. Unravelling this phenomenon is of great significance for understanding the underlying molecular mechanisms associated with neurodegenerative diseases and for the development of amyloid-based functional biomaterials. However, the understanding of the molecular origins and the physicochemical factors modulating amyloid polymorphs remains challenging. Herein, we demonstrate an association between amyloid polymorphism and environmental stress in solution, induced by an air/water interface in motion. Our results reveal that low-stress environments produce heterogeneous amyloid polymorphs, including twisted, helical, and rod-like fibrils, whereas high-stress conditions generate only homogeneous rod-like fibrils. Moreover, high environmental stress converts twisted fibrils into rod-like fibrils both in-pathway and after the completion of mature amyloid formation. These results enrich our understanding of the environmental origin of polymorphism of pathological amyloids and shed light on the potential of environmentally controlled fabrication of homogeneous amyloid biomaterials for biotechnological applications.
@@ -118,7 +120,8 @@ title: "Publications"
     <strong>[7] Origin and role of the cerebrospinal fluid bidirectional flow in the central canal.</strong><br>
     <span style="font-size: 0.9em;">Olivier Thouvenin, Ludovic Keiser, Yasmine Cantaut-Belarif, Martin Carbo-Tano, et al.</span><br>
     <em>eLife</em> 9: e47699 (2020) 
-    [<a href="https://doi.org/10.7554/eLife.47699">PDF</a>] 
+    [<a href="https://doi.org/10.7554/eLife.47699">Publisher</a>] 
+    [<a href="publications/Thouvenin_Elife2020.pdf">PDF</a>] 
     [<button onclick="toggleAbstract('abstract7')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract7" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> Circulation of the cerebrospinal fluid (CSF) contributes to body axis formation and brain development. Here, we investigated the unexplained origins of the CSF flow bidirectionality in the central canal of the spinal cord of 30 hpf zebrafish embryos and its impact on development. Experiments combined with modeling and simulations demonstrate that the CSF flow is generated locally by caudally-polarized motile cilia along the ventral wall of the central canal. The closed geometry of the canal imposes the average flow rate to be null, explaining the reported bidirectionality. We also demonstrate that at this early stage, motile cilia ensure the proper formation of the central canal. Furthermore, we demonstrate that the bidirectional flow accelerates the transport of particles in the CSF via a coupled convective-diffusive transport process. Our study demonstrates that cilia activity combined with muscle contractions sustain the long-range transport of extracellular lipidic particles, enabling embryonic growth.
@@ -129,7 +132,8 @@ title: "Publications"
     <strong>[6] Motion of viscous droplets in rough confinement: paradoxical lubrication.</strong><br>
     <span style="font-size: 0.9em;">Ludovic Keiser, Armelle Keiser, Manon L’Estimé, José Bico, Étienne Reyssat</span><br>
     <em>Physical Review Letters</em> 122 (7): 074501 (2019) 
-    [<a href="https://doi.org/10.1103/PhysRevLett.122.074501">PDF</a>] 
+    [<a href="https://doi.org/10.1103/PhysRevLett.122.074501">Publisher</a>] 
+    [<a href="publications/Keiser2019_PRL.pdf">PDF</a>] 
     [<button onclick="toggleAbstract('abstract6')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract6" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> We study the sedimentation of highly viscous droplets confined inside Hele-Shaw cells with textured walls of controlled topography. In contrast with common observations on superhydrophobic surfaces, roughness tends here to significantly increase viscous friction, thus substantially decreasing the droplets mobility. However, reducing confinement induces a jump in the velocity as droplets can slide on a lubricating layer of the surrounding fluid thicker than the roughness features. We demonstrate that increasing the viscosity of the surrounding liquid may counterintuitively enhance the mobility of a droplet sliding along a rough wall. Similarly, a sharp change of the droplet mobility is observed as the amplitude of the roughness is modified. These results illustrate the nontrivial friction processes at the scale of the roughness, and the coupling between viscous dissipation in the drop, in the front meniscus, and in the lubricating film. They could enable one to specifically control the speed of droplets or capsules in microchannels, based on their rheological properties.
@@ -140,7 +144,8 @@ title: "Publications"
     <strong>[5] Marangoni bursting: Evaporation-induced emulsification of a two-component droplet.</strong><br>
     <span style="font-size: 0.9em;">Guillaume Durey, Hoon Kwon, Quentin Magdelaine, Ludovic Keiser, et al.</span><br>
     <em>Physical Review Fluids</em> 3 (10): 100501 (2018) 
-    [<a href="https://doi.org/10.1103/APS.DFD.2017.GFM.V0020">PDF</a>] 
+    [<a href="https://doi.org/10.1103/APS.DFD.2017.GFM.V0020">Publisher</a>] 
+    [<a href="publications/Durey2019_PRF.pdf">PDF</a>] 
     [<button onclick="toggleAbstract('abstract5')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract5" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> This paper is associated with a video winner of a 2017 APS/DFD Milton van Dyke Award for work presented at the DFD Gallery of Fluid Motion. The original video is available from the Gallery of Fluid Motion, https://doi.org/10.1103/APS.DFD.2017.GFM.V0020
@@ -151,7 +156,8 @@ title: "Publications"
     <strong>[4] Dynamics of non-wetting drops confined in a Hele-Shaw cell.</strong><br>
     <span style="font-size: 0.9em;">Ludovic Keiser, Khalil Jaafar, José Bico, Étienne Reyssat</span><br>
     <em>Journal of Fluid Mechanics</em> 845: 245-262 (2018) 
-    [<a href="https://doi.org/10.1017/jfm.2018.240">PDF</a>] 
+    [<a href="https://doi.org/10.1017/jfm.2018.240">Publisher</a>] 
+    [<a href="publications/Keiser2018_JFM.pdf">PDF</a>] 
     [<button onclick="toggleAbstract('abstract4')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract4" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> We experimentally investigate the sedimentation of a non-wetting drop confined between two parallel walls. The whole system is immersed in a bath of liquid of low viscosity and a lubricating film may be dynamically formed between the drop and the walls of the cell. Depending on the thickness of the film and on the viscosity ratio between the droplet and the surrounding liquid, viscous dissipation localizes either in the lubrication layer or in the bulk of the drop. The velocity of the droplet is non-trivial as the thickness of the lubricating layer may depend on the interplay between interfacial tension and viscous dissipation. Interestingly, thin films whose nanometric thickness is set by long range intermolecular interactions may lubricate efficiently the motion of highly viscous droplets. We derive asymptotic models that successfully capture the settling velocity of the drop in the different regimes observed experimentally. The effect of partial wetting is finally illustrated by a sharp increase of the velocity of the drops that we attribute to a wetting transition.
@@ -162,7 +168,8 @@ title: "Publications"
     <strong>[3] Marangoni bursting: evaporation-induced emulsification of binary mixtures on a liquid layer.</strong><br>
     <span style="font-size: 0.9em;">Ludovic Keiser, Hadrien Bense, Pierre Colinet, José Bico, Étienne Reyssat</span><br>
     <em>Physical Review Letters</em> 118 (7): 074504 (2017) 
-    [<a href="https://doi.org/10.1103/PhysRevLett.118.074504">PDF</a>] 
+   [<a href="https://doi.org/10.1103/PhysRevLett.118.074504">Publisher</a>] 
+    [<a href="publications/Keiser2017_PRL.pdf">PDF</a>] 
     [<button onclick="toggleAbstract('abstract3')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract3" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> Adjusting the wetting properties of water through the addition of a miscible liquid is commonly used in a wide variety of industrial processes involving interfaces. We investigate experimentally the evolution of a drop of water and volatile alcohol deposited on a bath of oil: The drop spreads and spontaneously fragments into a myriad of minute droplets whose size strongly depends on the initial concentration of alcohol. Marangoni flows induced by the evaporation of alcohol play a key role in the overall phenomenon. The intricate coupling of hydrodynamics, wetting, and evaporation is well captured by analytical scaling laws. Our scenario is confirmed by experiments involving other combinations of liquids that also lead to this fascinating phenomenon.
