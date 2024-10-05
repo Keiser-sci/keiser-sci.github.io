@@ -21,44 +21,45 @@ Here is a list of my publications, starting with the most recent:
 - Jiande Zhou, Yves-Marie Ducimetière, Daniel Migliozzi, **Ludovic Keiser**, Arnaud Bertsch, François Gallaire, Philippe Renaud
 - *Physical Review Fluids*, 8 (5): 054201 
 - 2023
-- [Link to Article](https://doi.org/10.1103/PhysRevFluids.8.054201) | [PDF](publications/Zhou2023_PRF.pdf)
+- [Link to article](https://doi.org/10.1103/PhysRevFluids.8.054201) | [PDF](publications/Zhou2023_PRF.pdf)
 
 ## 12. CSF-contacting neurons respond to Streptococcus pneumoniae and promote host survival during central nervous system infection
 
- - Andrew E Prendergast, Kin Ki Jim, Hugo Marnas, Laura Desban, Feng B Quan, Lydia Djenoune, Valerio Laghi, Agnès Hocquemiller, Elias T. Lunsford, Julian Roussel, **Ludovic Keiser**, Francois-Xavier Lejeune, Mahalakshmi Dhanasekar, Pierre-Luc Bardet, Jean-Pierre Levraud, Diederik van de Beek, Christina M.J.E. Vandenbroucke-Grauls, Claire Wyart
+- Andrew E Prendergast, Kin Ki Jim, Hugo Marnas, Laura Desban, Feng B Quan, Lydia Djenoune, Valerio Laghi, Agnès Hocquemiller, Elias T. Lunsford, Julian Roussel, **Ludovic Keiser**, Francois-Xavier Lejeune, Mahalakshmi Dhanasekar, Pierre-Luc Bardet, Jean-Pierre Levraud, Diederik van de Beek, Christina M.J.E. Vandenbroucke-Grauls, Claire Wyart
 - *Current biology*, 33 (5):940-956.e10
 - 2023
-- [Link to Article](https://doi.org/10.1016/j.cub.2023.01.039) | [PDF](publications/Prendergast2023.pdf)
+- [Link to article](https://doi.org/10.1016/j.cub.2023.01.039) | [PDF](publications/Prendergast2023.pdf)
 
-## 11. Title of the 11th Article
-- **Authors**: Ludovic Keiser, Co-author Name
-- **Journal**: Journal Name, Volume, Pages
-- **Year**: 2022
-- [Link to Article](link_to_article_11) | [PDF](path/to/pdf11.pdf)
+## 11. Whirling instability of an eccentric coated fibre
+
+- Shahab Eghbali, **Ludovic Keiser**, Edouard Boujo, François Gallaire
+- *Journal of Fluid Mechanics*, 952, A33
+- 2022
+- [Link to article](https://doi.org/10.1017/jfm.2022.876) | [PDF](publications/Eghbali2022_JFM.pdf)
 
 ## 10. Title of the 10th Article
 - **Authors**: Ludovic Keiser, Co-author Name
 - **Journal**: Journal Name, Volume, Pages
 - **Year**: 2021
-- [Link to Article](link_to_article_10) | [PDF](path/to/pdf10.pdf)
+- [Link to article](link_to_article_10) | [PDF](path/to/pdf10.pdf)
 
 ## 9. Title of the 9th Article
 - **Authors**: Ludovic Keiser, Co-author Name
 - **Journal**: Journal Name, Volume, Pages
 - **Year**: 2021
-- [Link to Article](link_to_article_9) | [PDF](path/to/pdf9.pdf)
+- [Link to article](link_to_article_9) | [PDF](path/to/pdf9.pdf)
 
 ## 8. Title of the 8th Article
 - **Authors**: Ludovic Keiser, Co-author Name
 - **Journal**: Journal Name, Volume, Pages
 - **Year**: 2020
-- [Link to Article](link_to_article_8) | [PDF](path/to/pdf8.pdf)
+- [Link to article](link_to_article_8) | [PDF](path/to/pdf8.pdf)
 
 ## 7. Title of the 7th Article
 - **Authors**: Ludovic Keiser, Co-author Name
 - **Journal**: Journal Name, Volume, Pages
 - **Year**: 2020
-- [Link to Article](link_to_article_7) | [PDF](path/to/pdf7.pdf)
+- [Link to article](link_to_article_7) | [PDF](path/to/pdf7.pdf)
 
 ## 6. Title of the 6th Article
 - **Authors**: Ludovic Keiser, Co-author Name
@@ -70,13 +71,13 @@ Here is a list of my publications, starting with the most recent:
 - **Authors**: Ludovic Keiser, Co-author Name
 - **Journal**: Journal Name, Volume, Pages
 - **Year**: 2019
-- [Link to Article](link_to_article_5) | [PDF](path/to/pdf5.pdf)
+- [Link to article](link_to_article_5) | [PDF](path/to/pdf5.pdf)
 
 ## 4. Title of the 4th Article
 - **Authors**: Ludovic Keiser, Co-author Name
 - **Journal**: Journal Name, Volume, Pages
 - **Year**: 2018
-- [Link to Article](link_to_article_4) | [PDF](path/to/pdf4.pdf)
+- [Link to article](link_to_article_4) | [PDF](path/to/pdf4.pdf)
 
 ## 3. Title of the 3rd Article
 - **Authors**: Ludovic Keiser, Co-author Name
@@ -88,13 +89,13 @@ Here is a list of my publications, starting with the most recent:
 - **Authors**: Ludovic Keiser, Co-author Name
 - **Journal**: Journal Name, Volume, Pages
 - **Year**: 2017
-- [Link to Article](link_to_article_2) | [PDF](path/to/pdf2.pdf)
+- [Link to article](link_to_article_2) | [PDF](path/to/pdf2.pdf)
 
 ## 1. Title of the Oldest Article
 - **Authors**: Ludovic Keiser, Co-author Name
 - **Journal**: Journal of Fluid Mechanics
 - **Year**: 2016
-- [Link to Article](link_to_article_1) | [PDF](path/to/pdf1.pdf)
+- [Link to article](link_to_article_1) | [PDF](path/to/pdf1.pdf)
 
 
 # Patent
