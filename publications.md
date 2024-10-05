@@ -25,7 +25,7 @@ title: "Publications"
 
     <!-- Image Section -->
     <div style="flex: 1; text-align: right;">
-        <img src="/images/article_illustration/Desban2022_img.pdf" alt="Lateral Line Hair Cells" style="height: 200px; width: auto; object-fit: contain;">
+        <img src="/images/article_illustration/Desban2022_img.pdf" alt="Lateral Line Hair Cells" style="height: 600px; width: auto; object-fit: contain;">
     </div>
 </li>
 
