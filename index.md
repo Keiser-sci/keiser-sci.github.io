@@ -1,6 +1,9 @@
 <div style="text-align: center;">
     <img src="/images/Marangoni bursting.png" alt="Header Image" style="width: 30%; height: auto;">
 </div>
+<meta name="description" content="Site web personnel de Ludovic Keiser, chargé de recherche au CNRS, spécialiste en physique de la matière molle, biomimétisme, et microfluidique.">
+<meta name="keywords" content="Ludovic Keiser, physics, soft matter, biomimetics, microfluidics, cavitation, plant hydraulics, CNRS, Université Côte d'Azur, UniCA, physique, matière molle, biomimétisme, microfluidique, recherche">
+<meta name="author" content="Ludovic Keiser">
 [Home](index.md) | [Publications](publications.md) | [Contact](contact.md)
 
 title: "Ludovic Keiser - Physicien"
