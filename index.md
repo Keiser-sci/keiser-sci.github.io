@@ -3,7 +3,7 @@
 </div>
 [Home](index.md) | [Publications](publications.md) | [Contact](contact.md)
 
-# Ludovic's Research
+# Ludovic Keiser - CNRS Researcher - Université Côte d'Azur, Nice, France
 
 Welcome to my personal research page. Here, you'll find information about my work in soft matter physics, microfluidics, and biomimetics.
 
