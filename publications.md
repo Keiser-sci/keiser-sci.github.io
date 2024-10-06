@@ -24,7 +24,7 @@ title: "Publications"
     </div>
 
     <!-- Image Section -->
-    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Set a max-width to constrain image container -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: 10px;"> <!-- Set a max-width to constrain image container -->
         <img src="/images/article_illustration/Desban2022_image2.png" alt="Lateral Line Hair Cells" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
