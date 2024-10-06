@@ -52,18 +52,26 @@ title: "Publications"
     </div>
 </li>
 
-<li style="margin-bottom: 15px;">
-    <strong>[14] Releasing long bubbles trapped in thin capillaries via tube centrifugation and inclination.</strong><br>
-    <span style="font-size: 0.9em;">Alice Marcotte, Pier Giuseppe Ledda, Valentin Buriasco, Paul Dené, François Gallaire, <strong>Ludovic Keiser</strong></span><br>
-    <em>Journal of Fluid Mechanics</em>, in press (2024) 
-    [<a href="https://doi.org/10.48550/arXiv.2404.17934">Publisher</a>] 
-    [<a href="publications/Marcotte2024_JFMbis.pdf">PDF</a>] 
-    [<button onclick="toggleAbstract('abstract14')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
-    <div id="abstract14" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> In confined systems, the entrapment of a gas volume with an equivalent spherical diameter greater than the dimension of the channel can form extended bubbles that obstruct fluid circuits and compromise performance. Notably, in sealed vertical tubes, buoyant long bubbles -- called Taylor bubbles -- cannot rise if the inner tube radius is below a critical value near the capillary length. This critical threshold for steady ascent is determined by geometric constraints related to matching the upper cap shape with the lubricating film in the elongated part of the bubble. Developing strategies to overcome this threshold and release stuck bubbles is essential for applications involving narrow liquid channels. Effective strategies involve modifying matching conditions with an external force field to facilitate bubble ascent. However, it's unclear how changes in acceleration conditions affect the motion onset of buoyancy-driven long bubbles. This study investigates the mobility of elongated bubbles in sealed tubes with an inner radius near the critical value inhibiting bubble motion in a vertical setting. Two strategies are explored to tune bubble motion, leveraging variations in axial and transversal accelerations: tube rotation around its axis and tube inclination relative to gravity. By revising the geometrical constraints of the simple vertical setting, the study predicts new thresholds based on rotational speed and tilt angle, respectively, providing forecasts for the bubble rising velocity under modified apparent gravity. Experimental measurements of motion threshold and rising velocity compare well with theoretical developments, thus suggesting practical approaches to control and tune bubble motion in confined environments.
+<li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
+        <strong>[14] Releasing long bubbles trapped in thin capillaries via tube centrifugation and inclination.</strong><br>
+        <span style="font-size: 0.9em;">Alice Marcotte, Pier Giuseppe Ledda, Valentin Buriasco, Paul Dené, François Gallaire, <strong>Ludovic Keiser</strong></span><br>
+        <em>Journal of Fluid Mechanics</em>, in press (2024) 
+        [<a href="https://doi.org/10.48550/arXiv.2404.17934">Publisher</a>] 
+        [<a href="publications/Marcotte2024_JFMbis.pdf">PDF</a>] 
+        <button onclick="toggleAbstract('abstract14')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
+        <div id="abstract14" style="display:none; margin-top: 10px; font-size: 0.9em;">
+            <strong>Abstract:</strong> In confined systems, the entrapment of a gas volume with an equivalent spherical diameter greater than the dimension of the channel can form extended bubbles that obstruct fluid circuits and compromise performance. Notably, in sealed vertical tubes, buoyant long bubbles -- called Taylor bubbles -- cannot rise if the inner tube radius is below a critical value near the capillary length. This critical threshold for steady ascent is determined by geometric constraints related to matching the upper cap shape with the lubricating film in the elongated part of the bubble. Developing strategies to overcome this threshold and release stuck bubbles is essential for applications involving narrow liquid channels. Effective strategies involve modifying matching conditions with an external force field to facilitate bubble ascent. However, it's unclear how changes in acceleration conditions affect the motion onset of buoyancy-driven long bubbles. This study investigates the mobility of elongated bubbles in sealed tubes with an inner radius near the critical value inhibiting bubble motion in a vertical setting. Two strategies are explored to tune bubble motion, leveraging variations in axial and transversal accelerations: tube rotation around its axis and tube inclination relative to gravity. By revising the geometrical constraints of the simple vertical setting, the study predicts new thresholds based on rotational speed and tilt angle, respectively, providing forecasts for the bubble rising velocity under modified apparent gravity. Experimental measurements of motion threshold and rising velocity compare well with theoretical developments, thus suggesting practical approaches to control and tune bubble motion in confined environments.
+        </div>
     </div>
-    </li>
-    
+
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Marcotte2024_image.png" alt="Bubble Motion" style="height: 80px; width: auto; object-fit: contain;">
+    </div>
+</li>
+
    <li style="margin-bottom: 15px;">
     <strong>[13] Breaking one into three: surface-tension-driven droplet breakup in T-junctions.</strong><br>
     <span style="font-size: 0.9em;">Jiande Zhou, Yves-Marie Ducimetière, Daniel Migliozzi,<strong>Ludovic Keiser</strong>, Arnaud Bertsch, François Gallaire & Philippe Renaud</span><br>
