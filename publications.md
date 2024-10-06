@@ -13,7 +13,7 @@ title: "Publications"
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;"> <!-- Reduced padding-right to 5px -->
         <strong>[S1] Lateral line hair cells integrate mechanical and chemical cues to orient navigation.</strong><br>
-        <span style="font-size: 0.9em;">Laura Desban, Julian Roussel, Olivier Mirat, François-Xavier Lejeune, <strong>Ludovic Keiser</strong>, Nicolas Antoine Michalski, Claire Wyart</span><br>
+        <span style="font-size: 0.9em;">Laura Desban, Julian Roussel, Olivier Mirat, François-Xavier Lejeune, <strong>Ludovic Keiser</strong>, Nicolas Antoine Michalski & Claire Wyart</span><br>
         <em>bioRxiv</em> (Submitted) 
         [<a href="https://doi.org/10.1101/2022.08.31.505989">Publisher</a>] 
         [<a href="publications/Desban2022_bioArXiv.pdf">PDF</a>] 
@@ -34,7 +34,7 @@ title: "Publications"
 <ul style="list-style-type: none; padding: 0;">
     <li style="margin-bottom: 15px;">
         <strong>[15] Embolism propagation in Adiantum leaves and in a biomimetic system with constrictions.</strong><br>
-        <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Benjamin Dollet, Philippe Marmottant</span><br>
+        <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Benjamin Dollet & Philippe Marmottant</span><br>
         <em>Journal of the Royal Society Interface</em>, 21 (217): 20240103 (2024) [<a href="https://doi.org/10.1098/rsif.2024.0103">Publisher</a>] 
     [<a href="publications/Keiser2024_JRSI.pdf">PDF</a>]  [<button onclick="toggleAbstract('abstract2')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
         <div id="abstract2" style="display:none; margin-top: 10px; font-size: 0.9em;">
@@ -55,7 +55,7 @@ title: "Publications"
     
    <li style="margin-bottom: 15px;">
     <strong>[13] Breaking one into three: surface-tension-driven droplet breakup in T-junctions.</strong><br>
-    <span style="font-size: 0.9em;">Jiande Zhou, Yves-Marie Ducimetière, Daniel Migliozzi,<strong>Ludovic Keiser</strong>, Arnaud Bertsch, François Gallaire, Philippe Renaud</span><br>
+    <span style="font-size: 0.9em;">Jiande Zhou, Yves-Marie Ducimetière, Daniel Migliozzi,<strong>Ludovic Keiser</strong>, Arnaud Bertsch, François Gallaire & Philippe Renaud</span><br>
     <em>Physical Review Fluids</em> 8 (5): 054201 (2023) 
      [<a href="https://doi.org/10.1103/PhysRevFluids.8.054201">Publisher</a>] 
     [<a href="publications/Zhou2023_PRF.pdf">PDF</a>] 
@@ -79,7 +79,7 @@ title: "Publications"
 
    <li style="margin-bottom: 15px;">
     <strong>[11] Whirling instability of an eccentric coated fibre.</strong><br>
-    <span style="font-size: 0.9em;">Shahab Eghbali, <strong>Ludovic Keiser</strong>, Edouard Boujo, François Gallaire</span><br>
+    <span style="font-size: 0.9em;">Shahab Eghbali, <strong>Ludovic Keiser</strong>, Edouard Boujo & François Gallaire</span><br>
     <em>Journal of Fluid Mechanics</em> 952: A33 (2022) 
    [<a href="https://doi.org/10.1017/jfm.2022.876">Publisher</a>] 
     [<a href="publications/Eghbali2022_JFM.pdf">PDF</a>] 
@@ -91,7 +91,7 @@ title: "Publications"
 
     <li style="margin-bottom: 15px;">
     <strong>[10] Intermittent air invasion in pervaporating compliant microchannels.</strong><br>
-    <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Philippe Marmottant, Benjamin Dollet</span><br>
+    <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Philippe Marmottant & Benjamin Dollet</span><br>
     <em>Journal of Fluid Mechanics</em> 948: A52 (2022) 
      [<a href="https://doi.org/10.1017/jfm.2022.733">Publisher</a>] 
     [<a href="publications/Keiser2022_JFM.pdf">PDF</a>] 
@@ -103,7 +103,7 @@ title: "Publications"
 
     <li style="margin-bottom: 15px;">
     <strong>[9] Automated Analysis of Cerebrospinal Fluid Flow and Motile Cilia Properties in The Central Canal of Zebrafish Embryos.</strong><br>
-    <span style="font-size: 0.9em;">Olivier Thouvenin, Yasmine Cantaut-Belarif, <strong>Ludovic Keiser</strong>, François Gallaire, Claire Wyart</span><br>
+    <span style="font-size: 0.9em;">Olivier Thouvenin, Yasmine Cantaut-Belarif, <strong>Ludovic Keiser</strong>, François Gallaire & Claire Wyart</span><br>
     <em>Bio-protocol</em> 11 (5): e3932 (2021) 
     [<a href="https://doi.org/10.21769/BioProtoc.3932">Publisher</a>] 
     [<a href="publications/Thouvenin2021_Bioprotocol.pdf">PDF</a>]
@@ -139,7 +139,7 @@ title: "Publications"
 
     <li style="margin-bottom: 15px;">
     <strong>[6] Motion of viscous droplets in rough confinement: paradoxical lubrication.</strong><br>
-    <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Armelle Keiser, Manon L’Estimé, José Bico, Étienne Reyssat</span><br>
+    <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Armelle Keiser, Manon L’Estimé, José Bico & Étienne Reyssat</span><br>
     <em>Physical Review Letters</em> 122 (7): 074501 (2019) 
     [<a href="https://doi.org/10.1103/PhysRevLett.122.074501">Publisher</a>] 
     [<a href="publications/Keiser2019_PRL.pdf">PDF</a>] 
@@ -163,7 +163,7 @@ title: "Publications"
 
     <li style="margin-bottom: 15px;">
     <strong>[4] Dynamics of non-wetting drops confined in a Hele-Shaw cell.</strong><br>
-    <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Khalil Jaafar, José Bico, Étienne Reyssat</span><br>
+    <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Khalil Jaafar, José Bico & Étienne Reyssat</span><br>
     <em>Journal of Fluid Mechanics</em> 845: 245-262 (2018) 
     [<a href="https://doi.org/10.1017/jfm.2018.240">Publisher</a>] 
     [<a href="publications/Keiser2018_JFM.pdf">PDF</a>] 
@@ -175,7 +175,7 @@ title: "Publications"
 
    <li style="margin-bottom: 15px;">
     <strong>[3] Marangoni bursting: evaporation-induced emulsification of binary mixtures on a liquid layer.</strong><br>
-    <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Hadrien Bense, Pierre Colinet, José Bico, Étienne Reyssat</span><br>
+    <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Hadrien Bense, Pierre Colinet, José Bico & Étienne Reyssat</span><br>
     <em>Physical Review Letters</em> 118 (7): 074504 (2017) 
    [<a href="https://doi.org/10.1103/PhysRevLett.118.074504">Publisher</a>] 
     [<a href="publications/Keiser2017_PRL.pdf">PDF</a>] 
@@ -187,7 +187,7 @@ title: "Publications"
 
     <li style="margin-bottom: 15px;">
     <strong>[2] Drop friction on liquid-infused materials.</strong><br>
-    <span style="font-size: 0.9em;">Armelle Keiser, <strong>Ludovic Keiser</strong>, Christophe Clanet, David Quéré</span><br>
+    <span style="font-size: 0.9em;">Armelle Keiser, <strong>Ludovic Keiser</strong>, Christophe Clanet & David Quéré</span><br>
     <em>Soft Matter</em> 13 (39): 6981-6987 (2017) 
     [<a href="https://doi.org/10.1039/C7SM01226H">Publisher</a>] 
     [<a href="publications/Keiser2017_Soft_Matter.pdf">PDF</a>] 
@@ -199,7 +199,7 @@ title: "Publications"
 
     <li style="margin-bottom: 15px;">
     <strong>[1] Washing wedges: capillary instability in a gradient of confinement.</strong><br>
-    <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Rémy Herbaut, José Bico, Étienne Reyssat</span><br>
+    <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Rémy Herbaut, José Bico & Étienne Reyssat</span><br>
     <em>Journal of Fluid Mechanics</em> 790: 619-633 (2016) 
     [<a href="https://doi.org/10.1017/jfm.2016.1">Publisher</a>] 
     [<a href="publications/Keiser2016_JFM.pdf">PDF</a>] 
@@ -215,7 +215,7 @@ title: "Publications"
  
 <li style="margin-bottom: 15px;">
     <strong>Blood condition analyzing device, blood condition analyzing system, and blood condition analyzing program.</strong><br>
-    <span style="font-size: 0.9em;">Marc-Aurèle Brun, Yoshihito Hayashi, <strong>Ludovic Keiser</strong></span><br>
+    <span style="font-size: 0.9em;">Marc-Aurèle Brun, Yoshihito Hayashi & <strong>Ludovic Keiser</strong></span><br>
     <em>US Patent</em> 10527605 (2020) 
     [<a href="https://patents.google.com/patent/US10527605B2/en">Publisher</a>] 
     [<a href="publications/Keiser2020_USPatent.pdf">PDF</a>] 
