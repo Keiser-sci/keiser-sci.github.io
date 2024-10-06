@@ -11,10 +11,10 @@ title: "Publications"
 
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
-    <div style="flex: 3; padding-right: 5px;">
+    <div style="flex: 3; padding-right: 5px;"> <!-- Reduced padding-right to 5px -->
         <strong>[S1] Lateral line hair cells integrate mechanical and chemical cues to orient navigation.</strong><br>
         <span style="font-size: 0.9em;">Laura Desban, Julian Roussel, Olivier Mirat, François-Xavier Lejeune, <strong>Ludovic Keiser</strong>, Nicolas Antoine Michalski, Claire Wyart</span><br>
-        <em>bioRxiv</em>
+        <em>bioRxiv</em> (Submitted) 
         [<a href="https://doi.org/10.1101/2022.08.31.505989">Publisher</a>] 
         [<a href="publications/Desban2022_bioArXiv.pdf">PDF</a>] 
         <button onclick="toggleAbstract('abstractS1')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
@@ -22,12 +22,12 @@ title: "Publications"
             <strong>Abstract:</strong> The lateral line is a superficial sensory system responding to environmental hydrodynamic changes to orient locomotion of aquatic vertebrate species. Whether this system also detects chemical cues is unknown. We find that zebrafish lateral line hair cells express numerous chemoreceptors, including ionotropic receptors for serotonin. We show that the serotonin enriched in skin neuroepithelial cells is released upon injury and that environmental serotonin activates lateral line hair cells. We show that larval zebrafish exposed to serotonin in their environment rely on the lateral line to swim fast and away. These results uncover the sensory versatility of lateral line hair cells and how these properties modulate navigation in response to environmental stimuli.
         </div>
     </div>
-</li>
 
-<!-- Separate Image Section Outside the Main Content -->
-<div style="text-align: right; margin-top: -30px; padding-right: 10px;"> <!-- Adjust margin-top to align with the list item -->
-    <img src="/images/article_illustration/Desban2022_image2.png" alt="Lateral Line Hair Cells" style="height: 80px; width: auto; object-fit: contain; border: 1px solid #ddd; padding: 5px;"> <!-- Added border and padding for visual separation -->
-</div>
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px;"> <!-- Set a max-width to constrain image container -->
+        <img src="/images/lateral-line-hair-cells.jpg" alt="Lateral Line Hair Cells" style="height: 80px; width: auto; object-fit: contain;">
+    </div>
+</li>
 
 
 <strong>Published</strong>
