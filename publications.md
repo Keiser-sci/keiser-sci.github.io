@@ -11,10 +11,10 @@ title: "Publications"
 
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
-    <div style="flex: 3; padding-right: 5px;"> <!-- Reduced padding-right to 5px -->
+    <div style="flex: 3; padding-right: 0;"> <!-- Removed padding-right -->
         <strong>[S1] Lateral line hair cells integrate mechanical and chemical cues to orient navigation.</strong><br>
         <span style="font-size: 0.9em;">Laura Desban, Julian Roussel, Olivier Mirat, François-Xavier Lejeune, <strong>Ludovic Keiser</strong>, Nicolas Antoine Michalski, Claire Wyart</span><br>
-        <em>bioRxiv</em>
+        <em>bioRxiv</em> 
         [<a href="https://doi.org/10.1101/2022.08.31.505989">Publisher</a>] 
         [<a href="publications/Desban2022_bioArXiv.pdf">PDF</a>] 
         <button onclick="toggleAbstract('abstractS1')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
@@ -24,10 +24,11 @@ title: "Publications"
     </div>
 
     <!-- Image Section -->
-    <div style="flex: 1; text-align: right; max-width: 100px;"> <!-- Set a max-width to constrain image container -->
-        <img src="/images/article_illustration/Desban2022_image2.png" alt="Lateral Line Hair Cells" style="height: 80px; width: auto; object-fit: contain;">
+    <div style="flex: 1; text-align: right; max-width: 80px;"> <!-- Reduced max-width -->
+        <img src="/images/article_illustration/Desban2022_image2.png" alt="Lateral Line Hair Cells" style="height: 80px; width: auto; object-fit: contain; margin-left: 10px;"> <!-- Added margin-left -->
     </div>
 </li>
+
 
 <strong>Published</strong>
 <ul style="list-style-type: none; padding: 0;">
