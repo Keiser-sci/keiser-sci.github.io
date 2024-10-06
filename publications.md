@@ -32,15 +32,26 @@ title: "Publications"
 
 <strong>Published</strong>
 <ul style="list-style-type: none; padding: 0;">
-    <li style="margin-bottom: 15px;">
+    <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
         <strong>[15] Embolism propagation in Adiantum leaves and in a biomimetic system with constrictions.</strong><br>
         <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Benjamin Dollet & Philippe Marmottant</span><br>
-        <em>Journal of the Royal Society Interface</em>, 21 (217): 20240103 (2024) [<a href="https://doi.org/10.1098/rsif.2024.0103">Publisher</a>] 
-    [<a href="publications/Keiser2024_JRSI.pdf">PDF</a>]  [<button onclick="toggleAbstract('abstract2')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
-        <div id="abstract2" style="display:none; margin-top: 10px; font-size: 0.9em;">
+        <em>Journal of the Royal Society Interface</em>, 21 (217): 20240103 (2024) 
+        [<a href="https://doi.org/10.1098/rsif.2024.0103">Publisher</a>] 
+        [<a href="publications/Keiser2024_JRSI.pdf">PDF</a>] 
+        <button onclick="toggleAbstract('abstract15')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
+        <div id="abstract15" style="display:none; margin-top: 10px; font-size: 0.9em;">
             <strong>Abstract:</strong> Drought poses a significant threat to forest survival worldwide by potentially generating air bubbles that obstruct sap transport within plants’ hydraulic systems. However, the detailed mechanism of air entry and propagation at the scale of the veins remains elusive. Building upon a biomimetic model of leaf which we developed, we propose a direct comparison of the air embolism propagation in Adiantum (maidenhair fern) leaves, presented in Brodribb et al. (Brodribb TJ, Bienaimé D, Marmottant P. 2016 Revealing catastrophic failure of leaf networks under stress. Proc. Natl Acad. Sci. USA 113, 4865–4869 (doi:10.1073/pnas.1522569113)) and in our biomimetic leaves. In particular, we evidence that the jerky dynamics of the embolism propagation observed in Adiantum leaves can be recovered through the introduction of micrometric constrictions in the section of our biomimetic veins, mimicking the nanopores present in the bordered pit membranes in real leaves. We show that the intermittency in the propagation can be retrieved by a simple model coupling the variations of pressure induced by the constrictions and the variations of the volume of the compliant microchannels. Our study marks a step with the design of a biomimetic leaf that reproduces particular aspects of embolism propagation in real leaves, using a minimal set of controllable and readily tunable components. This biomimetic leaf constitutes a promising physical analogue and sets the stage for future enhancements to fully embody the unique physical features of embolizing real leaves.
         </div>
-        </li>
+    </div>
+
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Keiser2024_image.png" alt="Embolism Propagation" style="height: 80px; width: auto; object-fit: contain;">
+    </div>
+</li>
+
 <li style="margin-bottom: 15px;">
     <strong>[14] Releasing long bubbles trapped in thin capillaries via tube centrifugation and inclination.</strong><br>
     <span style="font-size: 0.9em;">Alice Marcotte, Pier Giuseppe Ledda, Valentin Buriasco, Paul Dené, François Gallaire, <strong>Ludovic Keiser</strong></span><br>
