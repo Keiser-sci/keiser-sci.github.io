@@ -16,9 +16,9 @@ Together with Céline Cohen and Philippe Thomen, I am organizing the plenary day
 
 ## Research Interests
 
-- Plant Hydraulics
-- Non-Linear Flows in Microfluidics
-- Interfacial Hydrodynamics
+- Plant hydraulics
+- Nonlinear flows in microfluidics
+- Interfacial hydrodynamics
 
 ## Recent Publications
 
