@@ -31,7 +31,9 @@ title: "Publications"
 
 
 <strong>Published</strong>
+
 <ul style="list-style-type: none; padding: 0;">
+    
     <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
@@ -72,89 +74,147 @@ title: "Publications"
     </div>
 </li>
 
-   <li style="margin-bottom: 15px;">
-    <strong>[13] Breaking one into three: surface-tension-driven droplet breakup in T-junctions.</strong><br>
-    <span style="font-size: 0.9em;">Jiande Zhou, Yves-Marie Ducimetière, Daniel Migliozzi,<strong>Ludovic Keiser</strong>, Arnaud Bertsch, François Gallaire & Philippe Renaud</span><br>
-    <em>Physical Review Fluids</em> 8 (5): 054201 (2023) 
-     [<a href="https://doi.org/10.1103/PhysRevFluids.8.054201">Publisher</a>] 
-    [<a href="publications/Zhou2023_PRF.pdf">PDF</a>] 
-    [<button onclick="toggleAbstract('abstract13')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
-    <div id="abstract13" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> Droplet breakup is an important phenomenon in the field of microfluidics to generate daughter droplets. In this work, a novel breakup regime in the widely studied T-junction geometry is reported, where the pinch-off occurs laterally in the two outlet channels, leading to the formation of three daughter droplets, rather than at the center of the junction for conventional T-junctions which leads to two daughter droplets. It is demonstrated that this new mechanism is driven by surface tension, and a design rule for the T-junction geometry is proposed. A model for low values of the capillary number Ca is developed to predict the formation and growth of an underlying carrier fluid pocket that accounts for this lateral breakup mechanism. At higher values of Ca, the conventional regime of central breakup becomes dominant again. The competition between the new and the conventional regime is explored. Altogether, this novel droplet formation method at T-junction provides the functionality of alternating droplet size and composition, which can be important for the design of new microfluidic tools.
+   <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
+        <strong>[13] Breaking one into three: surface-tension-driven droplet breakup in T-junctions.</strong><br>
+        <span style="font-size: 0.9em;">Jiande Zhou, Yves-Marie Ducimetière, Daniel Migliozzi, <strong>Ludovic Keiser</strong>, Arnaud Bertsch, François Gallaire & Philippe Renaud</span><br>
+        <em>Physical Review Fluids</em> 8 (5): 054201 (2023) 
+        [<a href="https://doi.org/10.1103/PhysRevFluids.8.054201">Publisher</a>] 
+        [<a href="publications/Zhou2023_PRF.pdf">PDF</a>] 
+        <button onclick="toggleAbstract('abstract13')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
+        <div id="abstract13" style="display:none; margin-top: 10px; font-size: 0.9em;">
+            <strong>Abstract:</strong> Droplet breakup is an important phenomenon in the field of microfluidics to generate daughter droplets. In this work, a novel breakup regime in the widely studied T-junction geometry is reported, where the pinch-off occurs laterally in the two outlet channels, leading to the formation of three daughter droplets, rather than at the center of the junction for conventional T-junctions which leads to two daughter droplets. It is demonstrated that this new mechanism is driven by surface tension, and a design rule for the T-junction geometry is proposed. A model for low values of the capillary number Ca is developed to predict the formation and growth of an underlying carrier fluid pocket that accounts for this lateral breakup mechanism. At higher values of Ca, the conventional regime of central breakup becomes dominant again. The competition between the new and the conventional regime is explored. Altogether, this novel droplet formation method at T-junction provides the functionality of alternating droplet size and composition, which can be important for the design of new microfluidic tools.
+        </div>
+    </div>
+
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Zhou2023_image.png" alt="Droplet Breakup in T-Junctions" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 
-   <li style="margin-bottom: 15px;">
-    <strong>[12] CSF-contacting neurons respond to Streptococcus pneumoniae and promote host survival during central nervous system infection.</strong><br>
-    <span style="font-size: 0.9em;">Andrew E Prendergast, Kin Ki Jim, Hugo Marnas, Laura Desban, Feng B Quan, Lydia Djenoune, Valerio Laghi, Agnès Hocquemiller, Elias T. Lunsford, Julian Roussel, <strong>Ludovic Keiser</strong>, et al.</span><br>
-    <em>Current Biology</em> 33 (5): 940-956.e10 (2023) 
-    [<a href="https://doi.org/10.1016/j.cub.2023.01.039">Publisher</a>] 
-    [<a href="publications/Prendergast2023.pdf">PDF</a>] 
-    [<button onclick="toggleAbstract('abstract12')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
-    <div id="abstract12" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> The pathogenic bacterium Streptococcus pneumoniae (S. pneumoniae) can invade the cerebrospinal fluid (CSF) and cause meningitis with devastating consequences. Whether and how sensory cells in the central nervous system (CNS) become activated during bacterial infection, as recently reported for the peripheral nervous system, is not known. We find that CSF infection by S. pneumoniae in larval zebrafish leads to changes in posture and behavior that are reminiscent of pneumococcal meningitis, including dorsal arching and epileptic-like seizures. We show that during infection, invasion of the CSF by S. pneumoniae massively activates in vivo sensory neurons contacting the CSF, referred to as “CSF-cNs” and previously shown to detect spinal curvature and to control posture, locomotion, and spine morphogenesis. We find that CSF-cNs express orphan bitter taste receptors and respond in vitro to bacterial supernatant and metabolites via massive calcium transients, similar to the ones observed in vivo during infection. Upon infection, CSF-cNs also upregulate the expression of numerous cytokines and complement components involved in innate immunity. Accordingly, we demonstrate, using cell-specific ablation and blockade of neurotransmission, that CSF-cN neurosecretion enhances survival of the host during S. pneumoniae infection. Finally, we show that CSF-cNs respond to various pathogenic bacteria causing meningitis in humans, as well as to the supernatant of cells infected by a neurotropic virus. Altogether, our work uncovers that central sensory neurons in the spinal cord, previously involved in postural control and morphogenesis, contribute as well to host survival by responding to the invasion of the CSF by pathogenic bacteria during meningitis.
+  <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
+        <strong>[12] CSF-contacting neurons respond to Streptococcus pneumoniae and promote host survival during central nervous system infection.</strong><br>
+        <span style="font-size: 0.9em;">Andrew E Prendergast, Kin Ki Jim, Hugo Marnas, Laura Desban, Feng B Quan, Lydia Djenoune, Valerio Laghi, Agnès Hocquemiller, Elias T. Lunsford, Julian Roussel, <strong>Ludovic Keiser</strong>, et al.</span><br>
+        <em>Current Biology</em> 33 (5): 940-956.e10 (2023) 
+        [<a href="https://doi.org/10.1016/j.cub.2023.01.039">Publisher</a>] 
+        [<a href="publications/Prendergast2023.pdf">PDF</a>] 
+        <button onclick="toggleAbstract('abstract12')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
+        <div id="abstract12" style="display:none; margin-top: 10px; font-size: 0.9em;">
+            <strong>Abstract:</strong> The pathogenic bacterium Streptococcus pneumoniae (S. pneumoniae) can invade the cerebrospinal fluid (CSF) and cause meningitis with devastating consequences. Whether and how sensory cells in the central nervous system (CNS) become activated during bacterial infection, as recently reported for the peripheral nervous system, is not known. We find that CSF infection by S. pneumoniae in larval zebrafish leads to changes in posture and behavior that are reminiscent of pneumococcal meningitis, including dorsal arching and epileptic-like seizures. We show that during infection, invasion of the CSF by S. pneumoniae massively activates in vivo sensory neurons contacting the CSF, referred to as “CSF-cNs” and previously shown to detect spinal curvature and to control posture, locomotion, and spine morphogenesis. We find that CSF-cNs express orphan bitter taste receptors and respond in vitro to bacterial supernatant and metabolites via massive calcium transients, similar to the ones observed in vivo during infection. Upon infection, CSF-cNs also upregulate the expression of numerous cytokines and complement components involved in innate immunity. Accordingly, we demonstrate, using cell-specific ablation and blockade of neurotransmission, that CSF-cN neurosecretion enhances survival of the host during S. pneumoniae infection. Finally, we show that CSF-cNs respond to various pathogenic bacteria causing meningitis in humans, as well as to the supernatant of cells infected by a neurotropic virus. Altogether, our work uncovers that central sensory neurons in the spinal cord, previously involved in postural control and morphogenesis, contribute as well to host survival by responding to the invasion of the CSF by pathogenic bacteria during meningitis.
+        </div>
+    </div>
+
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Prendergast2023_image.png" alt="CSF-Contacting Neurons" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 
-   <li style="margin-bottom: 15px;">
-    <strong>[11] Whirling instability of an eccentric coated fibre.</strong><br>
-    <span style="font-size: 0.9em;">Shahab Eghbali, <strong>Ludovic Keiser</strong>, Edouard Boujo & François Gallaire</span><br>
-    <em>Journal of Fluid Mechanics</em> 952: A33 (2022) 
-   [<a href="https://doi.org/10.1017/jfm.2022.876">Publisher</a>] 
-    [<a href="publications/Eghbali2022_JFM.pdf">PDF</a>] 
-    [<button onclick="toggleAbstract('abstract11')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
-    <div id="abstract11" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> We study a gravity-driven viscous flow coating a vertical cylindrical fibre. The destabilisation of a draining liquid column into a downward moving train of beads has been linked to the conjunction of the Rayleigh–Plateau and Kapitza instabilities in the limit of small Bond numbers Bo. Here, we focus on quasi-inertialess flows (large Ohnesorge number Oh) and conduct a linear stability analysis on a unidirectional flow along a rigid eccentric fibre for intermediate to large Bo. We show the existence of two unstable modes, namely pearl and whirl modes. The pearl mode depicts asymmetric beads, similar to that of the Rayleigh–Plateau instability, whereas a single helix forms along the axis in the whirl mode instability. The geometric and hydrodynamic thresholds of the whirl mode instability are investigated, and phase diagrams showing the transition thresholds between different regimes are presented. Additionally, an energy analysis is carried out to elucidate the whirl formation mechanism. This analysis reveals that despite the unfavourable capillary energy cost, the asymmetric interface shear distribution, caused by the fibre eccentricity, has the potential to sustain a whirling interface. In general, small fibre radius and large eccentricity tend to foster the whirl mode instability, while reducing Bo tends to favour the dominance of the pearl mode instability. Finally, we compare the predictions of our model with the results of some illustrative experiments, using highly viscous silicone oils flowing down fibres. Whirling structures are observed for the first time, and the measured wavenumbers match our stability analysis prediction.
+
+   <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
+        <strong>[11] Whirling instability of an eccentric coated fibre.</strong><br>
+        <span style="font-size: 0.9em;">Shahab Eghbali, <strong>Ludovic Keiser</strong>, Edouard Boujo & François Gallaire</span><br>
+        <em>Journal of Fluid Mechanics</em> 952: A33 (2022) 
+        [<a href="https://doi.org/10.1017/jfm.2022.876">Publisher</a>] 
+        [<a href="publications/Eghbali2022_JFM.pdf">PDF</a>] 
+        <button onclick="toggleAbstract('abstract11')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
+        <div id="abstract11" style="display:none; margin-top: 10px; font-size: 0.9em;">
+            <strong>Abstract:</strong> We study a gravity-driven viscous flow coating a vertical cylindrical fibre. The destabilisation of a draining liquid column into a downward moving train of beads has been linked to the conjunction of the Rayleigh–Plateau and Kapitza instabilities in the limit of small Bond numbers Bo. Here, we focus on quasi-inertialess flows (large Ohnesorge number Oh) and conduct a linear stability analysis on a unidirectional flow along a rigid eccentric fibre for intermediate to large Bo. We show the existence of two unstable modes, namely pearl and whirl modes. The pearl mode depicts asymmetric beads, similar to that of the Rayleigh–Plateau instability, whereas a single helix forms along the axis in the whirl mode instability. The geometric and hydrodynamic thresholds of the whirl mode instability are investigated, and phase diagrams showing the transition thresholds between different regimes are presented. Additionally, an energy analysis is carried out to elucidate the whirl formation mechanism. This analysis reveals that despite the unfavourable capillary energy cost, the asymmetric interface shear distribution, caused by the fibre eccentricity, has the potential to sustain a whirling interface. In general, small fibre radius and large eccentricity tend to foster the whirl mode instability, while reducing Bo tends to favour the dominance of the pearl mode instability. Finally, we compare the predictions of our model with the results of some illustrative experiments, using highly viscous silicone oils flowing down fibres. Whirling structures are observed for the first time, and the measured wavenumbers match our stability analysis prediction.
+        </div>
+    </div>
+
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Eghbali2022_image.png" alt="Whirling Instability" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 
-    <li style="margin-bottom: 15px;">
-    <strong>[10] Intermittent air invasion in pervaporating compliant microchannels.</strong><br>
-    <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Philippe Marmottant & Benjamin Dollet</span><br>
-    <em>Journal of Fluid Mechanics</em> 948: A52 (2022) 
-     [<a href="https://doi.org/10.1017/jfm.2022.733">Publisher</a>] 
-    [<a href="publications/Keiser2022_JFM.pdf">PDF</a>] 
-    [<button onclick="toggleAbstract('abstract10')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
-    <div id="abstract10" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> We explore air invasion in a dead-end compliant water-filled microchannel containing a constriction. The phenomenon is driven by the pervaporation of the liquid present in the channel through the surrounding medium. The penetration is intermittent, jerky and characterised by a stop-and-go dynamics as the bubble escapes the constriction. We demonstrate that this sequence of arrest and jump of the bubble is due to an elasto-capillary coupling between the air–liquid interface and the elastic medium. When the interface enters the constriction, its curvature increases strongly, leading to a depressurisation within the liquid-filled channel that drives a compression of the channel. As the interface is forced to leave the constriction at a given threshold pressure, due to the ongoing loss of liquid content by pervaporation, the pressure is suddenly released, which gives rise to a rapid propagation of the air bubble away from the constriction, and a restoration of the rest shape of the channel. Combining macroscopic observations and confocal imaging, we present a comprehensive experimental study of this phenomenon. In particular, the effect of the channel geometry on the time of arrest in the constriction and the jump length is investigated. Our novel microfluidic design succeeds in mimicking the role of inter-vessel pits in plants, which transiently stop the propagation of air embolisms during long and severe droughts. It is expected to serve as a building block for further biomimetic studies in more complex leaf-like architectures, in order to recover this universal phenomenon of intermittent propagation reported in real leaves.
+<li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
+        <strong>[10] Intermittent air invasion in pervaporating compliant microchannels.</strong><br>
+        <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Philippe Marmottant & Benjamin Dollet</span><br>
+        <em>Journal of Fluid Mechanics</em> 948: A52 (2022) 
+        [<a href="https://doi.org/10.1017/jfm.2022.733">Publisher</a>] 
+        [<a href="publications/Keiser2022_JFM.pdf">PDF</a>] 
+        <button onclick="toggleAbstract('abstract10')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
+        <div id="abstract10" style="display:none; margin-top: 10px; font-size: 0.9em;">
+            <strong>Abstract:</strong> We explore air invasion in a dead-end compliant water-filled microchannel containing a constriction. The phenomenon is driven by the pervaporation of the liquid present in the channel through the surrounding medium. The penetration is intermittent, jerky, and characterised by a stop-and-go dynamics as the bubble escapes the constriction. We demonstrate that this sequence of arrest and jump of the bubble is due to an elasto-capillary coupling between the air–liquid interface and the elastic medium. When the interface enters the constriction, its curvature increases strongly, leading to a depressurisation within the liquid-filled channel that drives a compression of the channel. As the interface is forced to leave the constriction at a given threshold pressure, due to the ongoing loss of liquid content by pervaporation, the pressure is suddenly released, which gives rise to a rapid propagation of the air bubble away from the constriction and a restoration of the rest shape of the channel. Combining macroscopic observations and confocal imaging, we present a comprehensive experimental study of this phenomenon. In particular, the effect of the channel geometry on the time of arrest in the constriction and the jump length is investigated. Our novel microfluidic design succeeds in mimicking the role of inter-vessel pits in plants, which transiently stop the propagation of air embolisms during long and severe droughts. It is expected to serve as a building block for further biomimetic studies in more complex leaf-like architectures, in order to recover this universal phenomenon of intermittent propagation reported in real leaves.
+        </div>
+    </div>
+
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Keiser2022_image.png" alt="Intermittent Air Invasion" style="height: 80px; width: auto; object-fit: contain;">
+    </div>
+</li>
+<li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
+        <strong>[9] Automated Analysis of Cerebrospinal Fluid Flow and Motile Cilia Properties in The Central Canal of Zebrafish Embryos.</strong><br>
+        <span style="font-size: 0.9em;">Olivier Thouvenin, Yasmine Cantaut-Belarif, <strong>Ludovic Keiser</strong>, François Gallaire & Claire Wyart</span><br>
+        <em>Bio-protocol</em> 11 (5): e3932 (2021) 
+        [<a href="https://doi.org/10.21769/BioProtoc.3932">Publisher</a>] 
+        [<a href="publications/Thouvenin2021_Bioprotocol.pdf">PDF</a>]
+        <button onclick="toggleAbstract('abstract9')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
+        <div id="abstract9" style="display:none; margin-top: 10px; font-size: 0.9em;">
+            <strong>Abstract:</strong> Circulation of cerebrospinal fluid (CSF) plays an important role during development. In zebrafish embryos, the flow of CSF has been found to be bidirectional in the central canal of the spinal cord. To compare conditions and genetic mutants across each other, we recently automated the quantification of the velocity profile of exogenous fluorescent particles in the CSF. We demonstrated that the beating of motile and tilted cilia localized on the ventral side of the central canal was sufficient to generate such bidirectionality locally. Our approach can easily be extended to characterize CSF flow in various genetic mutants. We provide here a detailed protocol and a user interface program to quantify CSF dynamics. To interpret potential changes in CSF flow profiles, we provide additional tools to measure the central canal diameter, characterize cilia dynamics, and compare experimental data with our theoretical model to estimate the impact of cilia in generating a volume force in the central canal. Our approach can also be used for measuring particle velocity in vivo and modeling flow in diverse biological solutions.
+        </div>
+    </div>
+
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Thouvenin2021_image.png" alt="Cerebrospinal Fluid Flow" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 
-    <li style="margin-bottom: 15px;">
-    <strong>[9] Automated Analysis of Cerebrospinal Fluid Flow and Motile Cilia Properties in The Central Canal of Zebrafish Embryos.</strong><br>
-    <span style="font-size: 0.9em;">Olivier Thouvenin, Yasmine Cantaut-Belarif, <strong>Ludovic Keiser</strong>, François Gallaire & Claire Wyart</span><br>
-    <em>Bio-protocol</em> 11 (5): e3932 (2021) 
-    [<a href="https://doi.org/10.21769/BioProtoc.3932">Publisher</a>] 
-    [<a href="publications/Thouvenin2021_Bioprotocol.pdf">PDF</a>]
-    [<button onclick="toggleAbstract('abstract9')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
-    <div id="abstract9" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> Circulation of cerebrospinal fluid (CSF) plays an important role during development. In zebrafish embryo, the flow of CSF has been found to be bidirectional in the central canal of the spinal cord. In order to compare conditions and genetic mutants across each other, we recently automated the quantification of the velocity profile of exogenous fluorescent particles in the CSF. We demonstrated that the beating of motile and tilted cilia localized on the ventral side of the central canal was sufficient to generate locally such bidirectionality. Our approach can easily be extended to characterize CSF flow in various genetic mutants. We provide here a detailed protocol and a user interface program to quantify CSF dynamics. In order to interpret potential changes in CSF flow profiles, we provide additional tools to measure the central canal diameter, characterize cilia dynamics and compare experimental data with our theoretical model in order to estimate the impact of cilia in generating a volume force in the central canal. Our approach can also be of use for measuring particle velocity in vivo and modeling flow in diverse biological solutions.
+<li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
+        <strong>[8] Environmental Control of Amyloid Polymorphism by Modulation of Hydrodynamic Stress.</strong><br>
+        <span style="font-size: 0.9em;">Jiangtao Zhou, Leonardo Venturelli, <strong>Ludovic Keiser</strong>, Sergey K Sekatskii, François Gallaire, et al.</span><br>
+        <em>ACS Nano</em> 15 (1): 944-953 (2021) 
+        [<a href="https://doi.org/10.1021/acsnano.0c07570">Publisher</a>] 
+        [<a href="publications/Zhou2021_ACSNano.pdf">PDF</a>] 
+        <button onclick="toggleAbstract('abstract8')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
+        <div id="abstract8" style="display:none; margin-top: 10px; font-size: 0.9em;">
+            <strong>Abstract:</strong> The phenomenon of amyloid polymorphism is a key feature of protein aggregation. Unraveling this phenomenon is of great significance for understanding the underlying molecular mechanisms associated with neurodegenerative diseases and for the development of amyloid-based functional biomaterials. However, the understanding of the molecular origins and the physicochemical factors modulating amyloid polymorphs remains challenging. Herein, we demonstrate an association between amyloid polymorphism and environmental stress in solution, induced by an air/water interface in motion. Our results reveal that low-stress environments produce heterogeneous amyloid polymorphs, including twisted, helical, and rod-like fibrils, whereas high-stress conditions generate only homogeneous rod-like fibrils. Moreover, high environmental stress converts twisted fibrils into rod-like fibrils both in-pathway and after the completion of mature amyloid formation. These results enrich our understanding of the environmental origin of polymorphism of pathological amyloids and shed light on the potential of environmentally controlled fabrication of homogeneous amyloid biomaterials for biotechnological applications.
+        </div>
+    </div>
+
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Zhou2021_image.png" alt="Amyloid Polymorphism" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 
-   <li style="margin-bottom: 15px;">
-    <strong>[8] Environmental Control of Amyloid Polymorphism by Modulation of Hydrodynamic Stress.</strong><br>
-    <span style="font-size: 0.9em;">Jiangtao Zhou, Leonardo Venturelli, <strong>Ludovic Keiser</strong>, Sergey K Sekatskii, François Gallaire, et al.</span><br>
-    <em>ACS Nano</em> 15 (1): 944-953 (2021) 
-   [<a href="https://doi.org/10.1021/acsnano.0c07570">Publisher</a>] 
-    [<a href="publications/Zhou2021_ACSNano.pdf">PDF</a>] 
-    [<button onclick="toggleAbstract('abstract8')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
-    <div id="abstract8" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> The phenomenon of amyloid polymorphism is a key feature of protein aggregation. Unravelling this phenomenon is of great significance for understanding the underlying molecular mechanisms associated with neurodegenerative diseases and for the development of amyloid-based functional biomaterials. However, the understanding of the molecular origins and the physicochemical factors modulating amyloid polymorphs remains challenging. Herein, we demonstrate an association between amyloid polymorphism and environmental stress in solution, induced by an air/water interface in motion. Our results reveal that low-stress environments produce heterogeneous amyloid polymorphs, including twisted, helical, and rod-like fibrils, whereas high-stress conditions generate only homogeneous rod-like fibrils. Moreover, high environmental stress converts twisted fibrils into rod-like fibrils both in-pathway and after the completion of mature amyloid formation. These results enrich our understanding of the environmental origin of polymorphism of pathological amyloids and shed light on the potential of environmentally controlled fabrication of homogeneous amyloid biomaterials for biotechnological applications.
+
+   <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
+        <strong>[7] Origin and role of the cerebrospinal fluid bidirectional flow in the central canal.</strong><br>
+        <span style="font-size: 0.9em;">Olivier Thouvenin, <strong>Ludovic Keiser</strong>, Yasmine Cantaut-Belarif, Martin Carbo-Tano, et al.</span><br>
+        <em>eLife</em> 9: e47699 (2020) 
+        [<a href="https://doi.org/10.7554/eLife.47699">Publisher</a>] 
+        [<a href="publications/Thouvenin_Elife2020.pdf">PDF</a>] 
+        <button onclick="toggleAbstract('abstract7')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
+        <div id="abstract7" style="display:none; margin-top: 10px; font-size: 0.9em;">
+            <strong>Abstract:</strong> Circulation of the cerebrospinal fluid (CSF) contributes to body axis formation and brain development. Here, we investigated the unexplained origins of the CSF flow bidirectionality in the central canal of the spinal cord of 30 hpf zebrafish embryos and its impact on development. Experiments combined with modeling and simulations demonstrate that the CSF flow is generated locally by caudally-polarized motile cilia along the ventral wall of the central canal. The closed geometry of the canal imposes the average flow rate to be null, explaining the reported bidirectionality. We also demonstrate that at this early stage, motile cilia ensure the proper formation of the central canal. Furthermore, we demonstrate that the bidirectional flow accelerates the transport of particles in the CSF via a coupled convective-diffusive transport process. Our study demonstrates that cilia activity combined with muscle contractions sustain the long-range transport of extracellular lipidic particles, enabling embryonic growth.
+        </div>
+    </div>
+
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Thouvenin2020_image.png" alt="CSF Bidirectional Flow" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 
-    <li style="margin-bottom: 15px;">
-    <strong>[7] Origin and role of the cerebrospinal fluid bidirectional flow in the central canal.</strong><br>
-    <span style="font-size: 0.9em;">Olivier Thouvenin, <strong>Ludovic Keiser</strong>, Yasmine Cantaut-Belarif, Martin Carbo-Tano, et al.</span><br>
-    <em>eLife</em> 9: e47699 (2020) 
-    [<a href="https://doi.org/10.7554/eLife.47699">Publisher</a>] 
-    [<a href="publications/Thouvenin_Elife2020.pdf">PDF</a>] 
-    [<button onclick="toggleAbstract('abstract7')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
-    <div id="abstract7" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> Circulation of the cerebrospinal fluid (CSF) contributes to body axis formation and brain development. Here, we investigated the unexplained origins of the CSF flow bidirectionality in the central canal of the spinal cord of 30 hpf zebrafish embryos and its impact on development. Experiments combined with modeling and simulations demonstrate that the CSF flow is generated locally by caudally-polarized motile cilia along the ventral wall of the central canal. The closed geometry of the canal imposes the average flow rate to be null, explaining the reported bidirectionality. We also demonstrate that at this early stage, motile cilia ensure the proper formation of the central canal. Furthermore, we demonstrate that the bidirectional flow accelerates the transport of particles in the CSF via a coupled convective-diffusive transport process. Our study demonstrates that cilia activity combined with muscle contractions sustain the long-range transport of extracellular lipidic particles, enabling embryonic growth.
-    </div>
-</li>
 
     <li style="margin-bottom: 15px;">
     <strong>[6] Motion of viscous droplets in rough confinement: paradoxical lubrication.</strong><br>
@@ -244,7 +304,7 @@ title: "Publications"
     </div>
 </li>
 
-<strong>Thèse de doctorat</strong>
+<strong>PhD thesis</strong>
  
 <li style="margin-bottom: 15px;">
     <strong>Formation et déplacement de gouttes confinées: Instabilités et dynamiques.</strong><br>
