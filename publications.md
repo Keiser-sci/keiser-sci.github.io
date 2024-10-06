@@ -8,7 +8,7 @@ title: "Publications"
 <div style="margin-top: 20px; font-size: 1em; line-height: 1.4;">
 
 <strong>Submitted</strong>
-
+<ul style="list-style-type: none; padding: 0;">
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;"> <!-- Reduced padding-right to 5px -->
