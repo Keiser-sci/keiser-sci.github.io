@@ -49,7 +49,7 @@ title: "Publications"
     </div>
 
     <!-- Image Section -->
-    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: 10px;"> <!-- Shifted the image 10px to the left -->
         <img src="/images/article_illustration/Keiser2024_image.png" alt="Embolism Propagation" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
@@ -89,7 +89,7 @@ title: "Publications"
     </div>
 
     <!-- Image Section -->
-    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: 50px;"> <!-- Shifted the image 10px to the left -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: 20px;"> <!-- Shifted the image 10px to the left -->
         <img src="/images/article_illustration/Zhou2023_bis.png" alt="Droplet Breakup in T-Junctions" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
