@@ -170,7 +170,7 @@ title: "Publications"
 
     <!-- Image Section -->
     <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
-        <img src="/images/article_illustration/Thouvenin2021_image.png" alt="Cerebrospinal Fluid Flow" style="height: 80px; width: auto; object-fit: contain;">
+        <img src="/images/article_illustration/Thouvenin2021.png" alt="Cerebrospinal Fluid Flow" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 
@@ -211,7 +211,7 @@ title: "Publications"
 
     <!-- Image Section -->
     <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
-        <img src="/images/article_illustration/Thouvenin2020_image.png" alt="CSF Bidirectional Flow" style="height: 80px; width: auto; object-fit: contain;">
+        <img src="/images/article_illustration/Zebra_bottom.png" alt="CSF Bidirectional Flow" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 
@@ -250,7 +250,7 @@ title: "Publications"
            </div>
 
     <!-- Image Section -->
-    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: 30px;"> <!-- Shifted the image 10px to the left -->
         <img src="/images/article_illustration/Durey2018.png" alt="Gallery of Fluid Motion" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
@@ -290,7 +290,7 @@ title: "Publications"
              </div>
 
     <!-- Image Section -->
-    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: 20px;"> <!-- Shifted the image 10px to the left -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: 0px;"> <!-- Shifted the image 10px to the left -->
         <img src="/images/article_illustration/Keiser2017_gotitas.png" alt="Marangoni bursting" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
