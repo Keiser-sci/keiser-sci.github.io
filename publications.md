@@ -311,7 +311,7 @@ title: "Publications"
 
     <!-- Image Section -->
     <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
-        <img src="/images/article_illustration/Keiser2017_LIS.png" alt="Liquid-infused surfaces" style="height: 80px; width: auto; object-fit: contain;">
+        <img src="/images/article_illustration/Keiser2017_LIS.pdf" alt="Liquid-infused surfaces" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 
@@ -337,21 +337,7 @@ title: "Publications"
 
 </ul>
 
-<strong>Patent</strong>
- 
-<li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    <!-- Text Section -->
-    <div style="flex: 3; padding-right: 5px;">
-    <strong>Blood condition analyzing device, blood condition analyzing system, and blood condition analyzing program.</strong><br>
-    <span style="font-size: 0.9em;">Marc-Aurèle Brun, Yoshihito Hayashi & <strong>Ludovic Keiser</strong></span><br>
-    <em>US Patent</em> 10527605 (2020) 
-    [<a href="https://patents.google.com/patent/US10527605B2/en">Publisher</a>] 
-    [<a href="publications/Keiser2020_USPatent.pdf">PDF</a>] 
-    [<button onclick="toggleAbstract('abstractPatent')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
-    <div id="abstractPatent" style="display:none; margin-top: 10px; font-size: 0.9em;">
-        <strong>Abstract:</strong> There is provided a blood condition analyzing device including: an extraction unit configured to use temporal change data of an electrical characteristic of blood at an arbitrary frequency to extract a feature of the data; and a blood condition evaluation unit configured to evaluate a condition change of blood from a feature extracted in the extraction unit.
-    </div>
-</li>
+
 
 <strong>PhD thesis</strong>
  
@@ -395,7 +381,22 @@ Si la goutte contient suffisamment d'alcool, elle donne naissance en quelques se
     <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
         <img src="/images/article_illustration/Keiser2018_Reflets.png" alt="Washing wedges" style="height: 80px; width: auto; object-fit: contain;">
     </div>
-
+</li>
+<strong>Patent</strong>
+ 
+<li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
+    <strong>Blood condition analyzing device, blood condition analyzing system, and blood condition analyzing program.</strong><br>
+    <span style="font-size: 0.9em;">Marc-Aurèle Brun, Yoshihito Hayashi & <strong>Ludovic Keiser</strong></span><br>
+    <em>US Patent</em> 10527605 (2020) 
+    [<a href="https://patents.google.com/patent/US10527605B2/en">Publisher</a>] 
+    [<a href="publications/Keiser2020_USPatent.pdf">PDF</a>] 
+    [<button onclick="toggleAbstract('abstractPatent')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
+    <div id="abstractPatent" style="display:none; margin-top: 10px; font-size: 0.9em;">
+        <strong>Abstract:</strong> There is provided a blood condition analyzing device including: an extraction unit configured to use temporal change data of an electrical characteristic of blood at an arbitrary frequency to extract a feature of the data; and a blood condition evaluation unit configured to evaluate a condition change of blood from a feature extracted in the extraction unit.
+    </div>
+</li>
 <!-- JavaScript to toggle abstracts -->
 <script>
     function toggleAbstract(id) {
