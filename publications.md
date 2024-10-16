@@ -210,8 +210,8 @@ title: "Publications"
     </div>
 
     <!-- Image Section -->
-    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: 60px;"> <!-- Shifted the image 10px to the left -->
-        <img src="/images/article_illustration/Zebra_bottom.png" alt="CSF Bidirectional Flow" style="height: 50px; width: auto; object-fit: contain;">
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: 30px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Zebra_bottom.png" alt="CSF Bidirectional Flow" style="height: 55px; width: auto; object-fit: contain;">
     </div>
 </li>
 
@@ -271,7 +271,7 @@ title: "Publications"
 
     <!-- Image Section -->
     <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
-        <img src="/images/article_illustration/Keiser2018.png" alt="Smooth confinement" style="height: 80px; width: auto; object-fit: contain;">
+        <img src="/images/article_illustration/Keiser2018_JFM.png" alt="Smooth confinement" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 
