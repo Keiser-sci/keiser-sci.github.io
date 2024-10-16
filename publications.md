@@ -242,7 +242,7 @@ title: "Publications"
     <span style="font-size: 0.9em;">Guillaume Durey, Hoon Kwon, Quentin Magdelaine, <strong>Ludovic Keiser</strong>, et al.</span><br>
     <em>Physical Review Fluids</em> 3 (10): 100501 (2018) 
     [<a href="https://doi.org/10.1103/APS.DFD.2017.GFM.V0020">Publisher</a>] 
-    [<a href="publications/Durey2019_PRF.pdf">PDF</a>] 
+    [<a href="publications/Durey2018_PRF.pdf">PDF</a>] 
     [<button onclick="toggleAbstract('abstract5')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract5" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> This paper is associated with a video winner of a 2017 APS/DFD Milton van Dyke Award for work presented at the DFD Gallery of Fluid Motion. The original video is available from the Gallery of Fluid Motion, https://doi.org/10.1103/APS.DFD.2017.GFM.V0020
@@ -369,7 +369,7 @@ title: "Publications"
     <span style="font-size: 0.9em;">Ludovic Keiser, Hadrien Bense, Cyril Sturtz, Pierre Colinet, Benoît Roman, José Bico & Étienne Reyssat</span><br>
     <em>Les Reflets de la Physique</em> 59: 32-35 (2018) 
     [<a href="https://doi.org/10.1051/refdp/201859032">Link to article</a>] 
-    [<a href="publications/Reflets2018.pdf">PDF</a>] 
+    [<a href="publications/Keiser2018_Reflets.pdf">PDF</a>] 
     [<button onclick="toggleAbstract('abstractReflets')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstractReflets" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> Une goutte d'eau déposée à la surface d'un bain d'huile de tournesol forme une lentille liquide flottante. Une goutte d'alcool, au contraire, s'étale à la surface de l'huile. Un mélange d'eau et d'alcool produit un spectaculaire phénomène d'étalement et de fragmentation spontanée.
