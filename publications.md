@@ -150,8 +150,8 @@ title: "Publications"
     </div>
 
     <!-- Image Section -->
-    <div style="flex: 1; text-align: right; max-width: 130px; margin-right: 30px;"> <!-- Shifted the image 10px to the left -->
-        <img src="/images/article_illustration/Keiser2022_image.png" alt="Intermittent Air Invasion" style="height: 130px; width: auto; object-fit: contain;">
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: 30px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Keiser2022_image.png" alt="Intermittent Air Invasion" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
