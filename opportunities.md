@@ -1,1 +1,6 @@
-de
+---
+layout: default
+title: "Opportunities"
+---
+
+# Opportunities
