@@ -70,7 +70,7 @@ title: "Publications"
 
     <!-- Image Section -->
     <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
-        <img src="/images/article_illustration/Marcotte2024_image.png" alt="Bubble Motion" style="height: 80px; width: auto; object-fit: contain;">
+        <img src="/images/article_illustration/Marcotte2024.png" alt="Bubble Motion" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 
