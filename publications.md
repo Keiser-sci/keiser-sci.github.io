@@ -379,7 +379,7 @@ Si la goutte contient suffisamment d'alcool, elle donne naissance en quelques se
 
     <!-- Image Section -->
     <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
-        <img src="/images/article_illustration/Keiser2018_Reflets.png" alt="Washing wedges" style="height: 80px; width: auto; object-fit: contain;">
+        <img src="/images/article_illustration/Reflets_cover.png" alt="Reflets" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 <strong>Patent</strong>
@@ -396,7 +396,6 @@ Si la goutte contient suffisamment d'alcool, elle donne naissance en quelques se
     <div id="abstractPatent" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> There is provided a blood condition analyzing device including: an extraction unit configured to use temporal change data of an electrical characteristic of blood at an arbitrary frequency to extract a feature of the data; and a blood condition evaluation unit configured to evaluate a condition change of blood from a feature extracted in the extraction unit.
     </div>
-</li>
 <!-- JavaScript to toggle abstracts -->
 <script>
     function toggleAbstract(id) {
