@@ -81,7 +81,7 @@ title: "Publications"
         <span style="font-size: 0.9em;">Jiande Zhou, Yves-Marie Ducimetière, Daniel Migliozzi, <strong>Ludovic Keiser</strong>, Arnaud Bertsch, François Gallaire & Philippe Renaud</span><br>
         <em>Physical Review Fluids</em> 8 (5): 054201 (2023) 
         [<a href="https://doi.org/10.1103/PhysRevFluids.8.054201">Publisher</a>] 
-        [<a href="publications/Zhou2023_PRF.pdf">PDF</a>] 
+        [<a href="publications/Zhou_2023.pdf">PDF</a>] 
         <button onclick="toggleAbstract('abstract13')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
         <div id="abstract13" style="display:none; margin-top: 10px; font-size: 0.9em;">
             <strong>Abstract:</strong> Droplet breakup is an important phenomenon in the field of microfluidics to generate daughter droplets. In this work, a novel breakup regime in the widely studied T-junction geometry is reported, where the pinch-off occurs laterally in the two outlet channels, leading to the formation of three daughter droplets, rather than at the center of the junction for conventional T-junctions which leads to two daughter droplets. It is demonstrated that this new mechanism is driven by surface tension, and a design rule for the T-junction geometry is proposed. A model for low values of the capillary number Ca is developed to predict the formation and growth of an underlying carrier fluid pocket that accounts for this lateral breakup mechanism. At higher values of Ca, the conventional regime of central breakup becomes dominant again. The competition between the new and the conventional regime is explored. Altogether, this novel droplet formation method at T-junction provides the functionality of alternating droplet size and composition, which can be important for the design of new microfluidic tools.
@@ -345,7 +345,7 @@ title: "Publications"
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
     <strong>Formation et déplacement de gouttes confinées: Instabilités et dynamiques.</strong><br>
-    <span style="font-size: 0.9em;">Ludovic Keiser, <em>Université Sorbonne Paris Cité</em> </span><br>
+    <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, <em>Université Sorbonne Paris Cité</em> </span><br>
     <em>PhD thesis in French</em> (2018/1/29) 
     [<a href="https://hal.science/tel-02280106/">Link to thesis</a>] 
     [<a href="publications/Keiser_PhD.pdf">PDF</a>] 
