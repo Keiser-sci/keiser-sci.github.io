@@ -215,8 +215,9 @@ title: "Publications"
     </div>
 </li>
 
-
-    <li style="margin-bottom: 15px;">
+ <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
     <strong>[6] Motion of viscous droplets in rough confinement: paradoxical lubrication.</strong><br>
     <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Armelle Keiser, Manon L’Estimé, José Bico & Étienne Reyssat</span><br>
     <em>Physical Review Letters</em> 122 (7): 074501 (2019) 
@@ -234,8 +235,10 @@ title: "Publications"
     </div>
 </li>
 
-   <li style="margin-bottom: 15px;">
-    <strong>[5] Marangoni bursting: Evaporation-induced emulsification of a two-component droplet.</strong><br>
+<li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">    
+        <strong>[5] Marangoni bursting: Evaporation-induced emulsification of a two-component droplet.</strong><br>
     <span style="font-size: 0.9em;">Guillaume Durey, Hoon Kwon, Quentin Magdelaine, <strong>Ludovic Keiser</strong>, et al.</span><br>
     <em>Physical Review Fluids</em> 3 (10): 100501 (2018) 
     [<a href="https://doi.org/10.1103/APS.DFD.2017.GFM.V0020">Publisher</a>] 
@@ -252,7 +255,9 @@ title: "Publications"
     </div>
 </li>
 
-    <li style="margin-bottom: 15px;">
+<li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
     <strong>[4] Dynamics of non-wetting drops confined in a Hele-Shaw cell.</strong><br>
     <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Khalil Jaafar, José Bico & Étienne Reyssat</span><br>
     <em>Journal of Fluid Mechanics</em> 845: 245-262 (2018) 
@@ -270,7 +275,9 @@ title: "Publications"
     </div>
 </li>
 
-   <li style="margin-bottom: 15px;">
+<li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
     <strong>[3] Marangoni bursting: evaporation-induced emulsification of binary mixtures on a liquid layer.</strong><br>
     <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Hadrien Bense, Pierre Colinet, José Bico & Étienne Reyssat</span><br>
     <em>Physical Review Letters</em> 118 (7): 074504 (2017) 
@@ -288,7 +295,9 @@ title: "Publications"
     </div>
 </li>
 
-    <li style="margin-bottom: 15px;">
+ <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
     <strong>[2] Drop friction on liquid-infused materials.</strong><br>
     <span style="font-size: 0.9em;">Armelle Keiser, <strong>Ludovic Keiser</strong>, Christophe Clanet & David Quéré</span><br>
     <em>Soft Matter</em> 13 (39): 6981-6987 (2017) 
@@ -306,7 +315,9 @@ title: "Publications"
     </div>
 </li>
 
-    <li style="margin-bottom: 15px;">
+<li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
     <strong>[1] Washing wedges: capillary instability in a gradient of confinement.</strong><br>
     <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Rémy Herbaut, José Bico & Étienne Reyssat</span><br>
     <em>Journal of Fluid Mechanics</em> 790: 619-633 (2016) 
@@ -328,7 +339,9 @@ title: "Publications"
 
 <strong>Patent</strong>
  
-<li style="margin-bottom: 15px;">
+<li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
     <strong>Blood condition analyzing device, blood condition analyzing system, and blood condition analyzing program.</strong><br>
     <span style="font-size: 0.9em;">Marc-Aurèle Brun, Yoshihito Hayashi & <strong>Ludovic Keiser</strong></span><br>
     <em>US Patent</em> 10527605 (2020) 
@@ -342,7 +355,9 @@ title: "Publications"
 
 <strong>PhD thesis</strong>
  
-<li style="margin-bottom: 15px;">
+<li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
     <strong>Formation et déplacement de gouttes confinées: Instabilités et dynamiques.</strong><br>
     <span style="font-size: 0.9em;">Ludovic Keiser, <em>Université Sorbonne Paris Cité</em> </span><br>
     <em>PhD thesis in French</em> (2018/1/29) 
