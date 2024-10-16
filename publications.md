@@ -366,12 +366,12 @@ title: "Publications"
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
     <strong>Fragmentation de Marangoni : les gouttes qui s’éclatent.</strong><br>
-    <span style="font-size: 0.9em;">Ludovic Keiser, Hadrien Bense, Cyril Sturtz, Pierre Colinet, Benoît Roman, José Bico et Étienne Reyssat, <em>Université Sorbonne Paris Cité</em> </span><br>
+    <span style="font-size: 0.9em;">Ludovic Keiser, Hadrien Bense, Cyril Sturtz, Pierre Colinet, Benoît Roman, José Bico & Étienne Reyssat</span><br>
     <em>Les Reflets de la Physique</em> 59: 32-35 (2018) 
     [<a href="https://doi.org/10.1051/refdp/201859032">Link to article</a>] 
     [<a href="publications/Reflets2018.pdf">PDF</a>] 
-    [<button onclick="toggleAbstract('abstractThesis')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
-    <div id="abstractThesis" style="display:none; margin-top: 10px; font-size: 0.9em;">
+    [<button onclick="toggleAbstract('abstractReflets')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
+    <div id="abstractReflets" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> Une goutte d'eau déposée à la surface d'un bain d'huile de tournesol forme une lentille liquide flottante. Une goutte d'alcool, au contraire, s'étale à la surface de l'huile. Un mélange d'eau et d'alcool produit un spectaculaire phénomène d'étalement et de fragmentation spontanée.
 Si la goutte contient suffisamment d'alcool, elle donne naissance en quelques secondes à une myriade de gouttelettes dont la taille dépend fortement de la composition initiale. La combinaison de l'hydrodynamique, du mouillage et de l'évaporation est à l'origine de cette instabilité originale.
     </div>
