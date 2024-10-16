@@ -122,6 +122,8 @@ title: "Publications"
         <span style="font-size: 0.9em;">Shahab Eghbali, <strong>Ludovic Keiser</strong>, Edouard Boujo & François Gallaire</span><br>
         <em>Journal of Fluid Mechanics</em> 952: A33 (2022) 
         [<a href="https://doi.org/10.1017/jfm.2022.876">Publisher</a>] 
+        [<a href="https://doi.org/10.1103/APS.DFD.2020.GFM.V0008">Video</a>] 
+
         [<a href="publications/Eghbali2022_JFM.pdf">PDF</a>] 
         <button onclick="toggleAbstract('abstract11')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
         <div id="abstract11" style="display:none; margin-top: 10px; font-size: 0.9em;">
@@ -241,7 +243,8 @@ title: "Publications"
         <strong>[5] Marangoni bursting: Evaporation-induced emulsification of a two-component droplet.</strong><br>
     <span style="font-size: 0.9em;">Guillaume Durey, Hoon Kwon, Quentin Magdelaine, <strong>Ludovic Keiser</strong>, et al.</span><br>
     <em>Physical Review Fluids</em> 3 (10): 100501 (2018) 
-    [<a href="https://doi.org/10.1103/APS.DFD.2017.GFM.V0020">Publisher</a>] 
+        [<a href="https://doi.org/10.1103/PhysRevFluids.3.100501">Publisher</a>]
+    [<a href="https://doi.org/10.1103/APS.DFD.2017.GFM.V0020">Video</a>] 
     [<a href="publications/Durey2018_PRF.pdf">PDF</a>] 
     [<button onclick="toggleAbstract('abstract5')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract5" style="display:none; margin-top: 10px; font-size: 0.9em;">
