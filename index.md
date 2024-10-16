@@ -26,4 +26,4 @@ Together with Céline Cohen and Philippe Thomen, I am organizing the plenary day
 2. Releasing trapped Taylor bubbles via centrifugation and inclination, *Journal of Fluid Mechanics*, in press (2024), [DOI](https://doi.org/10.48550/arXiv.2404.17934), [PDF](/publications/Marcotte2024_JFM.pdf)
 
 ## Contact
-You can reach me at: ludovic.keiser[at]univ-cotedazur.fr
+You can reach me at: ludovic[dot]keiser[at]univ-cotedazur[dot]fr
