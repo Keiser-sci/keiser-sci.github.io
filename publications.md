@@ -226,6 +226,12 @@ title: "Publications"
     <div id="abstract6" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> We study the sedimentation of highly viscous droplets confined inside Hele-Shaw cells with textured walls of controlled topography. In contrast with common observations on superhydrophobic surfaces, roughness tends here to significantly increase viscous friction, thus substantially decreasing the droplets mobility. However, reducing confinement induces a jump in the velocity as droplets can slide on a lubricating layer of the surrounding fluid thicker than the roughness features. We demonstrate that increasing the viscosity of the surrounding liquid may counterintuitively enhance the mobility of a droplet sliding along a rough wall. Similarly, a sharp change of the droplet mobility is observed as the amplitude of the roughness is modified. These results illustrate the nontrivial friction processes at the scale of the roughness, and the coupling between viscous dissipation in the drop, in the front meniscus, and in the lubricating film. They could enable one to specifically control the speed of droplets or capsules in microchannels, based on their rheological properties.
     </div>
+        </div>
+
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Keiser2019.png" alt="Rough confinement" style="height: 80px; width: auto; object-fit: contain;">
+    </div>
 </li>
 
    <li style="margin-bottom: 15px;">
@@ -237,6 +243,12 @@ title: "Publications"
     [<button onclick="toggleAbstract('abstract5')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract5" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> This paper is associated with a video winner of a 2017 APS/DFD Milton van Dyke Award for work presented at the DFD Gallery of Fluid Motion. The original video is available from the Gallery of Fluid Motion, https://doi.org/10.1103/APS.DFD.2017.GFM.V0020
+    </div>
+           </div>
+
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Durey2018.png" alt="Gallery of Fluid Motion" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 
@@ -250,6 +262,12 @@ title: "Publications"
     <div id="abstract4" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> We experimentally investigate the sedimentation of a non-wetting drop confined between two parallel walls. The whole system is immersed in a bath of liquid of low viscosity and a lubricating film may be dynamically formed between the drop and the walls of the cell. Depending on the thickness of the film and on the viscosity ratio between the droplet and the surrounding liquid, viscous dissipation localizes either in the lubrication layer or in the bulk of the drop. The velocity of the droplet is non-trivial as the thickness of the lubricating layer may depend on the interplay between interfacial tension and viscous dissipation. Interestingly, thin films whose nanometric thickness is set by long range intermolecular interactions may lubricate efficiently the motion of highly viscous droplets. We derive asymptotic models that successfully capture the settling velocity of the drop in the different regimes observed experimentally. The effect of partial wetting is finally illustrated by a sharp increase of the velocity of the drops that we attribute to a wetting transition.
     </div>
+        </div>
+
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Keiser2018.png" alt="Smooth confinement" style="height: 80px; width: auto; object-fit: contain;">
+    </div>
 </li>
 
    <li style="margin-bottom: 15px;">
@@ -261,6 +279,12 @@ title: "Publications"
     [<button onclick="toggleAbstract('abstract3')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract3" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> Adjusting the wetting properties of water through the addition of a miscible liquid is commonly used in a wide variety of industrial processes involving interfaces. We investigate experimentally the evolution of a drop of water and volatile alcohol deposited on a bath of oil: The drop spreads and spontaneously fragments into a myriad of minute droplets whose size strongly depends on the initial concentration of alcohol. Marangoni flows induced by the evaporation of alcohol play a key role in the overall phenomenon. The intricate coupling of hydrodynamics, wetting, and evaporation is well captured by analytical scaling laws. Our scenario is confirmed by experiments involving other combinations of liquids that also lead to this fascinating phenomenon.
+    </div>
+             </div>
+
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Keiser2017_gotitas.png" alt="Marangoni bursting" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 
@@ -274,6 +298,12 @@ title: "Publications"
     <div id="abstract2" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> We discuss in this paper the nature of the friction generated as a drop glides on a textured material infused by another liquid. Different regimes are found, depending on the viscosities of both liquids. While a viscous drop simply obeys a Stokes-type friction, the force opposing a drop moving on a viscous substrate becomes non-linear in velocity. A liquid on an infused material is surrounded by a meniscus, and this specific feature is proposed to be responsible for the special frictions observed on both adhesive and non-adhesive substrates.
     </div>
+          </div>
+
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Keiser2017_LIS.png" alt="Liquid-infused surfaces" style="height: 80px; width: auto; object-fit: contain;">
+    </div>
 </li>
 
     <li style="margin-bottom: 15px;">
@@ -285,6 +315,12 @@ title: "Publications"
     [<button onclick="toggleAbstract('abstract1')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
     <div id="abstract1" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> We present experimental results on the extraction of oil trapped in the confined region of a wedge. Upon addition of a more wetting liquid, we observe that oil fingers develop into this extracting liquid. The fingers eventually pinch off and form droplets that are driven away from the apex of the wedge by surface tension along the gradient of confinement. During an experiment, we observe that the size of the expelled oil droplets decreases as the unstable front recedes towards the wedge. We show how this size can be predicted from a linear stability analysis reminiscent of the classical Saffman–Taylor instability. However, the standard balance of capillary and bulk viscous dissipation does not account for the dynamics found in our experiments, leaving as an open question the detailed theoretical description of the instability.
+    </div>
+          </div>
+
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Keiser2016.png" alt="Washing wedges" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 
