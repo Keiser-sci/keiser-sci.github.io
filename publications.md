@@ -367,7 +367,34 @@ title: "Publications"
     <div id="abstractThesis" style="display:none; margin-top: 10px; font-size: 0.9em;">
         <strong>Abstract:</strong> Les écoulements biphasiques en milieux poreux sont généralement accompagnés par des phénomènes d'émulsification d'une phase dans l'autre. Les causes peuvent être nombreuses, de la digitation visqueuse aux instabilités purement capillaires. Cette thèse expérimentale a pour objet l'étude d'un mécanisme particulier d'émulsification de l'huile en milieu poreux, ainsi que le transport des gouttes produites dans des milieux confinés. Dans la première partie de cette thèse, l'instabilité gravito-capillaire de Rayleigh-Taylor est revisitée dans un coin formé entre deux plaques de verre centimétriques. La présence d'un gradient de confinement introduit une force capillaire supplémentaire à cette instabilité canonique, susceptible de stabiliser une couche de liquide suspendue au-dessus du vide. Le seuil de stabilité, les longueurs d'onde caractéristiques et les taux de croissance sont bien modélisés par une analyse de stabilité linéaire de l'interface. La caractérisation de cette force capillaire induite par le gradient de confinement nous amène par la suite à l'étude d'une instabilité purement capillaire se produisant lorsqu'un fluide en mouillage très favorable migre vers les régions les plus confinées d'un coin, occupées initialement par un fluide en mouillage moins favorable. Le gradient de confinement introduit alors une force déstabilisante, aboutissant à l'inversion de la position respective des deux phases. Le liquide le moins mouillant est complètement émulsifié et transporté vers les régions les moins confinées sous la forme de gouttelettes. Une analyse de stabilité linéaire de l'interface permet, là encore, de prédire cette sélection de taille. Les taux de croissance mesurés ne sont en revanche pas en accord avec la modélisation, basée sur la loi de Darcy. Leur valeur suggère une localisation de la dissipation visqueuse dans les lignes de contact déplacées durant le développement de l'instabilité, ainsi que dans les films de lubrification également déposés. Ces dynamiques "non-darciennes" nous ont amenés dans une seconde partie de la thèse à l'étude du transport de gouttes d'huile très visqueuses confinées dans de l'eau en mouillage total. Dans cette configuration, la présence de films de lubrification d'eau entre la goutte et le substrat assure la localisation de la dissipation dans les films peu visqueux, favorisant ainsi la mobilité des gouttes. Nous montrons également que la présence de rugosités sur les parois du confinement induit un ralentissement significatif de la vitesse des gouttes, lié à l'amincissement du film de lubrification par ces rugosités. L'interdépendance subtile entre friction visqueuse à l'avant de la goutte et dans son volume est notamment mise en lumière. Dans une dernière partie, nous étudions l'instabilité capillaire se produisant lorsqu'une goutte binaire d'eau et d'alcool est déposée à la surface d'un bain d'huile. L'évaporation majoritaire de l'alcool à la surface de la goutte induit des variations locales de la tension de surface. Des écoulements interfaciaux de Marangoni se produisent, et aboutissent à la déstabilisation spectaculaire de la goutte en étalement.
     </div>
+              </div>
 
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Keiser2016.png" alt="Washing wedges" style="height: 80px; width: auto; object-fit: contain;">
+    </div>
+</li>
+<strong>Other</strong>
+ 
+<li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
+    <strong>Fragmentation de Marangoni : les gouttes qui s’éclatent.</strong><br>
+    <span style="font-size: 0.9em;">Ludovic Keiser, Hadrien Bense, Cyril Sturtz, Pierre Colinet, Benoît Roman, José Bico et Étienne Reyssat, <em>Université Sorbonne Paris Cité</em> </span><br>
+    <em>Les Reflets de la Physique</em> 59: 32-35 (2018) 
+    [<a href="https://doi.org/10.1051/refdp/201859032">Link to article</a>] 
+    [<a href="publications/Reflets2018.pdf">PDF</a>] 
+    [<button onclick="toggleAbstract('abstractThesis')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>]
+    <div id="abstractThesis" style="display:none; margin-top: 10px; font-size: 0.9em;">
+        <strong>Abstract:</strong> Une goutte d'eau déposée à la surface d'un bain d'huile de tournesol forme une lentille liquide flottante. Une goutte d'alcool, au contraire, s'étale à la surface de l'huile. Un mélange d'eau et d'alcool produit un spectaculaire phénomène d'étalement et de fragmentation spontanée.
+Si la goutte contient suffisamment d'alcool, elle donne naissance en quelques secondes à une myriade de gouttelettes dont la taille dépend fortement de la composition initiale. La combinaison de l'hydrodynamique, du mouillage et de l'évaporation est à l'origine de cette instabilité originale.
+    </div>
+              </div>
+
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: -10px;"> <!-- Shifted the image 10px to the left -->
+        <img src="/images/article_illustration/Keiser2018_Reflets.png" alt="Washing wedges" style="height: 80px; width: auto; object-fit: contain;">
+    </div>
 
 <!-- JavaScript to toggle abstracts -->
 <script>
