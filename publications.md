@@ -361,7 +361,7 @@ title: "Publications"
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
     <strong>Fragmentation de Marangoni : les gouttes qui s’éclatent.</strong><br>
-    <span style="font-size: 0.9em;">Ludovic Keiser, Hadrien Bense, Cyril Sturtz, Pierre Colinet, Benoît Roman, José Bico & Étienne Reyssat</span><br>
+    <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Hadrien Bense, Cyril Sturtz, Pierre Colinet, Benoît Roman, José Bico & Étienne Reyssat</span><br>
     <em>Les Reflets de la Physique</em> 59: 32-35 (2018) 
     [<a href="https://doi.org/10.1051/refdp/201859032">Link to article</a>] 
     [<a href="publications/Keiser2018_Reflets.pdf">PDF</a>] 
