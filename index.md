@@ -1,7 +1,7 @@
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: nowrap; width: 100%;">
-    <img src="/images/Marangoni_bursting.png" alt="Marangoni Bursting Image" style="height: 30vh; width: auto;">
-    <img src="/images/Helical_drainage1.jpg" alt="Helical Drainage Image" style="height: 30vh; width: auto;">
-    <img src="/images/Leaves_embolized.png" alt="Embolized Leaves Image" style="height: 30vh; width: auto;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; width: 100%;">
+    <img src="/images/Marangoni_bursting.png" alt="Marangoni Bursting Image" style="flex: 1 1 30%; height: auto; max-width: 30%;">
+    <img src="/images/Helical_drainage1.jpg" alt="Helical Drainage Image" style="flex: 1 1 30%; height: auto; max-width: 30%;">
+    <img src="/images/Leaves_embolized.png" alt="Embolized Leaves Image" style="flex: 1 1 30%; height: auto; max-width: 30%;">
 </div>
 
 
