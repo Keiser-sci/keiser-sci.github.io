@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: nowrap; width: 100%;">
-    <img src="/images/Front_image.png" alt="Front Image" style="height: auto; width: 30%;">
+    <img src="/images/Front_image.png" alt="Front Image" style="height: auto; width: 100%;">
 </div>
 
 <meta name="description" content="Personal website of Ludovic Keiser, CNRS Researcher specializing in soft matter physics, biomimetics, and microfluidics.">
