@@ -159,7 +159,7 @@ title: "Publications"
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
-        <strong>[9] Automated Analysis of Cerebrospinal Fluid Flow and Motile Cilia Properties in The Central Canal of Zebrafish Embryos.</strong><br>
+        <strong>[9] Automated analysis of cerebrospinal fluid flow and motile cilia properties in the central canal of zebrafish embryos.</strong><br>
         <span style="font-size: 0.9em;">Olivier Thouvenin, Yasmine Cantaut-Belarif, <strong>Ludovic Keiser</strong>, François Gallaire & Claire Wyart</span><br>
         <em>Bio-protocol</em> 11 (5): e3932 (2021) 
         [<a href="https://doi.org/10.21769/BioProtoc.3932">Publisher</a>] 
@@ -179,7 +179,7 @@ title: "Publications"
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
-        <strong>[8] Environmental Control of Amyloid Polymorphism by Modulation of Hydrodynamic Stress.</strong><br>
+        <strong>[8] Environmental control of amyloid polymorphism by modulation of hydrodynamic stress.</strong><br>
         <span style="font-size: 0.9em;">Jiangtao Zhou, Leonardo Venturelli, <strong>Ludovic Keiser</strong>, Sergey K Sekatskii, François Gallaire, et al.</span><br>
         <em>ACS Nano</em> 15 (1): 944-953 (2021) 
         [<a href="https://doi.org/10.1021/acsnano.0c07570">Publisher</a>] 
@@ -220,7 +220,7 @@ title: "Publications"
  <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
-    <strong>[6] Motion of viscous droplets in rough confinement: paradoxical lubrication.</strong><br>
+    <strong>[6] Motion of viscous droplets in rough confinement: Paradoxical lubrication.</strong><br>
     <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Armelle Keiser, Manon L’Estimé, José Bico & Étienne Reyssat</span><br>
     <em>Physical Review Letters</em> 122 (7): 074501 (2019) 
     [<a href="https://doi.org/10.1103/PhysRevLett.122.074501">Publisher</a>] 
@@ -281,7 +281,7 @@ title: "Publications"
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
-    <strong>[3] Marangoni bursting: evaporation-induced emulsification of binary mixtures on a liquid layer.</strong><br>
+    <strong>[3] Marangoni bursting: Evaporation-induced emulsification of binary mixtures on a liquid layer.</strong><br>
     <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Hadrien Bense, Pierre Colinet, José Bico & Étienne Reyssat</span><br>
     <em>Physical Review Letters</em> 118 (7): 074504 (2017) 
    [<a href="https://doi.org/10.1103/PhysRevLett.118.074504">Publisher</a>] 
@@ -321,7 +321,7 @@ title: "Publications"
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
-    <strong>[1] Washing wedges: capillary instability in a gradient of confinement.</strong><br>
+    <strong>[1] Washing wedges: Capillary instability in a gradient of confinement.</strong><br>
     <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Rémy Herbaut, José Bico & Étienne Reyssat</span><br>
     <em>Journal of Fluid Mechanics</em> 790: 619-633 (2016) 
     [<a href="https://doi.org/10.1017/jfm.2016.1">Publisher</a>] 
@@ -346,7 +346,7 @@ title: "Publications"
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
-    <strong>Formation et déplacement de gouttes confinées: Instabilités et dynamiques.</strong><br>
+    <strong>Formation et déplacement de gouttes confinées : Instabilités et dynamiques.</strong><br>
     <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, <em>Université Sorbonne Paris Cité</em> </span><br>
     <em>PhD thesis in French</em> (2018/1/29) 
     [<a href="https://hal.science/tel-02280106/">Link to thesis</a>] 
