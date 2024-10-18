@@ -7,7 +7,7 @@ title: "Publications"
 
 <div style="margin-top: 20px; font-size: 1em; line-height: 1.4;">
 
-<strong>Submitted</strong>
+<strong style="color: #007acc;">Submitted</strong>
 <ul style="list-style-type: none; padding: 0;">
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
@@ -30,7 +30,7 @@ title: "Publications"
 </li>
 
 
-<strong>Published</strong>
+<strong style="color: #007acc;">Published</strong>
 
 <ul style="list-style-type: none; padding: 0;">
     
@@ -342,8 +342,7 @@ title: "Publications"
 
 
 
-<strong>PhD thesis</strong>
- 
+<strong style="color: #007acc;">PhD thesis</strong> 
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
@@ -357,8 +356,7 @@ title: "Publications"
     </div>
         </div>
 </li>
-<strong>Other</strong>
- 
+<strong style="color: #007acc;">Other</strong> 
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
@@ -379,8 +377,7 @@ Si la goutte contient suffisamment d'alcool, elle donne naissance en quelques se
         <img src="/images/article_illustration/Reflets_cover.png" alt="Reflets" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
-<strong>Patent</strong>
- 
+<strong style="color: #007acc;">Patent</strong> 
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
