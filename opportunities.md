@@ -22,5 +22,5 @@ title: "Opportunities"
 
 <strong style="color: #007acc;">In general</strong>
 
-We are always looking for motivated students and young researchers to join our team. Do not hesitate to contact me for discussing possibilities at: ludovic[dot]keiser[at]univ-cotedazur[dot]fr
+We are always seeking motivated students and young researchers to join our team. Feel free to contact me to discuss potential opportunities at: ludovic[dot]keiser[at]univ-cotedazur[dot]fr
 
