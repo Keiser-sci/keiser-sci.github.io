@@ -8,7 +8,9 @@ title: "Opportunities"
     <img src="/images/exclamation_bis.png" alt="Alert Icon" style="width: 100px; height: auto; margin-right: 15px;">
     <div>
         <h2 style="margin: 0; color: #d32f2f;">PhD Opportunities</h2>
-        <p style="margin: 5px 0;">Together with <a href="http://sites.unice.fr/site/raufaste/raufaste/index.html">Christophe Raufaste </a>, we are recruiting a PhD student to begin in 2025, focusing on the dynamics of liquid interfaces near rough surfaces. <a href="https://keiser-sci.github.io/contact">Contact </a> us by email: ludovic[dot]keiser[at]univ-cotedazur[dot]fr</p>
+        <p style="margin: 5px 0;">Together with <a href="http://sites.unice.fr/site/raufaste/raufaste/index.html">Christophe Raufaste </a>, we are recruiting a PhD student to begin in 2025, focusing on the dynamics of liquid interfaces near rough surfaces. Find the pdf of the proposal <a href="/opportunities/PhD_soft_objects.pdf">here </a>.  
+            
+            For more information, <a href="https://keiser-sci.github.io/contact">contact </a> us by email: ludovic[dot]keiser[at]univ-cotedazur[dot]fr</p>
     </div>
 </div>
 
