@@ -1,8 +1,9 @@
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
-    <img src="/images/Marangoni bursting.png" alt="Marangoni Bursting Image" style="height: 150px; width: auto; flex-shrink: 0;">
-    <img src="/images/Helical_drainage1.jpg" alt="Helical Drainage Image" style="height: 150px; width: auto; flex-shrink: 0;">
-    <img src="/images/Leaves_embolized.png" alt="Embolized Leaves Image" style="height: 150px; width: auto; flex-shrink: 0;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+    <img src="/images/Marangoni_bursting.png" alt="Marangoni Bursting Image" style="max-width: 100%; height: auto; flex-basis: 150px;">
+    <img src="/images/Helical_drainage1.jpg" alt="Helical Drainage Image" style="max-width: 100%; height: auto; flex-basis: 150px;">
+    <img src="/images/Leaves_embolized.png" alt="Embolized Leaves Image" style="max-width: 100%; height: auto; flex-basis: 150px;">
 </div>
+
 <meta name="description" content="Personal website of Ludovic Keiser, CNRS Researcher specializing in soft matter physics, biomimetics, and microfluidics.">
 <meta name="keywords" content="Ludovic Keiser, physics, soft matter, biomimetics, microfluidics, cavitation, plant hydraulics, CNRS, Université Côte d'Azur, UniCA, soft matter, biomimetics, microfluidics, research">
 <meta name="author" content="Ludovic Keiser">
