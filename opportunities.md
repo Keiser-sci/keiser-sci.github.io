@@ -4,9 +4,9 @@ title: "Opportunities"
 ---
 <strong style="color: #007acc;">Currently</strong>
 
-PhD opportunities: Together with <a href="http://sites.unice.fr/site/raufaste/raufaste/index.html">Christophe Raufaste </a>, we are hiring a PhD student, starting in 2025, to work on the dynamics of liquid interfaces in the vicinity of rough surfaces.
+<strong>PhD opportunities</strong>: Together with <a href="http://sites.unice.fr/site/raufaste/raufaste/index.html">Christophe Raufaste </a>, we are hiring a PhD student, starting in 2025, to work on the dynamics of liquid interfaces in the vicinity of rough surfaces.
 
-Post-doc opportunities: No open position for now. But motivated young researchers can contact us and we will build together proposals to be sent to various local, national and/or international calls.
+<strong>Postdoc opportunities</strong>: No open position for now. But motivated young researchers can contact us and we will build together proposals to be sent to various local, national and/or international calls.
 
 <strong style="color: #007acc;">In general</strong>
 
