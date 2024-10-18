@@ -1,7 +1,5 @@
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: nowrap; width: 100%;">
-    <img src="/images/Marangoni_bursting.png" alt="Marangoni Bursting Image" style="height: auto; width: 30%;">
-    <img src="/images/Helical_drainage1.jpg" alt="Helical Drainage Image" style="height: auto; width: 30%;">
-    <img src="/images/Leaves_embolized.png" alt="Embolized Leaves Image" style="height: auto; width: 30%;">
+    <img src="/images/front_image.png" alt="Marangoni Bursting Image" style="height: auto; width: 30%;">
 </div>
 
 <meta name="description" content="Personal website of Ludovic Keiser, CNRS Researcher specializing in soft matter physics, biomimetics, and microfluidics.">
