@@ -2,6 +2,8 @@
 layout: default
 title: "Opportunities"
 ---
+# Opportunities
+
 <strong style="color: #007acc;">Currently</strong>
 
 <div style="display: flex; align-items: center; background-color: #ffeb3b; padding: 20px; border: 2px solid #f57c00; border-radius: 5px; margin-bottom: 20px;">
