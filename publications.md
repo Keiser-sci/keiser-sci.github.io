@@ -37,7 +37,7 @@ title: "Publications"
     <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
-        <strong>[15] Embolism propagation in Adiantum leaves and in a biomimetic system with constrictions.</strong><br>
+        <strong>[15] Embolism propagation in <em>Adiantum</em> leaves and in a biomimetic system with constrictions.</strong><br>
         <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Benjamin Dollet & Philippe Marmottant</span><br>
         <em>Journal of the Royal Society Interface</em>, 21 (217): 20240103 (2024) 
         [<a href="https://doi.org/10.1098/rsif.2024.0103">Publisher</a>] 
