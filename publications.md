@@ -97,7 +97,7 @@ title: "Publications"
   <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
-        <strong>[12] CSF-contacting neurons respond to Streptococcus pneumoniae and promote host survival during central nervous system infection.</strong><br>
+        <strong>[12] CSF-contacting neurons respond to <em>Streptococcus</em>em> pneumoniae and promote host survival during central nervous system infection.</strong><br>
         <span style="font-size: 0.9em;">Andrew E Prendergast, Kin Ki Jim, Hugo Marnas, Laura Desban, Feng B Quan, Lydia Djenoune, Valerio Laghi, Agnès Hocquemiller, Elias T. Lunsford, Julian Roussel, <strong>Ludovic Keiser</strong>, et al.</span><br>
         <em>Current Biology</em> 33 (5): 940-956.e10 (2023) 
         [<a href="https://doi.org/10.1016/j.cub.2023.01.039">Publisher</a>] 
