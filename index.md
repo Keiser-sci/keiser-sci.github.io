@@ -11,15 +11,18 @@ Welcome to my personal research page. I am <strong>Ludovic Keiser</strong>, a [C
 
 <strong>Online research profiles</strong>: [Google Scholar](https://scholar.google.com/citations?user=Sh1jAqMAAAAJ&hl=fr&oi=ao), [OrCID: 0000-0002-1681-9606](https://orcid.org/0000-0002-1681-9606), [ResearchGate](https://www.researchgate.net/profile/Ludovic-Keiser).
 
-## Latest News
-
-Together with Céline Cohen and Philippe Thomen, I am organizing the plenary days of the GDR Microfluidics and Nanofluidics. This 2-day conference will be held in Nice (Hôtel Le Saint-Paul) on November 18-19, 2024. **Registration is free but mandatory on the** [conference website](https://gdr-mnf-2024.sciencesconf.org)!
-
 ## Research Interests
 
 - Plant hydraulics
 - Nonlinear flows in microfluidics
 - Interfacial hydrodynamics
+
+
+## Latest News
+
+- Together with Céline Cohen and Philippe Thomen, I am organizing the plenary days of the GDR Microfluidics and Nanofluidics. This 2-day conference will be held in Nice (Hôtel Le Saint-Paul) on November 18-19, 2024. **Registration is free but mandatory on the** [conference website](https://gdr-mnf-2024.sciencesconf.org)!
+
+PhD opportunities are available, you can consult them [here](/publications)
 
 ## Recent Publications
 
@@ -27,4 +30,4 @@ Together with Céline Cohen and Philippe Thomen, I am organizing the plenary day
 2. Releasing trapped Taylor bubbles via centrifugation and inclination, *Journal of Fluid Mechanics*, in press (2024), [doi](https://doi.org/10.48550/arXiv.2404.17934), [pdf](/publications/Marcotte2024_JFM.pdf)
 
 ## Contact
-You can reach me at: ludovic[dot]keiser[at]univ-cotedazur[dot]fr
+You can reach me at: ludovic.keiser[at]univ-cotedazur.fr
