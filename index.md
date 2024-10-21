@@ -22,7 +22,7 @@ Welcome to my personal research page. I am <strong>Ludovic Keiser</strong>, a [C
 
 - Together with Céline Cohen and Philippe Thomen, I am organizing the plenary days of the GDR Microfluidics and Nanofluidics. This 2-day conference will be held in Nice (Hôtel Le Saint-Paul) on November 18-19, 2024. **Registration is free but mandatory on the** [conference website](https://gdr-mnf-2024.sciencesconf.org)!
 
-PhD opportunities are available, you can consult them [here](/publications)
+PhD opportunities are available, you can consult them [here](https://keiser-sci.github.io/opportunities)
 
 ## Recent Publications
 
