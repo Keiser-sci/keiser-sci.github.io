@@ -12,7 +12,8 @@ title: "Opportunities"
         <h2 style="margin: 0; color: #d32f2f;">PhD Opportunities</h2>
         <p style="margin: 5px 0;">Together with <a href="http://sites.unice.fr/site/raufaste/raufaste/index.html">Christophe Raufaste </a>, we are recruiting <strong>one PhD student</strong> to begin in 2025, focusing on the dynamics of liquid interfaces near rough surfaces. Find the pdf of the proposal <a href="/opportunities/PhD_soft_objects.pdf">here </a>.  
             
-            For more information, <a href="https://keiser-sci.github.io/contact">contact </a> us by email: ludovic.keiser[at]univ-cotedazur.fr</p>
+
+For more information, contact us by email: ludovic.keiser[at]univ-cotedazur.fr</p>
     </div>
 </div>
 
