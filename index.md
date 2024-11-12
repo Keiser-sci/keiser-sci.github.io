@@ -27,7 +27,7 @@ Welcome to my personal research page. I am <strong>Ludovic Keiser</strong>, a [C
 ## Recent Publications
 
 1. Embolism propagation in Adiantum leaves and in a biomimetic system with constrictions, *Journal of the Royal Society Interface*, 21.217 (2024): 20240103, [doi](http://doi.org/10.1098/rsif.2024.0103), [pdf](/publications/Keiser2024_JRSI.pdf)
-2. Releasing trapped Taylor bubbles via centrifugation and inclination, *Journal of Fluid Mechanics*, in press (2024), [doi](https://doi.org/10.48550/arXiv.2404.17934), [pdf](/publications/Marcotte2024_JFM.pdf)
+2. Releasing long bubbles trapped in thin capillaries via tube centrifugation and inclination, *Journal of Fluid Mechanics*, 999 (2024): A9, [doi](https://doi.org/10.1017/jfm.2024.746), [pdf](/publications/Marcotte_JFM_2024.pdf)
 
 ## Contact
 You can reach me at: ludovic.keiser[at]univ-cotedazur.fr
