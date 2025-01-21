@@ -26,14 +26,14 @@ title: "Publications"
     
     <!-- Image Section -->
     <div style="flex: 1; text-align: right; max-width: 100px; margin-right: 10px;"> <!-- Set a max-width to constrain image container -->
-        <img src="/images/article_illustration/Desban2022_image2.png" alt="Lateral Line Hair Cells" style="height: 80px; width: auto; object-fit: contain;">
+        <img src="" alt="Lateral Line Hair Cells" style="height: 80px; width: auto; object-fit: contain;">
     </div>
 </li>
 
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;"> <!-- Reduced padding-right to 5px -->
-        <strong>[S1] Lateral line hair cells integrate mechanical and chemical cues to orient navigation.</strong><br>
+        <strong>[S2] Lateral line hair cells integrate mechanical and chemical cues to orient navigation.</strong><br>
         <span style="font-size: 0.9em;">Laura Desban, Julian Roussel, Olivier Mirat, François-Xavier Lejeune, <strong>Ludovic Keiser</strong>, Nicolas Antoine Michalski & Claire Wyart</span><br>
         <em>bioRxiv</em> 
         [<a href="https://doi.org/10.1101/2022.08.31.505989">Publisher</a>] 
