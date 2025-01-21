@@ -14,7 +14,7 @@ title: "Publications"
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;"> <!-- Reduced padding-right to 5px -->
         <strong>[S1] Channel deformations during elastocapillary spreading of gaseous embolisms in biomimetic leaves.</strong><br>
-        <span style="font-size: 0.9em;">François-Xavier Gauci, Ludovic Jami, <strong>Ludovic Keiser</strong>, Céline Cohen, Xavier Noblin </span><br>
+        <span style="font-size: 0.9em;">François-Xavier Gauci, Ludovic Jami, <strong>Ludovic Keiser</strong>, Céline Cohen &  Xavier Noblin </span><br>
         <em>arXiv</em> 
         [<a href=" https://doi.org/10.48550/arXiv.2501.05832">Publisher</a>] 
         [<a href="publications/Gauci2024_arXiv.pdf">PDF</a>] 
@@ -79,7 +79,7 @@ title: "Publications"
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
         <strong>[14] Releasing long bubbles trapped in thin capillaries via tube centrifugation and inclination.</strong><br>
-        <span style="font-size: 0.9em;">Alice Marcotte, Pier Giuseppe Ledda, Valentin Buriasco, Paul Dené, François Gallaire, <strong>Ludovic Keiser</strong></span><br>
+        <span style="font-size: 0.9em;">Alice Marcotte, Pier Giuseppe Ledda, Valentin Buriasco, Paul Dené, François Gallaire &  <strong>Ludovic Keiser</strong></span><br>
         <em>Journal of Fluid Mechanics</em>, 999: A9 (2024) 
         [<a href="[https://doi.org/10.48550/arXiv.2404.17934](https://doi.org/10.1017/jfm.2024.746[Opens in a new window])">Publisher</a>] 
         [<a href="publications/Marcotte_JFM_2024_editor.pdf">PDF</a>] 
@@ -119,7 +119,7 @@ title: "Publications"
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
         <strong>[12] CSF-contacting neurons respond to <em>Streptococcus</em>em> pneumoniae and promote host survival during central nervous system infection.</strong><br>
-        <span style="font-size: 0.9em;">Andrew E Prendergast, Kin Ki Jim, Hugo Marnas, Laura Desban, Feng B Quan, Lydia Djenoune, Valerio Laghi, Agnès Hocquemiller, Elias T. Lunsford, Julian Roussel, <strong>Ludovic Keiser</strong>, et al.</span><br>
+        <span style="font-size: 0.9em;">Andrew E Prendergast, Kin Ki Jim et al.</span><br>
         <em>Current Biology</em> 33 (5): 940-956.e10 (2023) 
         [<a href="https://doi.org/10.1016/j.cub.2023.01.039">Publisher</a>] 
         [<a href="publications/Prendergast2023.pdf">PDF</a>] 
