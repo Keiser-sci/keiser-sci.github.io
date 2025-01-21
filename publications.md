@@ -8,6 +8,22 @@ title: "Publications"
 <div style="margin-top: 20px; font-size: 1em; line-height: 1.4;">
 
 <strong style="color: #007acc;">Submitted</strong>
+
+<ul style="list-style-type: none; padding: 0;">
+<li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;"> <!-- Reduced padding-right to 5px -->
+        <strong>[S1] Channel deformations during elastocapillary spreading of gaseous embolisms in biomimetic leaves.</strong><br>
+        <span style="font-size: 0.9em;">François-Xavier Gauci, Ludovic Jami, <strong>Ludovic Keiser</strong>, Céline Cohen, Xavier Noblin </span><br>
+        <em>arXiv</em> 
+        [<a href=" https://doi.org/10.48550/arXiv.2501.05832">Publisher</a>] 
+        [<a href="publications/Gauci2024_arXiv.pdf">PDF</a>] 
+        <button onclick="toggleAbstract('abstractS1')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
+        <div id="abstractS1" style="display:none; margin-top: 10px; font-size: 0.9em;">
+            <strong>Abstract:</strong> The nucleation and/or spreading of bubbles in water under tension (due to water evaporation) can be problematic for most plants along the ascending sap network from root to leaves, named xylem. Due to global warming, trees facing drought conditions are particularly threatened by the formation of such air embolisms, which spreads intermittently and hinder the flow of sap and could ultimately result in their demise. PDMS-based biomimetic leaves simulating evapotranspiration have demonstrated that, in a linear configuration, the existence of a slender constriction in the channel allows for the creation of intermittent embolism propagation (as an interaction between the elasticity of the biomimetic leaf (mainly the deformable ceiling of the microchannels) and the capillary forces at the air/water interfaces) \cite{Keiser2022}-\cite{keiser2024}. Here we use analog PDMS-based biomimetic leaves in 1d and 2d. To better explore the embolism spreading mechanism, we add to the setup an additional technique, allowing to measure directly the microchannel's ceiling deformation versus time, which corresponds to the pressure variations. We present here such a method that allows to have quantitative insights in the dynamics of embolism spreading. The coupling between channel deformations and the Laplace pressure threshold explains the observed elastocapillary dynamics. 
+        </div>
+    </div>
+
 <ul style="list-style-type: none; padding: 0;">
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
