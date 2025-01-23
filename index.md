@@ -20,9 +20,12 @@ Welcome to my personal research page. I am <strong>Ludovic Keiser</strong>, a [C
 
 ## Latest News
 
-- Together with Céline Cohen and Philippe Thomen, I am organizing the plenary days of the GDR Microfluidics and Nanofluidics. This 2-day conference will be held in Nice (Hôtel Le Saint-Paul) on November 18-19, 2024. **Registration is free but mandatory on the** [conference website](https://gdr-mnf-2024.sciencesconf.org)!
-
 - PhD opportunities are available, you can consult them [here](https://keiser-sci.github.io/opportunities).
+
+- Together with Baptiste Blanc (Univ. Côte d'Azur), Rudy Valette and Romain Castellani (Mines Paris PSL), we will organize the fourth edition of the international conference "Fluids and Complexity", in December 2025 in Nice. Stay tuned for more information concerning registration. **See the [program](https://fcomplexity3.sciencesconf.org/)of the last edition organized in 2023 !**
+
+- Together with Céline Cohen and Philippe Thomen, we have organized the plenary days of the GDR Microfluidics and Nanofluidics. This 2-day conference was held in Nice (Hôtel Le Saint-Paul) on November 18-19, 2024. **We had 100 participants, from more than 20 labs in France** , see the [conference website](https://gdr-mnf-2024.sciencesconf.org)!
+
 
 ## Recent Publications
 
