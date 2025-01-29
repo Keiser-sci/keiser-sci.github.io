@@ -6,11 +6,14 @@ title: "Conference Agenda"
 <h2 style="color: #007acc;">Conference, schools and seminars agenda</h2>
 
 Stay updated with the latest conferences, schools and seminars in soft matter and fluid mechanics! Below is a calendar of upcoming events. You can propose your own conferences to be added using the form below.
-
-<iframe src="https://calendar.google.com/calendar/embed?src=63c2720c943bff10fe7eb0c4420495339de4920d8a98ec836b93ace2ec8596e7%40group.calendar.google.com&ctz=Europe%2FParis" 
-  style="border: 0" width="800" height="600" 
-  frameborder="0" scrolling="no">
-  </iframe>
+<iframe
+  src="https://calendar.google.com/calendar/embed?src=YOUR_CALENDAR_ID&ctz=Europe%2FParis&hl=en&mode=YEAR"
+  style="border: 0"
+  width="800"
+  height="600"
+  frameborder="0"
+  scrolling="no">
+</iframe>
   
 
 <h2 style="color: #007acc;">Propose an entry</h2>
