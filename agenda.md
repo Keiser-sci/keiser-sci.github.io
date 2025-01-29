@@ -16,7 +16,7 @@ Stay updated with the latest conferences, schools and seminars in soft matter an
       <input type="hidden" name="_redirect" value="https://keiser-sci.github.io/thank-you">
     <input type="hidden" name="_language" value="en">
   
-    <label for="eventName" style="color: #007acc; font-weight: bold;">Event Name</label><br>
+    <label for="eventName" style="color: #007acc; font-weight: bold;">Event name</label><br>
     <input type="text" id="eventName" name="eventName" required style="width: 100%; margin-bottom: 15px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"><br>
  
   <label for="eventLocation" style="color: #007acc; font-weight: bold;">Event location (City, Country)</label><br>
@@ -43,6 +43,9 @@ Stay updated with the latest conferences, schools and seminars in soft matter an
 
     <label for="organizerEmail" style="color: #007acc; font-weight: bold;">Organizer email</label><br>
     <input type="email" id="organizerEmail" name="organizerEmail" required style="width: 100%; margin-bottom: 15px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"><br>
-
+ 
+  <label for="eventRemote" style="color: #007acc; font-weight: bold;">Remote access ? (Possible answers : "Yes, possible", "No, impossible" OR "Yes, full remote") </label><br>
+    <input type="text" id="eventRemote" name="eventRemote" required style="width: 100%; margin-bottom: 15px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"><br>
+ 
     <button type="submit" style="background-color: #007acc; color: white; padding: 10px 15px; border: none; border-radius: 4px; cursor: pointer;">Submit</button>
 </form>
