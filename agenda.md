@@ -15,7 +15,7 @@ Stay updated with the latest conferences, schools and seminars in soft matter an
 ## Propose an entry
 If you're organizing a conference or know about one that should be added to the list, please fill out the form below:
 
-<form action=https://formspree.io/f/manqogqk" method="POST">
+<form action="https://formspree.io/f/manqogqk" method="POST">
     <label for="eventName"><strong>Event Name:</strong></label><br>
     <input type="text" id="eventName" name="eventName" required style="width: 100%; margin-bottom: 10px;"><br>
 
