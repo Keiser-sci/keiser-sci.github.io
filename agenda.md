@@ -2,7 +2,8 @@
 layout: default
 title: "Conference Agenda"
 ---
-# Conference, schools and seminars agenda
+
+<h2 style="color: #007acc;">Conference, schools and seminars agenda</h2>
 
 Stay updated with the latest conferences, schools and seminars in soft matter and fluid mechanics! Below is a calendar of upcoming events. You can propose your own conferences to be added using the form below.
 
