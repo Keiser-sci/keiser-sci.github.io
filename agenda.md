@@ -12,10 +12,7 @@ Stay updated with the latest conferences, schools and seminars in soft matter an
   </iframe>
   
 
-## Propose an entry
-If you're organizing a conference or know about one that should be added to the list, please fill out the form below:
-
-<h2 style="color: #007acc;">Propose a Conference</h2>
+<h2 style="color: #007acc;">Propose an entry</h2>
 <p>If you’re organizing a conference or know about one that should be added to the list, please fill out the form below:</p>
 
 <form action="https://formspree.io/f/manqogqk" method="POST" style="margin-top: 20px;">
