@@ -15,21 +15,34 @@ Stay updated with the latest conferences, schools and seminars in soft matter an
 ## Propose an entry
 If you're organizing a conference or know about one that should be added to the list, please fill out the form below:
 
-<form action="https://formspree.io/f/manqogqk" method="POST">
-    <label for="eventName"><strong>Event Name:</strong></label><br>
-    <input type="text" id="eventName" name="eventName" required style="width: 100%; margin-bottom: 10px;"><br>
+<h2 style="color: #007acc;">Propose a Conference</h2>
+<p>If you’re organizing a conference or know about one that should be added to the list, please fill out the form below:</p>
 
-    <label for="eventDate"><strong>Event Date:</strong></label><br>
-    <input type="date" id="eventDate" name="eventDate" required style="width: 100%; margin-bottom: 10px;"><br>
+<form action="https://formspree.io/f/manqogqk" method="POST" style="margin-top: 20px;">
+    <label for="eventName" style="color: #007acc; font-weight: bold;">Event Name:</label><br>
+    <input type="text" id="eventName" name="eventName" required style="width: 100%; margin-bottom: 15px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"><br>
 
-    <label for="eventLink"><strong>Event Link:</strong></label><br>
-    <input type="url" id="eventLink" name="eventLink" required style="width: 100%; margin-bottom: 10px;"><br>
+    <label for="eventDates" style="color: #007acc; font-weight: bold;">Event Dates:</label><br>
+    <input type="date" id="eventDate1" name="eventDates[]" required style="width: 100%; margin-bottom: 5px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"><br>
+    <input type="date" id="eventDate2" name="eventDates[]" style="width: 100%; margin-bottom: 15px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;" placeholder="Optional additional date"><br>
 
-    <label for="organizerName"><strong>Organizer Name:</strong></label><br>
-    <input type="text" id="organizerName" name="organizerName" style="width: 100%; margin-bottom: 10px;"><br>
+    <label for="abstractDeadline" style="color: #007acc; font-weight: bold;">Abstract Submission Deadline:</label><br>
+    <input type="date" id="abstractDeadline" name="abstractDeadline" style="width: 100%; margin-bottom: 15px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"><br>
 
-    <label for="organizerEmail"><strong>Organizer Email:</strong></label><br>
-    <input type="email" id="organizerEmail" name="organizerEmail" required style="width: 100%; margin-bottom: 10px;"><br>
+    <label for="earlyBirdDeadline" style="color: #007acc; font-weight: bold;">Early Bird Registration Deadline:</label><br>
+    <input type="date" id="earlyBirdDeadline" name="earlyBirdDeadline" style="width: 100%; margin-bottom: 15px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"><br>
 
-    <button type="submit" style="background-color: #007acc; color: white; padding: 10px; border: none; cursor: pointer;">Submit</button>
+    <label for="lastRegistrationDeadline" style="color: #007acc; font-weight: bold;">Last Registration Deadline:</label><br>
+    <input type="date" id="lastRegistrationDeadline" name="lastRegistrationDeadline" style="width: 100%; margin-bottom: 15px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"><br>
+
+    <label for="eventWebsite" style="color: #007acc; font-weight: bold;">Event Website:</label><br>
+    <input type="url" id="eventWebsite" name="eventWebsite" required style="width: 100%; margin-bottom: 15px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"><br>
+
+    <label for="organizerName" style="color: #007acc; font-weight: bold;">Organizer Name:</label><br>
+    <input type="text" id="organizerName" name="organizerName" style="width: 100%; margin-bottom: 15px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"><br>
+
+    <label for="organizerEmail" style="color: #007acc; font-weight: bold;">Organizer Email:</label><br>
+    <input type="email" id="organizerEmail" name="organizerEmail" required style="width: 100%; margin-bottom: 15px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"><br>
+
+    <button type="submit" style="background-color: #007acc; color: white; padding: 10px 15px; border: none; border-radius: 4px; cursor: pointer;">Submit</button>
 </form>
