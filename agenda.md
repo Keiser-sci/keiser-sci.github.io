@@ -6,7 +6,7 @@ title: "Conference Agenda"
 <h2 style="color: #007acc;">Conference, schools and seminars agenda</h2>
 
 Stay updated with the latest conferences, schools and seminars in soft matter and fluid mechanics! Below is a calendar of upcoming events. You can propose your own conferences to be added using the form below.
-<iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=2&ctz=Europe%2FParis&showPrint=0&mode=MONTH&hl=en_GB&title=Conferences%2C%20Schools%20and%20Seminars&src=NjNjMjcyMGM5NDNiZmYxMGZlN2ViMGM0NDIwNDk1MzM5ZGU0OTIwZDhhOThlYzgzNmI5M2FjZTJlYzg1OTZlN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26" style="border:solid 1px #777" width="800" height="800" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=2&ctz=Europe%2FParis&showPrint=0&mode=MONTH&hl=en_GB&title=Conferences%2C%20Schools%20and%20Seminars&src=NjNjMjcyMGM5NDNiZmYxMGZlN2ViMGM0NDIwNDk1MzM5ZGU0OTIwZDhhOThlYzgzNmI5M2FjZTJlYzg1OTZlN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
   
 
 <h2 style="color: #007acc;">Propose an entry</h2>
