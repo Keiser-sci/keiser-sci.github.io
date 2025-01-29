@@ -20,6 +20,9 @@ Stay updated with the latest conferences, schools and seminars in soft matter an
 <p>If you’re organizing a conference or know about one that should be added to the list, please fill out the form below:</p>
 
 <form action="https://formspree.io/f/manqogqk" method="POST" style="margin-top: 20px;">
+      <input type="hidden" name="_redirect" value="https://keiser-sci.github.io/thank-you">
+    <input type="hidden" name="_language" value="en">
+  
     <label for="eventName" style="color: #007acc; font-weight: bold;">Event Name</label><br>
     <input type="text" id="eventName" name="eventName" required style="width: 100%; margin-bottom: 15px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"><br>
  
