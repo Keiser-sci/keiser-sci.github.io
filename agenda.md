@@ -2,9 +2,9 @@
 layout: default
 title: "Conference Agenda"
 ---
-# Conference Agenda
+# Conference, schools and seminars agenda
 
-Stay updated with the latest conferences in soft matter and fluid mechanics! Below is a calendar of upcoming events. You can propose your own conferences to be added using the form below.
+Stay updated with the latest conferences, schools and seminars in soft matter and fluid mechanics! Below is a calendar of upcoming events. You can propose your own conferences to be added using the form below.
 
 ## Upcoming Conferences
 <iframe src="https://calendar.google.com/calendar/embed?src=63c2720c943bff10fe7eb0c4420495339de4920d8a98ec836b93ace2ec8596e7%40group.calendar.google.com&ctz=Europe%2FParis" 
