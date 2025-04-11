@@ -3,7 +3,7 @@ layout: default
 title: "Publications"
 ---
 
-<p><strong>Biofluids and Vascular Networks</strong></p>
+<h3><strong>Biofluids and Vascular Networks</strong></h3>
 
 <p>
 A central focus of our research lies in the dynamics of fluid flow within vascular networks, with particular emphasis on plant xylem hydraulics under drought conditions. We investigate how air embolisms form and propagate in the vascular conduits of leaves, a process that can compromise water transport and ultimately lead to plant death.
