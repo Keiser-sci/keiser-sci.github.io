@@ -10,7 +10,7 @@ title: "Opportunities"
     <img src="/images/exclamation_bis.png" alt="Alert Icon" style="width: 100px; height: auto; margin-right: 15px;">
     <div>
         <h2 style="margin: 0; color: #d32f2f;">PhD Opportunities</h2>
-        <p style="margin: 5px 0;">Together with <a href="http://sites.unice.fr/site/raufaste/raufaste/index.html">Christophe Raufaste </a>, we are recruiting <strong>one PhD student</strong> to begin in 2025, focusing on the dynamics of liquid interfaces near rough surfaces. Find the pdf of the two proposals <a href="/Opportunities/2024_10_proposition_stage_LIS.pdf">here </a> and <a href="/Opportunities/2024_10_proposition_stage_Sorting.pdf">here </a>.  
+        <p style="margin: 5px 0;">Together with <a href="http://sites.unice.fr/site/raufaste/raufaste/index.html">Christophe Raufaste </a>, we are recruiting <strong>one PhD student</strong> to begin in 2025, focusing on the dynamics of liquid interfaces near rough surfaces. 
             
 For more information, contact us by email: ludovic.keiser[at]univ-cotedazur.fr</p>
     </div>
