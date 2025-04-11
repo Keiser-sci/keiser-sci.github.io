@@ -40,10 +40,10 @@ Our core interest lies in understanding how the motion of bubbles, droplets, or 
 </p>
 
 <ul>
-  <li><a href="URL_TO_Keiser2018_JFM-1.pdf" target="_blank">Keiser et al., 2018 (Journal of Fluid Mechanics)</a> – Viscous sedimentation regimes in Hele-Shaw cells.</li>
-  <li><a href="URL_TO_Keiser2019_PRL-1.pdf" target="_blank">Keiser et al., 2019 (Physical Review Letters)</a> – Paradoxical lubrication in rough confinement.</li>
-  <li><a href="URL_TO_Marcotte_JFM_2024_editor-3.pdf" target="_blank">Marcotte et al., 2024 (Journal of Fluid Mechanics)</a> – Releasing stuck bubbles via rotation and inclination.</li>
-  <li><a href="URL_TO_Strong_volume_dependency_in_the_rising_speed_of_bubbles_in_a_sealed_tube_-1.pdf" target="_blank">Keiser et al., 2025 (in prep)</a> – Non-monotonic volume-dependence of bubble speed in sealed tubes.</li>
+  <li><a href="publications/Keiser2018_JFM.pdf" target="_blank">Keiser et al., 2018 (Journal of Fluid Mechanics)</a> – Viscous sedimentation regimes in Hele-Shaw cells.</li>
+  <li><a href="publications/Keiser2019_PRL.pdf" target="_blank">Keiser et al., 2019 (Physical Review Letters)</a> – Paradoxical lubrication in rough confinement.</li>
+  <li><a href="publications/Marcotte_JFM_2024_editor.pdf" target="_blank">Marcotte et al., 2024 (Journal of Fluid Mechanics)</a> – Releasing stuck bubbles via rotation and inclination.</li>
+  <li> Keiser et al., 2025 (in prep) – Non-monotonic volume-dependence of bubble speed in sealed tubes.</li>
 </ul>
 
 <p>
