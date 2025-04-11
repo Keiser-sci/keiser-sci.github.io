@@ -47,6 +47,34 @@ Our core interest lies in understanding how the motion of bubbles, droplets, or 
 </ul>
 
 <p>
-These investigations combine <em>asymptotic theory</em>, <em>direct numerical simulations</em>, and <em>microfluidic experiments</em>, aiming to harness nonlinear effects for on-chip functions like deformability-based sorting or passive valves.
+These investigations combine <em>asymptotic theory</em>, <em>direct numerical simulations</em>, and <em>microfluidic experiments</em>, aiming to understand and potentially harness nonlinear effects for on-chip functions like deformability-based sorting or passive valves.
 </p>
+
+<h3><strong>Interfacial Instabilities</strong></h3>
+
+<p>
+I also explore how nonlinear friction at fluid interfaces can drive the spontaneous <strong>formation of patterns</strong> or even cause the <strong>blow-up and fragmentation of interfaces</strong>. In confined or highly anisotropic geometries, interfacial stresses—often localized in thin lubrication films or sharp menisci—can amplify small perturbations and lead to complex, sometimes violent, instability dynamics.
+</p>
+
+<p>
+In our group, we leverage such nonlinearities to uncover new interfacial phenomena. Examples include:
+</p>
+
+<ul>
+  <li>
+    <a href="publications/Keiser2016_JFM.pdf" target="_blank">Keiser et al., 2016 (JFM)</a> – Observation of non-Darcian growth rates in a capillary instability involving two fluids in a confined geometry.
+  </li>
+  <li>
+    <a href="publications/Keiser2017_PRL.pdf" target="_blank">Keiser et al., 2017 (PRL)</a> – Spontaneous emulsification and fragmentation of drops induced by evaporation-induced solutal Marangoni flows in thin spreading binary films.
+  </li>
+  <li>
+    <a href="publications/Eghbali2022_JFM.pdf" target="_blank">Eghbali et al., 2022 (JFM)</a> – Whirling instability of viscous coatings around eccentric fibers, where interfacial shear overcomes capillarity to generate helicoidal patterns.
+  </li>
+  <li>
+    <a href="publications/Zhou_2023.pdf" target="_blank">Zhou et al., 2023 (PRF)</a> – A new droplet breakup regime in microfluidic T-junctions, controlled by flow dynamics in the thin gutters surrounding the drop in rectangular channels.
+  </li>
+</ul>
+
+
+
 
