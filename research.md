@@ -40,9 +40,9 @@ Our core interest lies in understanding how the motion of bubbles, droplets, or 
 </p>
 
 <ul>
-  <li><a href="publications/Keiser2018_JFM.pdf" target="_blank">Keiser et al., 2018 (Journal of Fluid Mechanics)</a> – Viscous sedimentation regimes in Hele-Shaw cells.</li>
-  <li><a href="publications/Keiser2019_PRL.pdf" target="_blank">Keiser et al., 2019 (Physical Review Letters)</a> – Paradoxical lubrication in rough confinement.</li>
-  <li><a href="publications/Marcotte_JFM_2024_editor.pdf" target="_blank">Marcotte et al., 2024 (Journal of Fluid Mechanics)</a> – Releasing stuck bubbles via rotation and inclination.</li>
+  <li><a href="publications/Keiser2018_JFM.pdf" target="_blank">Keiser et al., 2018 (JFM)</a> – Viscous sedimentation regimes in Hele-Shaw cells.</li>
+  <li><a href="publications/Keiser2019_PRL.pdf" target="_blank">Keiser et al., 2019 (PRL)</a> – Paradoxical lubrication in rough confinement.</li>
+  <li><a href="publications/Marcotte_JFM_2024_editor.pdf" target="_blank">Marcotte et al., 2024 (JFM)</a> – Releasing stuck bubbles via rotation and inclination.</li>
   <li> Keiser et al., 2025 (in prep) – Non-monotonic volume-dependence of bubble speed in sealed tubes.</li>
 </ul>
 
@@ -53,7 +53,7 @@ These investigations combine <em>asymptotic theory</em>, <em>direct numerical si
 <h3><strong>Interfacial Instabilities</strong></h3>
 
 <p>
-I also explore how nonlinear friction at fluid interfaces can drive the spontaneous <strong>formation of patterns</strong> or even cause the <strong>blow-up and fragmentation of interfaces</strong>. In confined or highly anisotropic geometries, interfacial stresses—often localized in thin lubrication films or sharp menisci—can amplify small perturbations and lead to complex, sometimes violent, instability dynamics.
+I also explore how nonlinear friction at fluid interfaces can drive the spontaneous <strong>formation of patterns</strong> or even cause the <strong>blow-up and fragmentation of interfaces</strong>. In confined or highly anisotropic geometries, interfacial stresses — often localized in thin lubrication films, gutters or small menisci — can amplify perturbations and lead to complex, sometimes violent, instability dynamics.
 </p>
 
 <p>
