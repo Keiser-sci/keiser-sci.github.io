@@ -29,3 +29,24 @@ This interdisciplinary work, developed in close collaboration with plant physiol
 If you are interested in this subject — for a discussion, a collaboration, or for a job opportunity — do not hesitate to contact us.
 </p>
 
+<h3><strong>Interfacial Hydrodynamics in Confined Media</strong></h3>
+
+<p>
+We also investigate how interfacial phenomena in confined geometries can induce <strong>nonlinear transport behaviors</strong>, with implications for droplet microfluidics, sorting mechanisms, and porous media flows.
+</p>
+
+<p>
+Our core interest lies in understanding how the motion of bubbles, droplets, or capsules is governed by tiny film interfaces—often mere microns thick. These films are sensitive to confinement and minute changes in geometry, giving rise to sharp transitions in velocity and morphology.
+</p>
+
+<ul>
+  <li><a href="URL_TO_Keiser2018_JFM-1.pdf" target="_blank">Keiser et al., 2018 (Journal of Fluid Mechanics)</a> – Viscous sedimentation regimes in Hele-Shaw cells.</li>
+  <li><a href="URL_TO_Keiser2019_PRL-1.pdf" target="_blank">Keiser et al., 2019 (Physical Review Letters)</a> – Paradoxical lubrication in rough confinement.</li>
+  <li><a href="URL_TO_Marcotte_JFM_2024_editor-3.pdf" target="_blank">Marcotte et al., 2024 (Journal of Fluid Mechanics)</a> – Releasing stuck bubbles via rotation and inclination.</li>
+  <li><a href="URL_TO_Strong_volume_dependency_in_the_rising_speed_of_bubbles_in_a_sealed_tube_-1.pdf" target="_blank">Keiser et al., 2025 (in prep)</a> – Non-monotonic volume-dependence of bubble speed in sealed tubes.</li>
+</ul>
+
+<p>
+These investigations combine <em>asymptotic theory</em>, <em>direct numerical simulations</em>, and <em>microfluidic experiments</em>, aiming to harness nonlinear effects for on-chip functions like deformability-based sorting or passive valves.
+</p>
+
