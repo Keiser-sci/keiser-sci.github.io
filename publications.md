@@ -15,7 +15,7 @@ title: "Publications"
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
         <strong>[S3] Imbibition dynamics in dead-end microchannels surrounded by a permeable medium.</strong><br>
-        <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Baptiste Georjon, Loukas Stamoulis, Philippe Marmottant, and Benjamin Dollet </span><br>
+        <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Baptiste Georjon, Loukas Stamoulis, Philippe Marmottant & Benjamin Dollet </span><br>
         <em>arXiv:2503.19229 (2025)</em> 
         [<a href="https://doi.org/10.48550/arXiv.2503.19229">Publisher</a>] 
         [<a href="publications/Jami2025_arXiv.pdf">PDF</a>] 
@@ -35,7 +35,7 @@ title: "Publications"
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
         <strong>[S2] Nonlinear dynamics of air invasion in one-dimensional compliant fluid networks.</strong><br>
-        <span style="font-size: 0.9em;">Ludovic Jami, François-Xavier Gauci, Céline Cohen, Xavier Noblin, <strong>Ludovic Keiser</strong></span><br>
+        <span style="font-size: 0.9em;">Ludovic Jami, François-Xavier Gauci, Céline Cohen, Xavier Noblin & <strong>Ludovic Keiser</strong></span><br>
         <em>arXiv:2503.19229 (2025)</em> 
         [<a href="https://doi.org/10.48550/arXiv.2503.19229">Publisher</a>] 
         [<a href="publications/Jami2025_arXiv.pdf">PDF</a>] 
