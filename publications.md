@@ -60,8 +60,10 @@ title: "Publications"
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
-        <strong>[S3] Imbibition dynamics in dead-end microchannels surrounded by a permeable medium.</strong><br>
+        <strong>[17] Imbibition dynamics in dead-end microchannels surrounded by a permeable medium.</strong><br>
         <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Baptiste Georjon, Loukas Stamoulis, Philippe Marmottant & Benjamin Dollet </span><br>
+                <em>Lab on a Chip, in press (2025)</em> 
+        [<a href="publications/Keiser2025_LoaC.pdf">PDF</a>] 
         <button onclick="toggleAbstract('abstractS3')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
         <div id="abstractS3" style="display:none; margin-top: 10px; font-size: 0.9em;">
             <strong>Abstract:</strong> Controlling the removal of bubbles from channels is crucial in microfluidics, either to eliminate air pockets if they are unwanted, or in pumpless microfluidic applications where receding bubbles is a way to induce liquid flows. To provide a better physical understanding of air removal in microchannels, we study the dynamics of invasion of wetting liquids in dead-end microchannels surrounded by an air-permeable medium. Using polydimethylsiloxane (PDMS)-based devices, we demonstrate that gas permeation through the channel walls drives an exponential decay in trapped air length with time (in marked contrast with the so-called Lucas–Washburn law of imbibition in porous media), providing a straightforward route to bubble elimination. Systematic experiments varying channel width, height, and PDMS thickness reveal how geometric and material factors modulate the refilling timescale. A simple analytical model, coupling capillarity and gas diffusion, captures these results quantitatively. For this purpose, we introduce an explicit expression for the interfacial curvature in microchannels with heterogeneous wettability (e.g., PDMS-on-glass). This framework offers practical guidelines for microfluidic engineers aiming to prevent or remove bubble entrapment without relying on active pumping.
@@ -79,7 +81,7 @@ title: "Publications"
     <div style="flex: 3; padding-right: 5px;"> <!-- Reduced padding-right to 5px -->
         <strong>[16] Channel deformations during elastocapillary spreading of gaseous embolisms in biomimetic leaves.</strong><br>
         <span style="font-size: 0.9em;">François-Xavier Gauci, Ludovic Jami, <strong>Ludovic Keiser</strong>, Céline Cohen &  Xavier Noblin </span><br>
-        <em>Interface Focus (accepted), arXiv:2501.05832 (2025)</em> 
+        <em>Interface Focus, arXiv:2501.05832 (2025)</em> 
         [<a href=" https://doi.org/10.48550/arXiv.2501.05832">Publisher</a>] 
         [<a href="publications/Gauci2024_arXiv.pdf">PDF</a>] 
         <button onclick="toggleAbstract('abstractS1')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
