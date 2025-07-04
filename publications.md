@@ -19,8 +19,8 @@ title: "Publications"
         <em>arXiv:2503.19229 (2025)</em> 
         [<a href="https://doi.org/10.48550/arXiv.2503.19229">Publisher</a>] 
         [<a href="publications/Jami2025_arXiv.pdf">PDF</a>] 
-        <button onclick="toggleAbstract('abstractS3')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
-        <div id="abstractS3" style="display:none; margin-top: 10px; font-size: 0.9em;">
+        <button onclick="toggleAbstract('abstractS2')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
+        <div id="abstractS2" style="display:none; margin-top: 10px; font-size: 0.9em;">
             <strong>Abstract:</strong> Vascular networks exhibit a remarkable diversity of architectures and transport mechanisms across biological systems. Inspired by embolism propagation in plant xylem - where air invades water-filled conduits under negative pressure - we study air penetration in compliant one-dimensional hydrodynamic networks experiencing mass loss by pervaporation. Using a theoretical framework grounded in biomimetic models, we show that embolism dynamics are shaped by the interplay between network compliance and viscous dissipation. In particular, the competition between two timescales - the pressure diffusion time and the pervaporation time governs the emergence of complex, history-dependent behaviors. When these two timescales are comparable, we uncover previously unreported nonlinear feedback between the internal pressure field and the embolism front, leading to transient depressurization and delayed interface motion. These results offer a minimal framework for understanding embolism dynamics in slow-relaxing vascular systems and provide design principles for soft microfluidic circuits with tunable, nonlinear response.
         </div>
     </div>
@@ -64,8 +64,8 @@ title: "Publications"
         <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Baptiste Georjon, Loukas Stamoulis, Philippe Marmottant & Benjamin Dollet </span><br>
                 <em>Lab on a Chip, in press (2025)</em> 
         [<a href="publications/Keiser_LoaC2025.pdf">PDF</a>] 
-        <button onclick="toggleAbstract('abstractS3')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
-        <div id="abstractS3" style="display:none; margin-top: 10px; font-size: 0.9em;">
+        <button onclick="toggleAbstract('abstract17')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
+        <div id="abstract17" style="display:none; margin-top: 10px; font-size: 0.9em;">
             <strong>Abstract:</strong> Controlling the removal of bubbles from channels is crucial in microfluidics, either to eliminate air pockets if they are unwanted, or in pumpless microfluidic applications where receding bubbles is a way to induce liquid flows. To provide a better physical understanding of air removal in microchannels, we study the dynamics of invasion of wetting liquids in dead-end microchannels surrounded by an air-permeable medium. Using polydimethylsiloxane (PDMS)-based devices, we demonstrate that gas permeation through the channel walls drives an exponential decay in trapped air length with time (in marked contrast with the so-called Lucas–Washburn law of imbibition in porous media), providing a straightforward route to bubble elimination. Systematic experiments varying channel width, height, and PDMS thickness reveal how geometric and material factors modulate the refilling timescale. A simple analytical model, coupling capillarity and gas diffusion, captures these results quantitatively. For this purpose, we introduce an explicit expression for the interfacial curvature in microchannels with heterogeneous wettability (e.g., PDMS-on-glass). This framework offers practical guidelines for microfluidic engineers aiming to prevent or remove bubble entrapment without relying on active pumping.
         </div>
     </div>
@@ -84,8 +84,8 @@ title: "Publications"
         <em>Interface Focus, arXiv:2501.05832 (2025)</em> 
         [<a href=" https://doi.org/10.48550/arXiv.2501.05832">Publisher</a>] 
         [<a href="publications/Gauci2024_arXiv.pdf">PDF</a>] 
-        <button onclick="toggleAbstract('abstractS1')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
-        <div id="abstractS1" style="display:none; margin-top: 10px; font-size: 0.9em;">
+        <button onclick="toggleAbstract('abstract16')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
+        <div id="abstract16" style="display:none; margin-top: 10px; font-size: 0.9em;">
             <strong>Abstract:</strong> The nucleation and/or spreading of bubbles in water under tension (due to water evaporation) can be problematic for most plants along the ascending sap network from root to leaves, named xylem. Due to global warming, trees facing drought conditions are particularly threatened by the formation of such air embolisms, which spreads intermittently and hinder the flow of sap and could ultimately result in their demise. PDMS-based biomimetic leaves simulating evapotranspiration have demonstrated that, in a linear configuration, the existence of a slender constriction in the channel allows for the creation of intermittent embolism propagation (as an interaction between the elasticity of the biomimetic leaf (mainly the deformable ceiling of the microchannels) and the capillary forces at the air/water interfaces) \cite{Keiser2022}-\cite{keiser2024}. Here we use analog PDMS-based biomimetic leaves in 1d and 2d. To better explore the embolism spreading mechanism, we add to the setup an additional technique, allowing to measure directly the microchannel's ceiling deformation versus time, which corresponds to the pressure variations. We present here such a method that allows to have quantitative insights in the dynamics of embolism spreading. The coupling between channel deformations and the Laplace pressure threshold explains the observed elastocapillary dynamics. 
         </div>
     </div>
