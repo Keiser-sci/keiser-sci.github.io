@@ -20,7 +20,7 @@ Welcome to my personal research page. I am <strong>Ludovic Keiser</strong>, a [C
 
 ## Latest News
 
-- PhD opportunities are available, you can consult them [here](https://keiser-sci.github.io/opportunities).
+<!-- - PhD opportunities are available, you can consult them [here](https://keiser-sci.github.io/opportunities).-->
 
 - Together with Baptiste Blanc (Univ. Côte d'Azur), Rudy Valette and Romain Castellani (Mines Paris PSL), we will organize the fourth edition of the international conference "Fluids and Complexity", in December 2025 in Nice. Stay tuned for more information concerning registration. **See the [program](https://fcomplexity3.sciencesconf.org/) of the last edition organized in 2023!**
 
