@@ -61,7 +61,7 @@ title: "Publications"
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
         <strong>[17] A predictive model for bubble removal in microfluidic channels surrounded by gas-permeable media. </strong><br>
-        <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Baptiste Georjon, Loukas Stamoulis, Philippe Marmottant & Benjamin Dollet </span><br>
+        <span style="font-size: 0.9em;"><strong>Ludovic Keiser</strong>, Loukas Stamoulis, Baptiste Georjon, Philippe Marmottant & Benjamin Dollet </span><br>
                 <em>Lab on a Chip, accepted manuscript (2025)</em> 
         [<a href="publications/Keiser_LoaC2025.pdf">PDF</a>] 
         <button onclick="toggleAbstract('abstract17')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
