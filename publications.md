@@ -17,7 +17,7 @@ title: "Publications"
         <strong>[S2] Nonlinear dynamics of air invasion in one-dimensional compliant fluid networks.</strong><br>
         <span style="font-size: 0.9em;">Ludovic Jami, François-Xavier Gauci, Céline Cohen, Xavier Noblin & <strong>Ludovic Keiser</strong></span><br>
         <em>arXiv:2503.19229 (2025)</em> 
-        [<a href="https://doi.org/10.48550/arXiv.2503.19229">Publisher</a>] 
+        [<a href="https://doi.org/10.48550/arXiv.2503.19229">arXiv</a>] 
         [<a href="publications/Jami2025_arXiv.pdf">PDF</a>] 
         <button onclick="toggleAbstract('abstractS2')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
         <div id="abstractS2" style="display:none; margin-top: 10px; font-size: 0.9em;">
@@ -38,7 +38,7 @@ title: "Publications"
         <strong>[S1] Lateral line hair cells integrate mechanical and chemical cues to orient navigation.</strong><br>
         <span style="font-size: 0.9em;">Laura Desban, Julian Roussel, Olivier Mirat, François-Xavier Lejeune, <strong>Ludovic Keiser</strong>, Nicolas Antoine Michalski & Claire Wyart</span><br>
         <em>bioRxiv 2022.08.31.505989 (2022)</em> 
-        [<a href="https://doi.org/10.1101/2022.08.31.505989">Publisher</a>] 
+        [<a href="https://doi.org/10.1101/2022.08.31.505989">bioRxiv</a>] 
         [<a href="publications/Desban2022_bioArXiv.pdf">PDF</a>] 
         <button onclick="toggleAbstract('abstractS1')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
         <div id="abstractS1" style="display:none; margin-top: 10px; font-size: 0.9em;">
