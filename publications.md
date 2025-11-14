@@ -11,25 +11,7 @@ title: "Publications"
 
 <ul style="list-style-type: none; padding: 0;">
 
-<li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
-    <!-- Text Section -->
-    <div style="flex: 3; padding-right: 5px;">
-        <strong>[S2] Nonlinear dynamics of air invasion in one-dimensional compliant fluid networks.</strong><br>
-        <span style="font-size: 0.9em;">Ludovic Jami, François-Xavier Gauci, Céline Cohen, Xavier Noblin & <strong>Ludovic Keiser</strong></span><br>
-        <em>arXiv:2503.19229 (2025)</em> 
-        [<a href="https://doi.org/10.48550/arXiv.2503.19229">arXiv</a>] 
-        [<a href="publications/Jami2025_arXiv.pdf">PDF</a>] 
-        <button onclick="toggleAbstract('abstractS2')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
-        <div id="abstractS2" style="display:none; margin-top: 10px; font-size: 0.9em;">
-            <strong>Abstract:</strong> Vascular networks exhibit a remarkable diversity of architectures and transport mechanisms across biological systems. Inspired by embolism propagation in plant xylem - where air invades water-filled conduits under negative pressure - we study air penetration in compliant one-dimensional hydrodynamic networks experiencing mass loss by pervaporation. Using a theoretical framework grounded in biomimetic models, we show that embolism dynamics are shaped by the interplay between network compliance and viscous dissipation. In particular, the competition between two timescales - the pressure diffusion time and the pervaporation time governs the emergence of complex, history-dependent behaviors. When these two timescales are comparable, we uncover previously unreported nonlinear feedback between the internal pressure field and the embolism front, leading to transient depressurization and delayed interface motion. These results offer a minimal framework for understanding embolism dynamics in slow-relaxing vascular systems and provide design principles for soft microfluidic circuits with tunable, nonlinear response.
-        </div>
-    </div>
 
-    <!-- Image Section -->
-    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: 10px;">
-        <img src="" alt="" style="height: 80px; width: auto; object-fit: contain;">
-    </div>
-</li>
     
 
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
@@ -56,7 +38,25 @@ title: "Publications"
 <strong style="color: #007acc;">Published</strong>
 
 <ul style="list-style-type: none; padding: 0;">
+<li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
+    <!-- Text Section -->
+    <div style="flex: 3; padding-right: 5px;">
+        <strong>[S2] Nonlinear dynamics of air invasion in one-dimensional compliant fluid networks.</strong><br>
+        <span style="font-size: 0.9em;">Ludovic Jami, François-Xavier Gauci, Céline Cohen, Xavier Noblin & <strong>Ludovic Keiser</strong></span><br>
+        <em>accepted manuscript in Physical Review E (2025)</em> 
+        [<a href="https://doi.org/10.48550/arXiv.2503.19229">arXiv</a>] 
+        [<a href="publications/Jami2025_arXiv.pdf">PDF</a>] 
+        <button onclick="toggleAbstract('abstractS2')" style="background:none; color:blue; border:none; cursor:pointer;">Show Abstract</button>
+        <div id="abstractS2" style="display:none; margin-top: 10px; font-size: 0.9em;">
+            <strong>Abstract:</strong> Vascular networks exhibit a remarkable diversity of architectures and transport mechanisms across biological systems. Inspired by embolism propagation in plant xylem - where air invades water-filled conduits under negative pressure - we study air penetration in compliant one-dimensional hydrodynamic networks experiencing mass loss by pervaporation. Using a theoretical framework grounded in biomimetic models, we show that embolism dynamics are shaped by the interplay between network compliance and viscous dissipation. In particular, the competition between two timescales (the pressure diffusion time and the pervaporation time) governs the emergence of complex, history-dependent behaviors. When these two timescales are comparable, we uncover a nonlinear feedback between the internal pressure field and the embolism front, leading to transient depressurization and delayed interface motion. These results offer a minimal framework for understanding embolism dynamics in slow-relaxing vascular systems and provide design principles for soft microfluidic circuits with tunable, nonlinear response.
+        </div>
+    </div>
 
+    <!-- Image Section -->
+    <div style="flex: 1; text-align: right; max-width: 100px; margin-right: 10px;">
+        <img src="" alt="" style="height: 80px; width: auto; object-fit: contain;">
+    </div>
+</li>
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
