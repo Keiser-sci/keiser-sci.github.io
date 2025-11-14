@@ -41,7 +41,7 @@ title: "Publications"
 <li style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 10px;">
     <!-- Text Section -->
     <div style="flex: 3; padding-right: 5px;">
-        <strong>[S2] Nonlinear dynamics of air invasion in one-dimensional compliant fluid networks.</strong><br>
+        <strong>[18] Nonlinear dynamics of air invasion in one-dimensional compliant fluid networks.</strong><br>
         <span style="font-size: 0.9em;">Ludovic Jami, François-Xavier Gauci, Céline Cohen, Xavier Noblin & <strong>Ludovic Keiser</strong></span><br>
         <em>accepted manuscript in Physical Review E (2025)</em> 
         [<a href="https://doi.org/10.48550/arXiv.2503.19229">arXiv</a>] 
