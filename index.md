@@ -24,7 +24,7 @@ Welcome to my personal research page. I am <strong>Ludovic Keiser</strong>, a [C
 
 - May 1, 2026: Jakob Lehmann, from Wuppertal Univ. (Germany), joined the team as a new engineer on the ERC Project EMBIOMO
 
-- September 4, 2025: I am pleased to announce that my proposal EMBIOMO has been awarded a **Starting Grant** by the European Research Council for the period 2026–2030. We will develop experimental and theoretical models to gain deeper insights into the dynamics of **embolism** in plant leaves
+- September 4, 2025: I am pleased to announce that my proposal [EMBIOMO](https://cordis.europa.eu/project/id/101221625) has been awarded a **Starting Grant** by the European Research Council for the period 2026–2030. We will develop experimental and theoretical models to gain deeper insights into the dynamics of **embolism** in plant leaves
 
 - We are organizing the fourth edition of the international conference "Fluids and Complexity", in December 3-5, 2025 in Nice, together with Baptiste Blanc (Univ. Côte d'Azur), Rudy Valette and Romain Castellani (Mines Paris PSL). Find more details on the [website](https://fcomplexity4.sciencesconf.org/), abstract submissions are still open.
 
