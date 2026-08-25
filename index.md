@@ -13,12 +13,16 @@ Welcome to my personal research page. I am <strong>Ludovic Keiser</strong>, a [C
 
 ## Research Interests
 
-- Plant hydraulics
-- Nonlinear flows in microfluidics
 - Interfacial hydrodynamics
+- Nonlinear flows in microfluidics
+- Plant hydraulics
 
 
 ## Latest News
+
+- June 1, 2026: [Paolo Botticini](https://bopaolo.github.io/), from Brescia Univ. (Italy) joined the team as a new postdoctoral researcher on the ERC Project EMBIOMO
+
+- May 1, 2026: Jakob Lehmann, from Wuppertal Univ. (Germany), joined the team as a new engineer on the ERC Project EMBIOMO
 
 - September 4, 2025: I am pleased to announce that my proposal EMBIOMO has been awarded a **Starting Grant** by the European Research Council for the period 2026–2030. We will develop experimental and theoretical models to gain deeper insights into the dynamics of **embolism** in plant leaves
 
