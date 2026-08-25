@@ -4,6 +4,10 @@ title: "Opportunities"
 ---
 # Opportunities
 
+<strong style="color: #007acc;">In general</strong>
+
+We are always seeking motivated students and young researchers to join our team. Feel free to contact me to discuss potential opportunities at: ludovic.keiser[at]univ-cotedazur.fr
+
 <strong style="color: #007acc;">Currently</strong>
 
 <div style="display: flex; align-items: center; background-color: #ffeb3b; padding: 20px; border: 2px solid #f57c00; border-radius: 5px; margin-bottom: 20px;">
@@ -25,7 +29,4 @@ For more information, contact us by email: ludovic.keiser[at]univ-cotedazur.fr</
 We are always happy to welcome Bachelor and Master students for internships (experimental, numerical or theoretical), contact us and we can discuss the perimeter of the internship that would suit best with the duration, your background and your interests.
 
 
-<strong style="color: #007acc;">In general</strong>
-
-We are always seeking motivated students and young researchers to join our team. Feel free to contact me to discuss potential opportunities at: ludovic.keiser[at]univ-cotedazur.fr
 
